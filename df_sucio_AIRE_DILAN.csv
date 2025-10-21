@@ -1,0 +1,2245 @@
+Estacion,Agrupacion,Fecha inicial,Fecha final,Parametro,Dias buenos,Dias aceptables,Dias malos,Dias muy malos,Dias extremadamente malos,Dias insuficientes,Unnamed: 11
+BINE : Benemerito Instituto Normal del Estado,2016-6,01/06/2016,30/06/2016,SO2,2,0,0.0,0.0,0,28,nan
+BINE : Benemerito Instituto Normal del Estado,2016-7,01/07/2016,31/07/2016,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2016-8,01/08/2016,31/08/2016,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2016-9,01/09/2016,30/09/2016,SO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2016-10,01/10/2016,31/10/2016,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2016-11,01/11/2016,30/11/2016,SO2,20,0,0.0,0.0,0,10,nan
+BINE : Benemerito Instituto Normal del Estado,2016-12,01/12/2016,31/12/2016,SO2,26,0,0.0,0.0,0,5,nan
+NIN : Las Ninfas,2016-1,,31/01/2016,SO2,,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-2,01/02/2016,29/02/2016,SO2,29,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-3,01/03/2016,31/03/2016,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-4,01/04/2016,30/04/2016,SO2,25,0,0.0,0.0,0,5,nan
+NIN : Las Ninfas,2016-5,01/05/2016,31/05/2016,SO2,21,0,0.0,0.0,0,10,nan
+NIN : Las Ninfas,2016-6,01/06/2016,30/06/2016,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-7,01/07/2016,31/07/2016,SO2,30,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2016-8,01/08/2016,31/08/2016,SO2,31,0,0.0,,0,0,nan
+NIN : Las Ninfas,2016-9,01/09/2016,30/09/2016,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-10,01/10/2016,31/10/2016,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-11,,30/11/2016,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-12,01/12/2016,31/12/2016,SO2,Auto%#,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-1,01/01/2016,31/01/2016,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-2,01/02/2016,29/02/2016,SO2,29,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-3,01/03/2016,31/03/2016,SO2,16,0,0.0,,0,15,nan
+STA : Agua Santa,2016-4,01/04/2016,30/04/2016,SO2,24,0,0.0,0.0,0,6,nan
+STA : Agua Santa,2016-5,01/05/2016,31/05/2016,SO2,16,0,0.0,0.0,0,15,nan
+STA : Agua Santa,2016-6,01/06/2016,30/06/2016,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-7,01/07/2016,31/07/2016,SO2,29,0,0.0,0.0,0,2,nan
+STA : Agua Santa,2016-8,01/08/2016,31/08/2016,SO2,27,0,0.0,0.0,0,4,nan
+STA : Agua Santa,2016-9,01/09/2016,30/09/2016,SO2,5,0,0.0,0.0,0,25,nan
+STA : Agua Santa,2016-10,01/10/2016,31/10/2016,SO2,18,0,0.0,0.0,0,13,nan
+STA : Agua Santa,2016-11,01/11/2016,30/11/2016,SO2,19,0,0.0,,0,11,nan
+STA : Agua Santa,2016-12,01/12/2016,31/12/2016,SO2,12,0,0.0,0.0,0,19,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-1,01/01/2016,31/01/2016,SO2,31,0,0.0,0.0,Auto%#,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-2,01/02/2016,29/02/2016,SO2,29,0,0.0,,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-3,01/03/2016,31/03/2016,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-4,01/04/2016,30/04/2016,SO2,,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-5,01/05/2016,31/05/2016,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-6,01/06/2016,30/06/2016,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-7,01/07/2016,31/07/2016,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-8,01/08/2016,31/08/2016,SO2,Auto%#,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-9,01/09/2016,30/09/2016,,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-10,01/10/2016,31/10/2016,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-11,01/11/2016,30/11/2016,Auto%#,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-12,01/12/2016,31/12/2016,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2016-2,,29/02/2016,SO2,29,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2016-3,,31/03/2016,SO2,3,0,0.0,0.0,0,28,nan
+Agregado,2016-6,01/06/2016,30/06/2016,SO2,,0,0.0,0.0,0,0,nan
+Agregado,2016-7,01/07/2016,31/07/2016,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,,01/08/2016,31/08/2016,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2016-9,01/09/2016,30/09/2016,SO2,30,,0.0,0.0,0,0,nan
+Agregado,2016-10,01/10/2016,31/10/2016,SO2,31,0,0.0,0.0,0,,nan
+Agregado,2016-11,01/11/2016,30/11/2016,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2016-12,01/12/2016,31/12/2016,SO2,31,,0.0,0.0,0,0,nan
+Agregado,2016-1,01/01/2016,31/01/2016,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,,01/02/2016,29/02/2016,SO2,29,0,0.0,0.0,,,nan
+Agregado,2016-3,01/03/2016,31/03/2016,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2016-4,01/04/2016,30/04/2016,SO2,30,,0.0,0.0,0,0,nan
+Agregado,2016-5,01/05/2016,31/05/2016,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2017-1,01/01/2017,31/01/2017,SO2,31,,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2017-2,01/02/2017,28/02/2017,SO2,26,0,0.0,0.0,0,,nan
+BINE : Benemerito Instituto Normal del Estado,2017-3,01/03/2017,31/03/2017,SO2,2,0,0.0,0.0,0,29,nan
+BINE : Benemerito Instituto Normal del Estado,,01/04/2017,30/04/2017,SO2,27,0,0.0,0.0,0,3,nan
+,2017-5,01/05/2017,31/05/2017,SO2,18,0,0.0,0.0,0,13,
+BINE : Benemerito Instituto Normal del Estado,2017-6,01/06/2017,30/06/2017,SO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2017-7,01/07/2017,31/07/2017,SO2,27,,0.0,0.0,0,4,nan
+BINE : Benemerito Instituto Normal del Estado,2017-8,01/08/2017,31/08/2017,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2017-9,01/09/2017,30/09/2017,SO2,26,0,,0.0,0,4,nan
+BINE : Benemerito Instituto Normal del Estado,2017-10,01/10/2017,31/10/2017,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2017-1,01/01/2017,31/01/2017,SO2,26,0,0.0,0.0,0,5,nan
+NIN : Las Ninfas,2017-2,01/02/2017,28/02/2017,SO2,20,0,0.0,0.0,0,8,nan
+NIN : Las Ninfas,2017-3,01/03/2017,31/03/2017,SO2,27,0,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2017-4,01/04/2017,30/04/2017,SO2,30,0,0.0,,0,0,nan
+NIN : Las Ninfas,2017-5,01/05/2017,31/05/2017,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2017-6,01/06/2017,30/06/2017,Auto%#,30,0,0.0,0.0,0,0,nan
+,2017-7,01/07/2017,31/07/2017,SO2,,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2017-8,01/08/2017,31/08/2017,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2017-9,01/09/2017,30/09/2017,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,,01/10/2017,31/10/2017,SO2,25,0,0.0,0.0,0,6,nan
+STA : Agua Santa,2017-1,01/01/2017,31/01/2017,SO2,28,0,0.0,0.0,0,3,nan
+STA : Agua Santa,2017-2,01/02/2017,28/02/2017,SO2,23,0,0.0,,0,5,nan
+STA : Agua Santa,2017-5,01/05/2017,31/05/2017,SO2,6,0,0.0,0.0,0,25,nan
+STA : Agua Santa,2017-6,01/06/2017,30/06/2017,SO2,28,0,0.0,0.0,0,Auto%#,nan
+STA : Agua Santa,2017-7,01/07/2017,31/07/2017,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-8,01/08/2017,31/08/2017,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-9,01/09/2017,30/09/2017,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-10,01/10/2017,31/10/2017,SO2,15,0,0.0,0.0,0,16,nan
+STA : Agua Santa,2017-11,01/11/2017,30/11/2017,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-12,01/12/2017,31/12/2017,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-1,01/01/2017,31/01/2017,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-2,01/02/2017,28/02/2017,,26,0,0.0,0.0,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-3,01/03/2017,31/03/2017,SO2,30,0,0.0,0.0,0,,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-4,01/04/2017,30/04/2017,SO2,25,0,0.0,0.0,0,5,nan
+Auto%#,2017-5,01/05/2017,31/05/2017,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-6,01/06/2017,30/06/2017,SO2,26,0,0.0,0.0,0,4,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-7,,31/07/2017,SO2,26,,0.0,0.0,0,5,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-8,01/08/2017,31/08/2017,SO2,31,0,0.0,0.0,0,0,
+UTP : Universidad Tecnol�gica de Puebla,2017-9,,30/09/2017,SO2,23,0,0.0,0.0,0,7,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-10,01/10/2017,31/10/2017,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-11,01/11/2017,30/11/2017,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-12,01/12/2017,,SO2,28,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2017-2,01/02/2017,28/02/2017,SO2,27,0,0.0,0.0,0,1,nan
+VEL : Velodromo,2017-3,01/03/2017,31/03/2017,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-4,01/04/2017,30/04/2017,SO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,,01/05/2017,31/05/2017,SO2,31,Auto%#,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-6,01/06/2017,30/06/2017,SO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-7,01/07/2017,31/07/2017,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-8,01/08/2017,31/08/2017,,31,0,0.0,0.0,0,Auto%#,nan
+VEL : Velodromo,2017-9,01/09/2017,30/09/2017,SO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,,01/10/2017,31/10/2017,SO2,28,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2017-11,01/11/2017,30/11/2017,SO2,26,0,0.0,0.0,0,4,nan
+VEL : Velodromo,2017-12,01/12/2017,31/12/2017,SO2,22,,0.0,0.0,0,9,nan
+Agregado,2017-1,01/01/2017,31/01/2017,SO2,Auto%#,0,0.0,0.0,0,,nan
+Agregado,2017-2,01/02/2017,28/02/2017,SO2,28,0,0.0,0.0,0,0,nan
+Agregado,2017-3,01/03/2017,31/03/2017,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2017-4,01/04/2017,30/04/2017,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2017-5,01/05/2017,31/05/2017,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2017-6,01/06/2017,30/06/2017,SO2,30,0,0.0,,0,0,nan
+Agregado,2017-7,01/07/2017,31/07/2017,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2017-8,01/08/2017,31/08/2017,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2017-9,01/09/2017,30/09/2017,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2017-10,01/10/2017,31/10/2017,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2017-11,01/11/2017,30/11/2017,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2017-12,,31/12/2017,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2018-2,01/02/2018,28/02/2018,SO2,26,0,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2018-3,01/03/2018,31/03/2018,SO2,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2018-4,01/04/2018,30/04/2018,SO2,24,0,0.0,0.0,0,Auto%#,nan
+BINE : Benemerito Instituto Normal del Estado,2018-5,01/05/2018,31/05/2018,SO2,23,0,0.0,0.0,0,8,nan
+BINE : Benemerito Instituto Normal del Estado,2018-6,01/06/2018,30/06/2018,SO2,21,0,0.0,0.0,Auto%#,9,nan
+BINE : Benemerito Instituto Normal del Estado,2018-7,,31/07/2018,SO2,24,0,0.0,0.0,0,7,nan
+BINE : Benemerito Instituto Normal del Estado,2018-8,01/08/2018,31/08/2018,SO2,31,0,0.0,0.0,0,0,nan
+,2018-9,01/09/2018,30/09/2018,SO2,,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2018-10,01/10/2018,31/10/2018,,30,0,0.0,0.0,0,1,nan
+BINE : Benemerito Instituto Normal del Estado,2018-11,01/11/2018,30/11/2018,SO2,25,0,0.0,0.0,0,5,nan
+BINE : Benemerito Instituto Normal del Estado,2018-12,01/12/2018,31/12/2018,SO2,27,0,,0.0,0,4,nan
+STA : Agua Santa,2018-1,01/01/2018,31/01/2018,SO2,22,0,0.0,0.0,0,9,nan
+STA : Agua Santa,2018-2,01/02/2018,28/02/2018,,21,0,0.0,0.0,0,7,nan
+STA : Agua Santa,2018-3,01/03/2018,31/03/2018,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-4,01/04/2018,30/04/2018,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-5,01/05/2018,31/05/2018,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-6,01/06/2018,30/06/2018,SO2,19,0,0.0,0.0,0,11,nan
+STA : Agua Santa,2018-7,01/07/2018,31/07/2018,SO2,25,0,0.0,0.0,0,6,nan
+STA : Agua Santa,2018-8,01/08/2018,31/08/2018,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-9,01/09/2018,30/09/2018,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-10,01/10/2018,31/10/2018,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-11,01/11/2018,30/11/2018,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-12,,31/12/2018,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-1,01/01/2018,31/01/2018,SO2,28,0,0.0,0.0,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-2,01/02/2018,28/02/2018,SO2,20,0,,0.0,0,,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-3,01/03/2018,31/03/2018,SO2,23,,0.0,0.0,0,8,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-4,01/04/2018,30/04/2018,SO2,27,0,,0.0,,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-5,01/05/2018,31/05/2018,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-6,01/06/2018,30/06/2018,SO2,26,0,0.0,0.0,0,4,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-7,01/07/2018,31/07/2018,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-8,01/08/2018,31/08/2018,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-9,01/09/2018,30/09/2018,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-10,01/10/2018,31/10/2018,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-11,01/11/2018,30/11/2018,SO2,Auto%#,0,0.0,0.0,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-12,01/12/2018,31/12/2018,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-1,01/01/2018,31/01/2018,SO2,28,0,0.0,0.0,,3,nan
+VEL : Velodromo,2018-2,01/02/2018,28/02/2018,SO2,28,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-3,01/03/2018,31/03/2018,SO2,31,0,0.0,0.0,0,,nan
+VEL : Velodromo,2018-4,01/04/2018,30/04/2018,SO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-5,01/05/2018,31/05/2018,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-6,01/06/2018,30/06/2018,,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-7,01/07/2018,31/07/2018,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-8,01/08/2018,31/08/2018,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-9,01/09/2018,30/09/2018,SO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-10,01/10/2018,31/10/2018,,29,0,0.0,0.0,0,Auto%#,nan
+VEL : Velodromo,2018-11,01/11/2018,30/11/2018,SO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-12,01/12/2018,31/12/2018,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2018-2,01/02/2018,28/02/2018,,28,0,0.0,0.0,0,0,nan
+Agregado,2018-3,01/03/2018,31/03/2018,SO2,31,0,0.0,0.0,0,0,nan
+Auto%#,2018-4,01/04/2018,30/04/2018,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2018-5,01/05/2018,31/05/2018,SO2,31,,0.0,0.0,0,0,nan
+Agregado,2018-6,01/06/2018,30/06/2018,SO2,30,0,0.0,,0,0,nan
+Agregado,2018-7,01/07/2018,31/07/2018,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2018-8,01/08/2018,31/08/2018,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2018-9,01/09/2018,30/09/2018,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2018-10,01/10/2018,31/10/2018,SO2,31,Auto%#,0.0,0.0,0,0,nan
+Agregado,2018-11,01/11/2018,30/11/2018,SO2,30,,0.0,0.0,0,,nan
+Agregado,2018-12,01/12/2018,31/12/2018,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2018-1,01/01/2018,31/01/2018,SO2,29,0,0.0,0.0,0,,nan
+BINE : Benemerito Instituto Normal del Estado,2019-1,01/01/2019,31/01/2019,SO2,22,Auto%#,0.0,0.0,0,,nan
+BINE : Benemerito Instituto Normal del Estado,2019-2,01/02/2019,28/02/2019,SO2,12,Auto%#,0.0,0.0,0,16,nan
+BINE : Benemerito Instituto Normal del Estado,2019-3,,31/03/2019,SO2,12,0,0.0,0.0,0,19,
+BINE : Benemerito Instituto Normal del Estado,2019-5,01/05/2019,31/05/2019,SO2,14,0,0.0,0.0,0,17,nan
+BINE : Benemerito Instituto Normal del Estado,2019-6,01/06/2019,30/06/2019,,26,0,0.0,0.0,0,4,nan
+BINE : Benemerito Instituto Normal del Estado,2019-7,01/07/2019,31/07/2019,,23,0,0.0,0.0,Auto%#,8,nan
+BINE : Benemerito Instituto Normal del Estado,2019-8,01/08/2019,31/08/2019,SO2,19,0,0.0,0.0,0,12,nan
+BINE : Benemerito Instituto Normal del Estado,2019-9,01/09/2019,30/09/2019,SO2,25,0,0.0,0.0,0,5,nan
+BINE : Benemerito Instituto Normal del Estado,2019-10,01/10/2019,31/10/2019,SO2,9,0,0.0,0.0,0,22,nan
+BINE : Benemerito Instituto Normal del Estado,2019-11,01/11/2019,30/11/2019,SO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2019-12,01/12/2019,31/12/2019,SO2,,0,0.0,0.0,0,17,nan
+STA : Agua Santa,2019-1,01/01/2019,31/01/2019,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2019-2,01/02/2019,28/02/2019,SO2,28,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2019-3,01/03/2019,31/03/2019,SO2,28,0,0.0,0.0,0,3,nan
+STA : Agua Santa,2019-4,01/04/2019,30/04/2019,SO2,7,0,0.0,0.0,0,23,nan
+STA : Agua Santa,2019-5,01/05/2019,31/05/2019,SO2,22,0,0.0,0.0,0,9,nan
+STA : Agua Santa,2019-6,01/06/2019,30/06/2019,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2019-7,01/07/2019,31/07/2019,SO2,14,0,0.0,0.0,0,17,nan
+STA : Agua Santa,2019-8,01/08/2019,31/08/2019,,27,0,0.0,0.0,0,4,nan
+STA : Agua Santa,2019-9,01/09/2019,30/09/2019,SO2,23,0,0.0,0.0,0,7,nan
+STA : Agua Santa,2019-10,01/10/2019,31/10/2019,SO2,22,0,0.0,0.0,0,9,nan
+STA : Agua Santa,2019-11,01/11/2019,30/11/2019,SO2,18,0,0.0,0.0,0,,nan
+STA : Agua Santa,2019-12,01/12/2019,31/12/2019,SO2,24,0,0.0,0.0,0,7,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-1,01/01/2019,31/01/2019,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-2,01/02/2019,28/02/2019,SO2,28,0,0.0,0.0,0,0,nan
+Auto%#,2019-3,01/03/2019,31/03/2019,SO2,31,0,0.0,0.0,0,,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-4,01/04/2019,30/04/2019,SO2,25,0,0.0,0.0,0,5,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-5,01/05/2019,31/05/2019,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-6,01/06/2019,30/06/2019,SO2,28,0,0.0,0.0,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-7,01/07/2019,31/07/2019,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-8,01/08/2019,31/08/2019,SO2,21,0,0.0,0.0,,10,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-9,01/09/2019,30/09/2019,SO2,29,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-10,01/10/2019,31/10/2019,SO2,25,0,0.0,0.0,0,6,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-11,01/11/2019,30/11/2019,SO2,21,0,0.0,0.0,0,9,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-12,01/12/2019,31/12/2019,SO2,21,0,0.0,0.0,0,10,nan
+VEL : Velodromo,2019-1,01/01/2019,31/01/2019,SO2,31,0,0.0,0.0,0,0,nan
+,2019-2,01/02/2019,28/02/2019,SO2,28,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2019-4,01/04/2019,30/04/2019,SO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2019-5,01/05/2019,31/05/2019,SO2,13,0,0.0,0.0,0,18,nan
+VEL : Velodromo,2019-7,01/07/2019,31/07/2019,SO2,20,0,0.0,0.0,0,11,nan
+VEL : Velodromo,2019-8,01/08/2019,31/08/2019,SO2,22,0,0.0,0.0,0,9,nan
+VEL : Velodromo,2019-9,01/09/2019,30/09/2019,SO2,27,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2019-10,01/10/2019,31/10/2019,SO2,14,0,,0.0,0,,nan
+VEL : Velodromo,2019-11,01/11/2019,30/11/2019,SO2,16,0,0.0,0.0,0,14,nan
+,2019-12,01/12/2019,31/12/2019,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2019-1,01/01/2019,31/01/2019,Auto%#,31,0,,,0,0,nan
+Agregado,2019-2,01/02/2019,28/02/2019,SO2,28,0,0.0,0.0,0,0,nan
+Agregado,2019-3,01/03/2019,31/03/2019,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2019-5,01/05/2019,31/05/2019,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2019-6,01/06/2019,30/06/2019,SO2,,0,0.0,0.0,0,0,nan
+Agregado,2019-7,01/07/2019,31/07/2019,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2019-8,01/08/2019,31/08/2019,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2019-9,01/09/2019,30/09/2019,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,,01/10/2019,31/10/2019,SO2,29,0,0.0,0.0,0,2,nan
+Agregado,2019-11,01/11/2019,30/11/2019,,30,0,0.0,0.0,0,0,nan
+Agregado,2019-12,01/12/2019,31/12/2019,SO2,31,0,0.0,0.0,,0,nan
+Agregado,2019-4,01/04/2019,30/04/2019,SO2,30,0,0.0,,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-1,01/01/2020,31/01/2020,SO2,30,0,0.0,0.0,0,1,nan
+BINE : Benemerito Instituto Normal del Estado,2020-2,01/02/2020,29/02/2020,SO2,19,0,0.0,0.0,0,10,nan
+BINE : Benemerito Instituto Normal del Estado,2020-3,01/03/2020,31/03/2020,SO2,21,,0.0,0.0,0,10,nan
+BINE : Benemerito Instituto Normal del Estado,2020-4,01/04/2020,30/04/2020,SO2,17,0,0.0,0.0,0,,nan
+BINE : Benemerito Instituto Normal del Estado,2020-5,01/05/2020,31/05/2020,SO2,25,0,0.0,0.0,0,6,nan
+BINE : Benemerito Instituto Normal del Estado,2020-6,01/06/2020,30/06/2020,SO2,4,0,0.0,0.0,0,26,nan
+BINE : Benemerito Instituto Normal del Estado,2020-10,01/10/2020,31/10/2020,SO2,29,0,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2020-11,01/11/2020,30/11/2020,SO2,14,0,0.0,0.0,0,16,nan
+BINE : Benemerito Instituto Normal del Estado,2020-12,01/12/2020,31/12/2020,SO2,10,0,0.0,0.0,0,21,nan
+NIN : Las Ninfas,2020-7,01/07/2020,31/07/2020,SO2,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2020-8,01/08/2020,31/08/2020,SO2,27,0,0.0,0.0,,4,nan
+NIN : Las Ninfas,2020-9,01/09/2020,30/09/2020,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2020-10,01/10/2020,31/10/2020,Auto%#,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2020-11,01/11/2020,30/11/2020,SO2,24,0,0.0,0.0,0,6,nan
+NIN : Las Ninfas,2020-12,01/12/2020,31/12/2020,SO2,31,Auto%#,0.0,0.0,0,0,nan
+STA : Agua Santa,2020-1,01/01/2020,31/01/2020,SO2,26,0,0.0,0.0,0,5,nan
+STA : Agua Santa,2020-2,01/02/2020,29/02/2020,SO2,25,0,0.0,,0,4,nan
+STA : Agua Santa,2020-3,01/03/2020,31/03/2020,SO2,24,0,0.0,0.0,0,7,nan
+STA : Agua Santa,2020-4,01/04/2020,30/04/2020,SO2,20,0,0.0,0.0,0,10,nan
+STA : Agua Santa,2020-5,01/05/2020,31/05/2020,SO2,26,0,0.0,0.0,0,5,nan
+STA : Agua Santa,2020-6,01/06/2020,30/06/2020,SO2,23,0,0.0,0.0,0,7,nan
+STA : Agua Santa,2020-7,01/07/2020,31/07/2020,SO2,30,0,0.0,0.0,0,1,nan
+STA : Agua Santa,2020-8,01/08/2020,31/08/2020,SO2,Auto%#,0,0.0,0.0,0,12,nan
+STA : Agua Santa,2020-9,01/09/2020,30/09/2020,SO2,27,0,0.0,0.0,0,3,nan
+STA : Agua Santa,,01/10/2020,31/10/2020,SO2,30,0,0.0,0.0,0,1,nan
+Auto%#,2020-11,01/11/2020,30/11/2020,SO2,26,0,0.0,0.0,,4,nan
+STA : Agua Santa,2020-12,01/12/2020,31/12/2020,SO2,8,0,0.0,0.0,0,23,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-1,01/01/2020,31/01/2020,SO2,29,0,0.0,0.0,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-2,01/02/2020,29/02/2020,SO2,27,0,0.0,0.0,0,2,nan
+,2020-3,01/03/2020,31/03/2020,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-4,01/04/2020,30/04/2020,SO2,30,0,0.0,0.0,0,0,
+UTP : Universidad Tecnol�gica de Puebla,2020-5,01/05/2020,31/05/2020,SO2,8,0,0.0,0.0,0,23,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-7,01/07/2020,31/07/2020,,13,0,0.0,0.0,0,18,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-11,01/11/2020,30/11/2020,SO2,6,0,0.0,0.0,0,24,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-12,01/12/2020,31/12/2020,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,,01/01/2020,31/01/2020,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-2,01/02/2020,29/02/2020,SO2,29,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-3,01/03/2020,31/03/2020,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-4,01/04/2020,30/04/2020,SO2,14,0,0.0,0.0,0,16,nan
+VEL : Velodromo,2020-5,01/05/2020,31/05/2020,SO2,17,0,0.0,0.0,0,14,nan
+VEL : Velodromo,2020-11,01/11/2020,30/11/2020,SO2,6,0,0.0,0.0,0,24,nan
+VEL : Velodromo,2020-12,01/12/2020,,SO2,30,0,0.0,0.0,0,1,nan
+Agregado,2020-1,01/01/2020,31/01/2020,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2020-2,01/02/2020,29/02/2020,,29,0,0.0,0.0,0,0,nan
+Agregado,2020-3,01/03/2020,31/03/2020,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2020-4,01/04/2020,30/04/2020,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2020-5,01/05/2020,31/05/2020,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2020-6,01/06/2020,30/06/2020,SO2,23,0,0.0,0.0,0,7,nan
+Agregado,2020-10,01/10/2020,31/10/2020,SO2,31,0,0.0,0.0,0,0,nan
+Auto%#,2020-11,01/11/2020,30/11/2020,Auto%#,30,0,0.0,0.0,0,,nan
+Agregado,2020-12,01/12/2020,31/12/2020,SO2,31,0,0.0,0.0,0,0,nan
+Auto%#,2020-7,01/07/2020,31/07/2020,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2020-8,01/08/2020,,SO2,30,0,0.0,0.0,0,1,nan
+Agregado,2020-9,01/09/2020,30/09/2020,SO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-1,01/01/2021,31/01/2021,SO2,26,0,0.0,0.0,0,,nan
+BINE : Benemerito Instituto Normal del Estado,2021-2,01/02/2021,28/02/2021,SO2,27,0,0.0,0.0,0,1,nan
+BINE : Benemerito Instituto Normal del Estado,2021-3,01/03/2021,31/03/2021,SO2,29,0,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2021-4,01/04/2021,30/04/2021,SO2,28,0,0.0,0.0,0,2,
+BINE : Benemerito Instituto Normal del Estado,2021-5,01/05/2021,31/05/2021,SO2,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2021-6,01/06/2021,30/06/2021,SO2,21,0,0.0,0.0,0,9,nan
+BINE : Benemerito Instituto Normal del Estado,2021-7,01/07/2021,31/07/2021,SO2,31,0,0.0,0.0,0,0,nan
+Auto%#,2021-8,01/08/2021,31/08/2021,SO2,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2021-9,01/09/2021,,SO2,27,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2021-10,01/10/2021,31/10/2021,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,0,,nan
+BINE : Benemerito Instituto Normal del Estado,2021-12,01/12/2021,31/12/2021,SO2,31,0,0.0,0.0,0,Auto%#,nan
+NIN : Las Ninfas,2021-1,01/01/2021,31/01/2021,SO2,31,0,0.0,0.0,,0,nan
+NIN : Las Ninfas,2021-2,01/02/2021,28/02/2021,SO2,27,0,0.0,0.0,0,1,nan
+Auto%#,2021-3,01/03/2021,31/03/2021,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-4,01/04/2021,30/04/2021,SO2,27,0,0.0,0.0,0,3,nan
+NIN : Las Ninfas,2021-5,01/05/2021,31/05/2021,Auto%#,30,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2021-6,,30/06/2021,SO2,30,0,,0.0,0,0,nan
+NIN : Las Ninfas,2021-7,01/07/2021,31/07/2021,SO2,,0,0.0,0.0,0,9,nan
+NIN : Las Ninfas,2021-8,01/08/2021,31/08/2021,SO2,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2021-9,01/09/2021,30/09/2021,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,,01/10/2021,31/10/2021,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-12,,31/12/2021,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-2,01/02/2021,28/02/2021,SO2,Auto%#,0,0.0,0.0,0,17,nan
+STA : Agua Santa,2021-3,01/03/2021,31/03/2021,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-4,01/04/2021,30/04/2021,SO2,30,0,,0.0,0,0,nan
+STA : Agua Santa,2021-5,01/05/2021,31/05/2021,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-6,01/06/2021,30/06/2021,SO2,30,0,0.0,,Auto%#,0,nan
+STA : Agua Santa,2021-7,01/07/2021,31/07/2021,SO2,12,0,0.0,0.0,0,19,nan
+STA : Agua Santa,2021-10,01/10/2021,31/10/2021,SO2,6,0,0.0,0.0,0,25,nan
+STA : Agua Santa,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-12,01/12/2021,31/12/2021,SO2,28,0,0.0,0.0,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-1,01/01/2021,31/01/2021,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-2,01/02/2021,28/02/2021,SO2,27,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-3,01/03/2021,31/03/2021,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-4,01/04/2021,30/04/2021,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-5,01/05/2021,,SO2,31,0,0.0,,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-6,01/06/2021,30/06/2021,SO2,9,,0.0,0.0,0,21,
+UTP : Universidad Tecnol�gica de Puebla,2021-7,01/07/2021,31/07/2021,SO2,30,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-8,01/08/2021,31/08/2021,SO2,30,,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-9,01/09/2021,30/09/2021,Auto%#,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-10,01/10/2021,31/10/2021,SO2,30,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-12,01/12/2021,31/12/2021,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2021-1,01/01/2021,31/01/2021,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2021-2,01/02/2021,28/02/2021,SO2,15,0,0.0,0.0,,13,nan
+VEL : Velodromo,2021-3,,31/03/2021,SO2,15,0,0.0,0.0,0,16,nan
+VEL : Velodromo,2021-4,01/04/2021,30/04/2021,SO2,28,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2021-5,01/05/2021,31/05/2021,SO2,26,0,0.0,0.0,0,5,nan
+VEL : Velodromo,2021-6,01/06/2021,30/06/2021,SO2,26,Auto%#,0.0,0.0,0,4,nan
+VEL : Velodromo,2021-7,01/07/2021,31/07/2021,SO2,27,0,0.0,0.0,0,4,nan
+VEL : Velodromo,2021-8,01/08/2021,31/08/2021,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2021-9,01/09/2021,30/09/2021,SO2,15,0,0.0,0.0,0,15,nan
+Agregado,2021-1,01/01/2021,31/01/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-2,01/02/2021,,SO2,28,0,0.0,0.0,,0,nan
+Agregado,2021-3,01/03/2021,31/03/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-4,,30/04/2021,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2021-5,01/05/2021,31/05/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-6,01/06/2021,30/06/2021,SO2,30,0,0.0,0.0,0,Auto%#,nan
+Agregado,2021-7,01/07/2021,31/07/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-8,01/08/2021,31/08/2021,SO2,31,0,,0.0,0,0,nan
+Agregado,2021-9,01/09/2021,30/09/2021,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2021-10,01/10/2021,31/10/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,Auto%#,0,nan
+Agregado,2021-12,01/12/2021,31/12/2021,SO2,31,Auto%#,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-1,01/01/2021,31/01/2021,SO2,26,0,0.0,0.0,0,5,nan
+,2021-2,01/02/2021,28/02/2021,SO2,27,0,0.0,0.0,0,1,nan
+BINE : Benemerito Instituto Normal del Estado,2021-3,01/03/2021,31/03/2021,SO2,29,0,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2021-4,01/04/2021,30/04/2021,SO2,28,0,0.0,0.0,0,,nan
+,2021-5,01/05/2021,31/05/2021,SO2,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2021-6,01/06/2021,30/06/2021,SO2,21,0,0.0,0.0,0,9,nan
+BINE : Benemerito Instituto Normal del Estado,2021-7,01/07/2021,31/07/2021,SO2,31,0,0.0,0.0,,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-8,01/08/2021,31/08/2021,SO2,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2021-9,01/09/2021,30/09/2021,SO2,27,0,0.0,0.0,0,,nan
+BINE : Benemerito Instituto Normal del Estado,2021-10,01/10/2021,31/10/2021,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-12,01/12/2021,31/12/2021,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-1,01/01/2021,31/01/2021,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-2,01/02/2021,28/02/2021,SO2,27,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2021-3,01/03/2021,31/03/2021,,31,Auto%#,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-4,01/04/2021,30/04/2021,SO2,27,0,0.0,0.0,0,3,nan
+NIN : Las Ninfas,2021-5,01/05/2021,31/05/2021,SO2,30,,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2021-6,01/06/2021,30/06/2021,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-7,01/07/2021,31/07/2021,SO2,22,0,0.0,0.0,0,9,nan
+NIN : Las Ninfas,2021-8,01/08/2021,31/08/2021,SO2,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2021-9,01/09/2021,30/09/2021,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-10,01/10/2021,31/10/2021,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-12,01/12/2021,31/12/2021,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-2,01/02/2021,28/02/2021,SO2,11,0,0.0,0.0,0,17,nan
+STA : Agua Santa,2021-3,01/03/2021,31/03/2021,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-4,01/04/2021,30/04/2021,,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-5,01/05/2021,31/05/2021,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-6,01/06/2021,30/06/2021,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-7,01/07/2021,31/07/2021,SO2,12,0,0.0,0.0,0,19,nan
+STA : Agua Santa,2021-10,01/10/2021,31/10/2021,SO2,6,0,0.0,0.0,0,25,nan
+STA : Agua Santa,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-12,01/12/2021,31/12/2021,SO2,28,0,0.0,0.0,0,3,
+UTP : Universidad Tecnol�gica de Puebla,2021-1,01/01/2021,31/01/2021,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-2,01/02/2021,28/02/2021,SO2,Auto%#,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-3,01/03/2021,31/03/2021,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-4,01/04/2021,30/04/2021,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-5,01/05/2021,,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-6,01/06/2021,30/06/2021,SO2,Auto%#,0,0.0,0.0,0,21,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-7,01/07/2021,31/07/2021,SO2,,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-8,01/08/2021,31/08/2021,SO2,30,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-9,01/09/2021,30/09/2021,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-10,01/10/2021,,SO2,30,0,0.0,0.0,0,,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,,01/12/2021,31/12/2021,SO2,31,0,0.0,0.0,,0,nan
+VEL : Velodromo,,,31/01/2021,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2021-2,01/02/2021,28/02/2021,SO2,15,0,0.0,0.0,0,13,nan
+VEL : Velodromo,2021-3,01/03/2021,31/03/2021,SO2,15,0,0.0,0.0,0,16,nan
+VEL : Velodromo,2021-4,01/04/2021,30/04/2021,SO2,28,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2021-5,01/05/2021,31/05/2021,SO2,26,0,0.0,0.0,0,5,nan
+VEL : Velodromo,2021-6,01/06/2021,30/06/2021,SO2,26,0,0.0,0.0,0,4,nan
+VEL : Velodromo,2021-7,01/07/2021,31/07/2021,SO2,27,0,0.0,0.0,0,4,nan
+VEL : Velodromo,2021-8,01/08/2021,31/08/2021,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2021-9,01/09/2021,30/09/2021,SO2,15,0,0.0,0.0,0,15,nan
+Agregado,2021-1,01/01/2021,31/01/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-2,01/02/2021,28/02/2021,SO2,28,0,0.0,0.0,0,0,nan
+Agregado,2021-3,01/03/2021,31/03/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-4,01/04/2021,30/04/2021,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2021-5,01/05/2021,31/05/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-6,01/06/2021,30/06/2021,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2021-7,01/07/2021,31/07/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-8,01/08/2021,31/08/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,,01/09/2021,30/09/2021,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2021-10,01/10/2021,31/10/2021,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2021-12,01/12/2021,31/12/2021,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-1,01/01/2022,31/01/2022,SO2,31,0,0.0,0.0,,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-2,01/02/2022,28/02/2022,SO2,14,0,0.0,0.0,0,14,nan
+BINE : Benemerito Instituto Normal del Estado,2022-3,01/03/2022,31/03/2022,SO2,9,0,0.0,0.0,0,22,nan
+BINE : Benemerito Instituto Normal del Estado,2022-4,01/04/2022,30/04/2022,,24,0,0.0,0.0,0,6,nan
+BINE : Benemerito Instituto Normal del Estado,,01/05/2022,31/05/2022,SO2,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2022-6,01/06/2022,30/06/2022,SO2,29,0,0.0,,0,1,nan
+BINE : Benemerito Instituto Normal del Estado,2022-7,01/07/2022,31/07/2022,SO2,27,0,0.0,0.0,0,4,nan
+BINE : Benemerito Instituto Normal del Estado,2022-8,01/08/2022,31/08/2022,SO2,22,0,0.0,0.0,0,9,nan
+BINE : Benemerito Instituto Normal del Estado,2022-9,01/09/2022,30/09/2022,SO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-10,01/10/2022,31/10/2022,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-11,01/11/2022,30/11/2022,SO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-12,01/12/2022,31/12/2022,SO2,28,0,0.0,0.0,0,3,nan
+NIN : Las Ninfas,2022-1,01/01/2022,31/01/2022,SO2,27,0,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2022-2,01/02/2022,28/02/2022,SO2,19,0,0.0,0.0,0,9,nan
+Auto%#,2022-3,01/03/2022,31/03/2022,SO2,14,0,0.0,0.0,0,17,nan
+NIN : Las Ninfas,2022-4,01/04/2022,30/04/2022,SO2,7,0,0.0,0.0,0,23,nan
+NIN : Las Ninfas,2022-5,01/05/2022,31/05/2022,SO2,25,0,0.0,0.0,0,6,nan
+,2022-6,01/06/2022,30/06/2022,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-7,01/07/2022,31/07/2022,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-8,01/08/2022,31/08/2022,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-9,01/09/2022,30/09/2022,SO2,30,0,0.0,0.0,0,,nan
+NIN : Las Ninfas,2022-10,01/10/2022,31/10/2022,SO2,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2022-11,01/11/2022,30/11/2022,SO2,27,0,0.0,0.0,0,3,nan
+NIN : Las Ninfas,2022-12,01/12/2022,31/12/2022,SO2,30,0,0.0,0.0,0,1,nan
+STA : Agua Santa,2022-1,01/01/2022,31/01/2022,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-2,,28/02/2022,SO2,28,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-3,01/03/2022,31/03/2022,SO2,30,0,0.0,0.0,0,1,nan
+STA : Agua Santa,2022-4,01/04/2022,30/04/2022,Auto%#,,0,0.0,0.0,0,0,nan
+,2022-5,01/05/2022,31/05/2022,SO2,31,0,0.0,0.0,,0,nan
+STA : Agua Santa,2022-6,01/06/2022,30/06/2022,SO2,30,0,0.0,0.0,0,0,
+STA : Agua Santa,2022-7,01/07/2022,31/07/2022,SO2,31,0,0.0,0.0,0,,nan
+STA : Agua Santa,2022-8,01/08/2022,31/08/2022,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-9,,30/09/2022,SO2,30,0,0.0,0.0,0,0,nan
+Auto%#,,,31/10/2022,SO2,26,0,,0.0,0,5,nan
+STA : Agua Santa,2022-11,01/11/2022,30/11/2022,SO2,14,0,0.0,0.0,0,16,nan
+STA : Agua Santa,2022-12,01/12/2022,31/12/2022,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-1,01/01/2022,31/01/2022,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-2,01/02/2022,28/02/2022,SO2,28,0,,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-3,01/03/2022,31/03/2022,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-4,01/04/2022,30/04/2022,,24,0,0.0,0.0,0,6,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-5,01/05/2022,31/05/2022,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,,,30/06/2022,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-7,01/07/2022,31/07/2022,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-8,01/08/2022,31/08/2022,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-9,01/09/2022,30/09/2022,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-10,01/10/2022,31/10/2022,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-11,01/11/2022,30/11/2022,SO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-12,01/12/2022,31/12/2022,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2022-3,01/03/2022,31/03/2022,SO2,9,0,0.0,0.0,0,22,nan
+VEL : Velodromo,2022-4,01/04/2022,30/04/2022,SO2,30,0,0.0,0.0,0,,nan
+VEL : Velodromo,2022-5,01/05/2022,31/05/2022,SO2,14,0,0.0,0.0,0,Auto%#,nan
+VEL : Velodromo,2022-6,01/06/2022,30/06/2022,SO2,21,0,0.0,0.0,0,9,nan
+VEL : Velodromo,2022-7,01/07/2022,31/07/2022,SO2,30,0,0.0,0.0,0,1,nan
+VEL : Velodromo,2022-11,01/11/2022,30/11/2022,SO2,2,0,0.0,,0,28,nan
+,2022-12,01/12/2022,31/12/2022,,10,0,0.0,0.0,,21,nan
+Agregado,2022-1,01/01/2022,31/01/2022,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2022-2,01/02/2022,28/02/2022,SO2,28,0,0.0,0.0,0,0,nan
+Agregado,2022-3,01/03/2022,31/03/2022,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2022-4,01/04/2022,30/04/2022,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2022-5,01/05/2022,31/05/2022,SO2,31,0,0.0,0.0,0,Auto%#,nan
+Agregado,2022-6,01/06/2022,30/06/2022,SO2,30,0,0.0,0.0,0,0,nan
+,2022-7,01/07/2022,31/07/2022,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2022-8,01/08/2022,31/08/2022,SO2,31,0,0.0,0.0,0,,
+Agregado,2022-9,01/09/2022,30/09/2022,SO2,30,0,0.0,0.0,,0,nan
+Agregado,2022-10,01/10/2022,31/10/2022,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2022-11,01/11/2022,30/11/2022,SO2,Auto%#,0,0.0,0.0,0,0,nan
+Agregado,2022-12,01/12/2022,31/12/2022,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-7,01/07/2016,31/07/2016,NO2,9,0,0.0,0.0,0,22,nan
+NIN : Las Ninfas,2016-8,01/08/2016,31/08/2016,NO2,28,2,0.0,0.0,1,0,nan
+NIN : Las Ninfas,2016-9,01/09/2016,30/09/2016,NO2,26,1,2.0,1.0,0,0,nan
+NIN : Las Ninfas,2016-11,01/11/2016,30/11/2016,NO2,13,1,0.0,0.0,0,16,nan
+STA : Agua Santa,2016-1,01/01/2016,31/01/2016,NO2,0,11,2.0,0.0,0,18,nan
+STA : Agua Santa,2016-2,01/02/2016,29/02/2016,NO2,1,23,5.0,0.0,0,0,nan
+STA : Agua Santa,2016-3,01/03/2016,31/03/2016,NO2,0,15,1.0,0.0,0,15,nan
+STA : Agua Santa,2016-4,01/04/2016,30/04/2016,NO2,1,22,1.0,0.0,0,6,nan
+STA : Agua Santa,2016-5,01/05/2016,31/05/2016,NO2,9,5,0.0,0.0,0,17,nan
+STA : Agua Santa,2016-6,01/06/2016,30/06/2016,NO2,30,0,,,0,0,nan
+,2016-7,01/07/2016,31/07/2016,NO2,29,0,0.0,0.0,0,2,nan
+STA : Agua Santa,2016-8,01/08/2016,31/08/2016,NO2,27,0,0.0,0.0,0,4,nan
+STA : Agua Santa,2016-9,01/09/2016,30/09/2016,NO2,1,0,0.0,0.0,0,Auto%#,nan
+STA : Agua Santa,2016-10,01/10/2016,31/10/2016,NO2,15,0,0.0,0.0,0,16,nan
+,2016-11,01/11/2016,,NO2,8,4,0.0,0.0,0,18,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-1,01/01/2016,31/01/2016,NO2,28,1,0.0,,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-2,01/02/2016,29/02/2016,NO2,28,1,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-3,01/03/2016,31/03/2016,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-4,01/04/2016,30/04/2016,NO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-5,01/05/2016,31/05/2016,NO2,31,,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-6,01/06/2016,30/06/2016,NO2,30,0,0.0,0.0,0,,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-7,01/07/2016,31/07/2016,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-8,01/08/2016,,NO2,31,Auto%#,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-9,01/09/2016,30/09/2016,NO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-10,01/10/2016,31/10/2016,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-11,01/11/2016,30/11/2016,NO2,28,2,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-12,,31/12/2016,NO2,27,4,0.0,0.0,0,0,nan
+Agregado,2016-7,01/07/2016,31/07/2016,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2016-8,01/08/2016,31/08/2016,NO2,28,2,0.0,0.0,1,0,nan
+Agregado,2016-9,01/09/2016,30/09/2016,NO2,26,1,2.0,1.0,0,0,nan
+Agregado,2016-11,01/11/2016,30/11/2016,,23,7,0.0,0.0,0,0,nan
+Agregado,2016-1,01/01/2016,31/01/2016,NO2,16,11,2.0,0.0,0,2,nan
+Agregado,2016-2,01/02/2016,29/02/2016,NO2,1,23,5.0,0.0,,0,nan
+Agregado,2016-3,01/03/2016,31/03/2016,NO2,15,15,1.0,0.0,0,0,nan
+Agregado,2016-4,01/04/2016,30/04/2016,,7,22,1.0,0.0,0,0,nan
+Agregado,2016-5,01/05/2016,31/05/2016,NO2,26,5,0.0,0.0,0,0,nan
+Agregado,2016-6,01/06/2016,30/06/2016,NO2,30,0,0.0,0.0,0,0,nan
+Agregado,2016-10,01/10/2016,31/10/2016,NO2,Auto%#,0,,0.0,Auto%#,0,nan
+,2016-12,01/12/2016,31/12/2016,NO2,27,4,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2017-1,01/01/2017,31/01/2017,NO2,10,0,0.0,0.0,0,21,nan
+NIN : Las Ninfas,2017-2,01/02/2017,28/02/2017,NO2,23,0,0.0,0.0,0,5,nan
+NIN : Las Ninfas,2017-3,01/03/2017,31/03/2017,NO2,27,0,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2017-5,01/05/2017,31/05/2017,NO2,8,0,0.0,0.0,0,23,nan
+NIN : Las Ninfas,2017-6,01/06/2017,30/06/2017,NO2,Auto%#,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2017-7,01/07/2017,31/07/2017,NO2,23,6,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2017-8,01/08/2017,31/08/2017,NO2,28,3,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2017-9,01/09/2017,30/09/2017,NO2,28,2,0.0,,0,0,nan
+NIN : Las Ninfas,2017-10,01/10/2017,31/10/2017,NO2,27,4,0.0,0.0,0,,nan
+NIN : Las Ninfas,2017-11,01/11/2017,30/11/2017,NO2,20,10,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2017-12,,31/12/2017,NO2,22,0,0.0,0.0,0,9,nan
+STA : Agua Santa,2017-1,01/01/2017,31/01/2017,NO2,6,8,0.0,0.0,0,17,nan
+STA : Agua Santa,2017-2,01/02/2017,28/02/2017,NO2,8,15,0.0,0.0,0,5,nan
+STA : Agua Santa,2017-5,01/05/2017,31/05/2017,NO2,3,1,0.0,0.0,0,27,nan
+STA : Agua Santa,2017-6,01/06/2017,30/06/2017,NO2,22,6,0.0,0.0,0,2,nan
+STA : Agua Santa,2017-7,01/07/2017,31/07/2017,NO2,29,2,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-8,01/08/2017,31/08/2017,NO2,23,4,2.0,2.0,0,0,nan
+Auto%#,2017-9,01/09/2017,30/09/2017,NO2,28,0,0.0,0.0,0,2,nan
+STA : Agua Santa,2017-10,01/10/2017,31/10/2017,NO2,15,0,0.0,0.0,0,16,nan
+STA : Agua Santa,2017-11,01/11/2017,30/11/2017,NO2,10,12,0.0,0.0,0,8,nan
+STA : Agua Santa,2017-12,01/12/2017,31/12/2017,NO2,21,10,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-1,01/01/2017,31/01/2017,NO2,17,14,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-2,01/02/2017,28/02/2017,NO2,21,5,0.0,0.0,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-3,01/03/2017,,NO2,24,7,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-4,,30/04/2017,NO2,21,9,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-5,01/05/2017,31/05/2017,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-6,01/06/2017,30/06/2017,NO2,30,0,0.0,0.0,,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-7,01/07/2017,31/07/2017,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-8,01/08/2017,31/08/2017,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-9,,30/09/2017,NO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-10,01/10/2017,31/10/2017,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-11,01/11/2017,30/11/2017,NO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-12,01/12/2017,31/12/2017,NO2,28,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2017-1,01/01/2017,31/01/2017,NO2,31,0,0.0,0.0,0,0,nan
+Auto%#,2017-2,01/02/2017,28/02/2017,NO2,,9,0.0,0.0,0,7,nan
+VEL : Velodromo,2017-3,01/03/2017,31/03/2017,NO2,27,4,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-4,01/04/2017,30/04/2017,NO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-5,01/05/2017,31/05/2017,NO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-6,,30/06/2017,NO2,19,0,0.0,0.0,0,11,nan
+VEL : Velodromo,2017-7,,31/07/2017,NO2,2,Auto%#,0.0,0.0,0,7,nan
+VEL : Velodromo,2017-8,01/08/2017,31/08/2017,NO2,5,Auto%#,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-9,01/09/2017,30/09/2017,NO2,22,8,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-10,01/10/2017,31/10/2017,NO2,27,0,0.0,0.0,0,4,nan
+VEL : Velodromo,2017-11,01/11/2017,30/11/2017,NO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-12,01/12/2017,31/12/2017,NO2,31,0,0.0,,0,0,nan
+Agregado,2017-1,01/01/2017,31/01/2017,NO2,13,18,0.0,0.0,0,0,nan
+Agregado,2017-2,01/02/2017,28/02/2017,NO2,7,21,0.0,0.0,0,0,nan
+Agregado,2017-3,01/03/2017,31/03/2017,NO2,21,10,0.0,0.0,0,0,nan
+Agregado,2017-5,01/05/2017,31/05/2017,NO2,30,,0.0,0.0,0,0,nan
+Agregado,2017-6,01/06/2017,30/06/2017,NO2,24,6,0.0,0.0,0,0,nan
+Agregado,2017-7,01/07/2017,31/07/2017,NO2,,23,0.0,0.0,0,,nan
+Agregado,2017-8,01/08/2017,31/08/2017,NO2,2,25,2.0,2.0,0,0,nan
+Agregado,2017-9,01/09/2017,30/09/2017,NO2,21,9,0.0,0.0,0,0,nan
+Agregado,2017-10,01/10/2017,31/10/2017,NO2,,4,0.0,0.0,0,0,nan
+Agregado,2017-11,01/11/2017,30/11/2017,NO2,12,18,0.0,0.0,0,0,nan
+Agregado,2017-12,01/12/2017,31/12/2017,NO2,21,10,0.0,0.0,0,0,nan
+Agregado,2017-4,01/04/2017,30/04/2017,NO2,21,9,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2018-2,01/02/2018,28/02/2018,NO2,21,6,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2018-3,01/03/2018,,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2018-4,01/04/2018,30/04/2018,NO2,6,0,0.0,0.0,0,24,nan
+NIN : Las Ninfas,2018-5,01/05/2018,31/05/2018,NO2,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2018-6,01/06/2018,30/06/2018,NO2,26,0,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2018-7,01/07/2018,31/07/2018,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2018-8,01/08/2018,31/08/2018,NO2,27,0,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2018-9,01/09/2018,30/09/2018,,27,1,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2018-10,01/10/2018,,NO2,28,0,0.0,0.0,0,3,nan
+NIN : Las Ninfas,2018-11,01/11/2018,30/11/2018,NO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2018-12,01/12/2018,31/12/2018,NO2,27,2,0.0,0.0,0,2,nan
+STA : Agua Santa,2018-1,01/01/2018,31/01/2018,Auto%#,19,3,0.0,0.0,0,9,nan
+STA : Agua Santa,2018-2,01/02/2018,28/02/2018,NO2,21,0,0.0,0.0,0,7,nan
+STA : Agua Santa,2018-3,01/03/2018,31/03/2018,NO2,26,1,0.0,0.0,,4,nan
+STA : Agua Santa,2018-4,01/04/2018,30/04/2018,,28,0,0.0,0.0,0,2,nan
+,2018-5,01/05/2018,31/05/2018,NO2,23,2,0.0,0.0,,6,nan
+STA : Agua Santa,2018-6,01/06/2018,30/06/2018,NO2,24,0,0.0,0.0,0,6,nan
+STA : Agua Santa,2018-7,01/07/2018,31/07/2018,NO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-8,01/08/2018,31/08/2018,NO2,31,0,0.0,0.0,0,,nan
+STA : Agua Santa,2018-9,01/09/2018,30/09/2018,NO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-10,01/10/2018,31/10/2018,NO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-11,01/11/2018,30/11/2018,NO2,Auto%#,3,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-12,01/12/2018,31/12/2018,NO2,27,4,,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-1,01/01/2018,31/01/2018,NO2,28,0,,0.0,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-2,01/02/2018,28/02/2018,,17,3,1.0,0.0,0,7,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-3,01/03/2018,31/03/2018,NO2,6,23,2.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-4,01/04/2018,30/04/2018,NO2,7,19,1.0,0.0,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-5,01/05/2018,31/05/2018,NO2,16,15,0.0,0.0,,0,
+UTP : Universidad Tecnol�gica de Puebla,2018-6,01/06/2018,30/06/2018,NO2,25,4,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-7,01/07/2018,31/07/2018,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-8,01/08/2018,31/08/2018,NO2,22,0,0.0,0.0,0,9,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-9,01/09/2018,30/09/2018,NO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-10,01/10/2018,31/10/2018,NO2,27,0,0.0,0.0,0,4,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-11,01/11/2018,30/11/2018,NO2,27,Auto%#,0.0,,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-12,01/12/2018,31/12/2018,NO2,31,0,0.0,,0,0,nan
+VEL : Velodromo,2018-2,01/02/2018,28/02/2018,NO2,15,0,0.0,0.0,0,13,nan
+VEL : Velodromo,2018-3,01/03/2018,31/03/2018,Auto%#,14,0,0.0,0.0,0,17,nan
+VEL : Velodromo,,01/04/2018,30/04/2018,NO2,,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2018-5,01/05/2018,31/05/2018,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2018-2,01/02/2018,28/02/2018,NO2,18,9,1.0,0.0,0,0,nan
+Agregado,2018-3,01/03/2018,31/03/2018,NO2,6,23,2.0,0.0,0,0,nan
+Agregado,2018-4,01/04/2018,30/04/2018,NO2,10,19,1.0,0.0,0,0,nan
+Agregado,2018-5,01/05/2018,31/05/2018,NO2,16,15,0.0,0.0,0,0,nan
+Agregado,2018-6,01/06/2018,30/06/2018,NO2,26,4,0.0,0.0,0,0,nan
+Agregado,2018-7,01/07/2018,,,31,0,0.0,0.0,0,0,nan
+Auto%#,2018-8,01/08/2018,31/08/2018,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2018-9,01/09/2018,30/09/2018,NO2,29,1,0.0,0.0,0,0,nan
+Agregado,2018-10,01/10/2018,31/10/2018,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2018-11,01/11/2018,30/11/2018,NO2,27,3,0.0,0.0,0,0,nan
+Agregado,2018-12,01/12/2018,31/12/2018,NO2,27,4,0.0,0.0,0,0,nan
+Agregado,2018-1,01/01/2018,31/01/2018,NO2,26,3,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2019-6,01/06/2019,30/06/2019,NO2,17,0,0.0,0.0,0,13,nan
+BINE : Benemerito Instituto Normal del Estado,2019-9,01/09/2019,30/09/2019,NO2,16,0,0.0,0.0,0,14,nan
+BINE : Benemerito Instituto Normal del Estado,2019-10,01/10/2019,31/10/2019,NO2,9,0,0.0,0.0,0,22,nan
+BINE : Benemerito Instituto Normal del Estado,2019-11,01/11/2019,30/11/2019,NO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2019-12,01/12/2019,31/12/2019,NO2,14,0,0.0,0.0,0,17,nan
+NIN : Las Ninfas,2019-1,01/01/2019,31/01/2019,NO2,26,5,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-2,01/02/2019,28/02/2019,NO2,28,0,,0.0,0,0,nan
+NIN : Las Ninfas,2019-3,01/03/2019,31/03/2019,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-4,01/04/2019,30/04/2019,NO2,28,2,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-5,01/05/2019,31/05/2019,NO2,Auto%#,1,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2019-6,01/06/2019,30/06/2019,NO2,30,,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-7,01/07/2019,31/07/2019,NO2,30,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2019-8,01/08/2019,31/08/2019,NO2,31,,,0.0,0,0,nan
+NIN : Las Ninfas,2019-9,01/09/2019,,NO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-10,01/10/2019,31/10/2019,NO2,31,0,0.0,0.0,Auto%#,0,nan
+NIN : Las Ninfas,2019-11,01/11/2019,30/11/2019,NO2,30,0,,0.0,0,0,nan
+NIN : Las Ninfas,2019-12,01/12/2019,31/12/2019,NO2,18,0,,0.0,0,13,nan
+STA : Agua Santa,2019-1,01/01/2019,31/01/2019,NO2,16,0,0.0,0.0,0,15,nan
+STA : Agua Santa,2019-2,,28/02/2019,NO2,14,3,0.0,0.0,0,11,nan
+STA : Agua Santa,2019-3,01/03/2019,31/03/2019,NO2,28,3,0.0,0.0,0,0,nan
+STA : Agua Santa,2019-4,01/04/2019,30/04/2019,NO2,Auto%#,0,0.0,0.0,0,23,nan
+STA : Agua Santa,2019-5,01/05/2019,31/05/2019,NO2,15,7,0.0,0.0,0,9,nan
+STA : Agua Santa,2019-6,01/06/2019,30/06/2019,NO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2019-7,01/07/2019,31/07/2019,NO2,14,0,0.0,0.0,0,17,nan
+STA : Agua Santa,2019-8,01/08/2019,31/08/2019,NO2,27,0,0.0,0.0,0,4,nan
+STA : Agua Santa,2019-9,01/09/2019,30/09/2019,NO2,23,0,0.0,0.0,0,7,nan
+STA : Agua Santa,2019-10,01/10/2019,31/10/2019,NO2,22,0,0.0,0.0,0,9,nan
+,2019-11,01/11/2019,30/11/2019,NO2,16,0,0.0,0.0,0,,nan
+STA : Agua Santa,2019-12,01/12/2019,31/12/2019,NO2,24,2,0.0,0.0,0,5,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-1,01/01/2019,31/01/2019,NO2,29,2,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,,01/02/2019,28/02/2019,NO2,25,3,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-3,01/03/2019,31/03/2019,NO2,30,1,0.0,0.0,0,0,nan
+,2019-4,01/04/2019,30/04/2019,NO2,24,3,0.0,0.0,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-5,01/05/2019,31/05/2019,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-6,01/06/2019,30/06/2019,,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-7,01/07/2019,31/07/2019,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-8,01/08/2019,31/08/2019,NO2,21,0,0.0,0.0,0,10,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-9,01/09/2019,,,29,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-10,01/10/2019,31/10/2019,NO2,26,0,0.0,0.0,0,5,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-11,01/11/2019,30/11/2019,NO2,21,0,0.0,0.0,0,9,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-12,01/12/2019,31/12/2019,,19,2,0.0,0.0,0,10,nan
+VEL : Velodromo,2019-7,01/07/2019,31/07/2019,NO2,20,0,0.0,0.0,0,11,nan
+VEL : Velodromo,2019-8,01/08/2019,31/08/2019,NO2,22,0,,0.0,0,9,nan
+VEL : Velodromo,2019-9,01/09/2019,30/09/2019,NO2,27,,0.0,0.0,0,Auto%#,nan
+,2019-10,01/10/2019,31/10/2019,NO2,14,0,0.0,0.0,0,17,nan
+VEL : Velodromo,2019-11,01/11/2019,,NO2,15,1,0.0,0.0,0,14,nan
+VEL : Velodromo,2019-12,01/12/2019,31/12/2019,NO2,24,1,0.0,0.0,0,6,nan
+Agregado,2019-6,01/06/2019,30/06/2019,NO2,30,0,0.0,0.0,0,0,nan
+Agregado,2019-9,01/09/2019,30/09/2019,NO2,30,0,0.0,0.0,0,0,nan
+Agregado,2019-10,,31/10/2019,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2019-11,01/11/2019,30/11/2019,NO2,29,1,,0.0,0,0,nan
+Agregado,2019-12,01/12/2019,31/12/2019,NO2,27,4,0.0,0.0,0,0,nan
+Agregado,2019-1,,31/01/2019,NO2,25,6,0.0,0.0,0,0,nan
+Agregado,2019-2,01/02/2019,28/02/2019,NO2,23,5,0.0,0.0,0,0,nan
+Agregado,2019-3,01/03/2019,31/03/2019,NO2,28,3,0.0,0.0,0,0,nan
+Agregado,2019-4,01/04/2019,30/04/2019,NO2,25,5,0.0,0.0,0,0,nan
+Agregado,2019-5,01/05/2019,31/05/2019,NO2,24,7,0.0,0.0,0,0,nan
+Agregado,2019-7,01/07/2019,31/07/2019,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2019-8,01/08/2019,31/08/2019,NO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-1,01/01/2020,31/01/2020,NO2,30,0,0.0,0.0,0,1,nan
+BINE : Benemerito Instituto Normal del Estado,2020-2,01/02/2020,29/02/2020,NO2,19,0,0.0,0.0,0,10,nan
+BINE : Benemerito Instituto Normal del Estado,2020-3,01/03/2020,31/03/2020,NO2,21,0,0.0,0.0,0,10,nan
+BINE : Benemerito Instituto Normal del Estado,2020-4,01/04/2020,30/04/2020,NO2,21,0,0.0,0.0,0,9,nan
+BINE : Benemerito Instituto Normal del Estado,2020-5,01/05/2020,31/05/2020,NO2,25,0,0.0,0.0,0,6,nan
+BINE : Benemerito Instituto Normal del Estado,2020-6,01/06/2020,30/06/2020,NO2,3,0,0.0,0.0,0,27,nan
+BINE : Benemerito Instituto Normal del Estado,2020-10,01/10/2020,31/10/2020,NO2,15,0,0.0,0.0,0,16,nan
+BINE : Benemerito Instituto Normal del Estado,2020-11,01/11/2020,30/11/2020,NO2,4,0,0.0,0.0,0,26,nan
+NIN : Las Ninfas,2020-1,01/01/2020,31/01/2020,NO2,26,0,0.0,0.0,0,5,nan
+NIN : Las Ninfas,2020-2,01/02/2020,29/02/2020,NO2,10,0,0.0,0.0,0,19,nan
+NIN : Las Ninfas,2020-3,01/03/2020,31/03/2020,NO2,28,1,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2020-4,01/04/2020,30/04/2020,,27,0,0.0,0.0,0,3,nan
+NIN : Las Ninfas,2020-5,01/05/2020,31/05/2020,NO2,16,0,0.0,0.0,0,15,nan
+NIN : Las Ninfas,2020-6,01/06/2020,30/06/2020,NO2,28,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,,01/07/2020,31/07/2020,NO2,29,0,0.0,,0,2,nan
+NIN : Las Ninfas,2020-8,01/08/2020,,NO2,27,0,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2020-9,01/09/2020,30/09/2020,NO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2020-10,01/10/2020,31/10/2020,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2020-11,01/11/2020,30/11/2020,NO2,28,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2020-12,01/12/2020,31/12/2020,NO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2020-1,01/01/2020,31/01/2020,NO2,25,1,0.0,0.0,0,5,nan
+STA : Agua Santa,2020-2,01/02/2020,29/02/2020,NO2,24,1,0.0,0.0,0,4,nan
+STA : Agua Santa,2020-3,01/03/2020,31/03/2020,NO2,24,0,0.0,0.0,0,7,nan
+STA : Agua Santa,2020-4,01/04/2020,30/04/2020,NO2,21,0,0.0,0.0,0,9,nan
+STA : Agua Santa,2020-5,01/05/2020,31/05/2020,NO2,24,0,0.0,0.0,0,7,nan
+STA : Agua Santa,2020-6,01/06/2020,30/06/2020,NO2,21,,0.0,0.0,0,9,nan
+STA : Agua Santa,2020-7,01/07/2020,31/07/2020,NO2,23,0,0.0,0.0,0,8,nan
+STA : Agua Santa,2020-8,01/08/2020,31/08/2020,NO2,11,0,0.0,0.0,0,20,nan
+STA : Agua Santa,2020-9,01/09/2020,30/09/2020,NO2,20,0,0.0,0.0,0,10,nan
+STA : Agua Santa,2020-10,01/10/2020,31/10/2020,NO2,30,0,0.0,0.0,0,1,nan
+,2020-11,01/11/2020,30/11/2020,NO2,22,0,0.0,0.0,0,8,nan
+STA : Agua Santa,2020-12,01/12/2020,31/12/2020,NO2,8,,0.0,0.0,0,23,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-1,01/01/2020,31/01/2020,NO2,26,1,0.0,0.0,0,4,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-2,01/02/2020,29/02/2020,NO2,25,2,0.0,0.0,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-3,01/03/2020,31/03/2020,NO2,30,1,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-4,01/04/2020,30/04/2020,NO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-5,01/05/2020,31/05/2020,NO2,25,0,0.0,0.0,0,6,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-6,01/06/2020,30/06/2020,NO2,30,0,0.0,0.0,,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-7,01/07/2020,31/07/2020,NO2,27,0,0.0,0.0,0,4,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-8,01/08/2020,31/08/2020,NO2,2,0,0.0,0.0,0,29,nan
+UTP : Universidad Tecnol�gica de Puebla,,01/11/2020,30/11/2020,NO2,4,2,0.0,0.0,0,24,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-12,01/12/2020,31/12/2020,NO2,30,1,0.0,0.0,0,0,
+VEL : Velodromo,2020-1,01/01/2020,31/01/2020,NO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-2,01/02/2020,29/02/2020,NO2,,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-3,01/03/2020,31/03/2020,NO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-4,01/04/2020,30/04/2020,Auto%#,3,0,0.0,0.0,0,27,nan
+VEL : Velodromo,2020-11,01/11/2020,30/11/2020,NO2,5,1,0.0,0.0,Auto%#,24,nan
+VEL : Velodromo,2020-12,01/12/2020,31/12/2020,NO2,30,0,0.0,0.0,0,Auto%#,nan
+Agregado,2020-1,01/01/2020,31/01/2020,NO2,29,2,,0.0,0,0,nan
+Agregado,2020-2,01/02/2020,29/02/2020,NO2,27,2,0.0,0.0,0,0,nan
+Agregado,2020-3,01/03/2020,31/03/2020,NO2,29,Auto%#,0.0,0.0,0,0,nan
+Agregado,2020-4,01/04/2020,30/04/2020,NO2,30,0,0.0,0.0,0,0,nan
+Agregado,2020-5,01/05/2020,31/05/2020,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2020-6,01/06/2020,30/06/2020,NO2,30,0,0.0,0.0,0,0,nan
+Agregado,2020-10,01/10/2020,31/10/2020,NO2,Auto%#,0,0.0,0.0,0,0,nan
+Agregado,2020-11,01/11/2020,30/11/2020,NO2,27,3,0.0,0.0,0,0,nan
+Agregado,2020-7,01/07/2020,31/07/2020,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2020-8,01/08/2020,31/08/2020,NO2,30,0,0.0,0.0,0,,nan
+Agregado,2020-9,01/09/2020,30/09/2020,NO2,30,0,0.0,0.0,0,0,nan
+Agregado,2020-12,01/12/2020,31/12/2020,NO2,30,1,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-1,01/01/2021,31/01/2021,NO2,26,0,0.0,0.0,0,5,
+BINE : Benemerito Instituto Normal del Estado,2021-2,01/02/2021,28/02/2021,NO2,24,3,0.0,0.0,0,1,nan
+BINE : Benemerito Instituto Normal del Estado,2021-3,01/03/2021,31/03/2021,NO2,28,1,0.0,0.0,0,2,nan
+,,01/04/2021,30/04/2021,NO2,28,0,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2021-5,01/05/2021,31/05/2021,NO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-6,01/06/2021,,NO2,21,0,,0.0,0,9,nan
+BINE : Benemerito Instituto Normal del Estado,2021-7,01/07/2021,31/07/2021,NO2,31,,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-8,01/08/2021,31/08/2021,NO2,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2021-9,01/09/2021,30/09/2021,NO2,27,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2021-10,01/10/2021,31/10/2021,NO2,30,1,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-11,01/11/2021,30/11/2021,NO2,8,2,0.0,0.0,0,20,nan
+Auto%#,2021-12,01/12/2021,31/12/2021,NO2,13,1,0.0,0.0,0,17,nan
+NIN : Las Ninfas,2021-1,01/01/2021,31/01/2021,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-2,01/02/2021,28/02/2021,NO2,26,1,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2021-3,01/03/2021,31/03/2021,NO2,31,,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-4,01/04/2021,30/04/2021,,24,2,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2021-5,01/05/2021,31/05/2021,NO2,30,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2021-6,01/06/2021,30/06/2021,NO2,23,0,0.0,0.0,0,7,nan
+NIN : Las Ninfas,2021-7,01/07/2021,31/07/2021,NO2,14,0,0.0,0.0,0,17,nan
+NIN : Las Ninfas,2021-8,01/08/2021,31/08/2021,NO2,29,,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2021-9,01/09/2021,30/09/2021,NO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-10,01/10/2021,31/10/2021,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-11,01/11/2021,30/11/2021,NO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-12,01/12/2021,31/12/2021,NO2,29,2,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-2,01/02/2021,28/02/2021,NO2,11,0,0.0,0.0,0,17,nan
+STA : Agua Santa,2021-3,01/03/2021,31/03/2021,,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-4,01/04/2021,30/04/2021,NO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-5,01/05/2021,31/05/2021,NO2,31,0,0.0,0.0,0,Auto%#,nan
+Auto%#,2021-6,01/06/2021,30/06/2021,NO2,30,0,0.0,0.0,0,0,nan
+,2021-7,01/07/2021,31/07/2021,NO2,12,0,0.0,0.0,0,19,nan
+STA : Agua Santa,2021-10,01/10/2021,31/10/2021,NO2,6,0,0.0,,0,25,
+,2021-11,01/11/2021,30/11/2021,NO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-12,01/12/2021,31/12/2021,NO2,28,,0.0,0.0,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-1,01/01/2021,31/01/2021,Auto%#,,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-2,01/02/2021,28/02/2021,NO2,22,5,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-3,01/03/2021,31/03/2021,NO2,27,4,0.0,0.0,,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-4,01/04/2021,30/04/2021,NO2,29,1,0.0,0.0,,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-5,01/05/2021,31/05/2021,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-6,01/06/2021,30/06/2021,NO2,9,0,0.0,0.0,0,21,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-7,01/07/2021,31/07/2021,NO2,30,0,0.0,,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-8,01/08/2021,31/08/2021,NO2,29,0,0.0,0.0,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-9,01/09/2021,30/09/2021,NO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-10,01/10/2021,31/10/2021,NO2,30,0,,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-11,01/11/2021,30/11/2021,,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-12,01/12/2021,31/12/2021,NO2,31,0,0.0,0.0,0,0,
+VEL : Velodromo,2021-1,01/01/2021,31/01/2021,NO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2021-2,01/02/2021,28/02/2021,NO2,15,0,0.0,0.0,0,13,nan
+Agregado,2021-1,,31/01/2021,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-2,01/02/2021,28/02/2021,NO2,22,6,0.0,0.0,0,0,nan
+Agregado,2021-3,01/03/2021,31/03/2021,NO2,26,5,,0.0,0,0,nan
+Agregado,2021-4,01/04/2021,30/04/2021,NO2,27,3,0.0,0.0,,0,nan
+Agregado,2021-5,01/05/2021,31/05/2021,NO2,31,0,0.0,0.0,,0,nan
+Agregado,2021-6,01/06/2021,,NO2,30,0,0.0,0.0,0,0,
+,2021-7,,31/07/2021,,31,0,0.0,0.0,0,0,
+Agregado,,01/08/2021,31/08/2021,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-9,01/09/2021,30/09/2021,NO2,30,0,0.0,0.0,0,0,nan
+Agregado,2021-10,01/10/2021,31/10/2021,NO2,30,1,0.0,0.0,0,0,nan
+Agregado,2021-11,01/11/2021,30/11/2021,NO2,28,2,0.0,0.0,0,0,nan
+Agregado,2021-12,01/12/2021,31/12/2021,NO2,28,3,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,,01/01/2022,31/01/2022,NO2,17,1,0.0,0.0,0,13,nan
+BINE : Benemerito Instituto Normal del Estado,2022-2,01/02/2022,28/02/2022,NO2,17,0,0.0,0.0,0,11,nan
+BINE : Benemerito Instituto Normal del Estado,2022-3,01/03/2022,31/03/2022,NO2,15,0,0.0,,0,,nan
+,2022-4,01/04/2022,30/04/2022,NO2,19,1,0.0,0.0,0,10,nan
+BINE : Benemerito Instituto Normal del Estado,2022-5,01/05/2022,31/05/2022,NO2,24,0,0.0,0.0,0,7,nan
+BINE : Benemerito Instituto Normal del Estado,,01/06/2022,,NO2,19,0,0.0,0.0,0,11,nan
+BINE : Benemerito Instituto Normal del Estado,2022-7,01/07/2022,31/07/2022,NO2,19,0,0.0,0.0,0,12,
+BINE : Benemerito Instituto Normal del Estado,2022-8,01/08/2022,31/08/2022,,21,1,0.0,0.0,0,9,nan
+BINE : Benemerito Instituto Normal del Estado,2022-9,01/09/2022,30/09/2022,NO2,29,1,0.0,0.0,0,0,
+BINE : Benemerito Instituto Normal del Estado,2022-10,01/10/2022,31/10/2022,NO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-11,01/11/2022,,NO2,24,0,0.0,0.0,0,6,nan
+BINE : Benemerito Instituto Normal del Estado,2022-12,01/12/2022,31/12/2022,Auto%#,26,0,0.0,0.0,0,5,nan
+NIN : Las Ninfas,2022-1,01/01/2022,31/01/2022,NO2,2,0,0.0,0.0,0,29,nan
+NIN : Las Ninfas,2022-2,01/02/2022,28/02/2022,NO2,14,0,0.0,0.0,0,14,nan
+NIN : Las Ninfas,,01/03/2022,31/03/2022,Auto%#,21,0,0.0,0.0,,10,nan
+Auto%#,2022-4,01/04/2022,30/04/2022,NO2,14,,0.0,0.0,0,16,nan
+NIN : Las Ninfas,2022-5,01/05/2022,,NO2,30,Auto%#,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2022-6,01/06/2022,30/06/2022,NO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-7,01/07/2022,31/07/2022,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-8,01/08/2022,31/08/2022,NO2,31,0,,0.0,0,0,nan
+NIN : Las Ninfas,2022-9,01/09/2022,30/09/2022,NO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-10,01/10/2022,31/10/2022,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-11,01/11/2022,30/11/2022,NO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-12,01/12/2022,31/12/2022,NO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,,01/01/2022,31/01/2022,NO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-2,01/02/2022,28/02/2022,NO2,28,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-3,01/03/2022,31/03/2022,NO2,30,0,0.0,0.0,0,1,nan
+STA : Agua Santa,2022-4,01/04/2022,30/04/2022,NO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-5,,31/05/2022,NO2,31,0,0.0,0.0,0,0,nan
+,,01/06/2022,30/06/2022,NO2,Auto%#,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-7,01/07/2022,31/07/2022,NO2,Auto%#,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-8,01/08/2022,31/08/2022,NO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-9,01/09/2022,30/09/2022,NO2,30,0,,0.0,0,0,nan
+STA : Agua Santa,2022-10,01/10/2022,31/10/2022,NO2,20,0,0.0,0.0,0,11,nan
+STA : Agua Santa,2022-11,01/11/2022,30/11/2022,NO2,2,0,0.0,0.0,0,28,nan
+STA : Agua Santa,2022-12,01/12/2022,31/12/2022,NO2,31,0,0.0,,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-1,01/01/2022,31/01/2022,NO2,25,0,0.0,0.0,0,6,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-2,01/02/2022,28/02/2022,NO2,26,2,0.0,0.0,0,,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-3,01/03/2022,31/03/2022,NO2,30,1,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-4,01/04/2022,30/04/2022,Auto%#,28,0,0.0,0.0,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-5,01/05/2022,31/05/2022,NO2,29,,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-6,01/06/2022,30/06/2022,NO2,30,0,0.0,0.0,0,0,nan
+Auto%#,2022-7,01/07/2022,31/07/2022,NO2,,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-8,01/08/2022,31/08/2022,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-9,01/09/2022,30/09/2022,NO2,29,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-10,01/10/2022,31/10/2022,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-11,01/11/2022,30/11/2022,NO2,29,1,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-12,01/12/2022,31/12/2022,NO2,28,3,0.0,0.0,0,0,nan
+VEL : Velodromo,2022-1,01/01/2022,31/01/2022,NO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2022-2,01/02/2022,28/02/2022,NO2,15,0,0.0,0.0,0,13,nan
+Auto%#,,01/01/2022,31/01/2022,Auto%#,30,1,0.0,0.0,0,Auto%#,nan
+,2022-2,01/02/2022,28/02/2022,NO2,26,2,0.0,0.0,0,0,nan
+Agregado,2022-3,01/03/2022,31/03/2022,NO2,30,1,0.0,0.0,0,0,nan
+Agregado,2022-4,01/04/2022,30/04/2022,NO2,29,1,0.0,0.0,0,0,nan
+Agregado,2022-5,01/05/2022,31/05/2022,NO2,30,1,0.0,0.0,0,0,nan
+Agregado,2022-6,01/06/2022,30/06/2022,NO2,30,0,0.0,0.0,0,0,nan
+Agregado,2022-7,01/07/2022,31/07/2022,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2022-8,01/08/2022,31/08/2022,NO2,30,1,,0.0,0,0,nan
+Agregado,2022-9,01/09/2022,30/09/2022,NO2,29,1,0.0,0.0,0,0,nan
+Agregado,2022-10,01/10/2022,31/10/2022,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2022-11,01/11/2022,,NO2,29,1,0.0,0.0,0,0,nan
+Agregado,2022-12,01/12/2022,31/12/2022,NO2,28,3,0.0,0.0,,0,nan
+BINE : Benemerito Instituto Normal del Estado,2016-1,01/01/2016,31/01/2016,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2016-2,01/02/2016,29/02/2016,CO,29,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2016-3,01/03/2016,31/03/2016,CO,23,,0.0,0.0,0,7,nan
+BINE : Benemerito Instituto Normal del Estado,2016-4,01/04/2016,30/04/2016,CO,22,,0.0,0.0,0,8,nan
+BINE : Benemerito Instituto Normal del Estado,2016-6,01/06/2016,30/06/2016,CO,3,,0.0,0.0,0,27,nan
+BINE : Benemerito Instituto Normal del Estado,2016-7,01/07/2016,31/07/2016,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,,01/08/2016,31/08/2016,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2016-9,01/09/2016,30/09/2016,CO,24,0,0.0,0.0,0,Auto%#,nan
+BINE : Benemerito Instituto Normal del Estado,2016-10,01/10/2016,31/10/2016,CO,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2016-11,01/11/2016,30/11/2016,CO,20,0,0.0,0.0,0,10,nan
+,2016-12,01/12/2016,31/12/2016,CO,,0,0.0,0.0,0,9,nan
+NIN : Las Ninfas,2016-1,01/01/2016,31/01/2016,CO,,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-2,01/02/2016,29/02/2016,CO,29,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-3,,31/03/2016,CO,27,0,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2016-4,01/04/2016,30/04/2016,CO,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-5,01/05/2016,31/05/2016,CO,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,,01/06/2016,30/06/2016,CO,30,0,0.0,0.0,0,0,
+NIN : Las Ninfas,2016-7,01/07/2016,31/07/2016,CO,23,0,0.0,,0,8,
+NIN : Las Ninfas,2016-8,01/08/2016,31/08/2016,CO,29,0,0.0,0.0,,2,nan
+NIN : Las Ninfas,2016-9,01/09/2016,30/09/2016,CO,29,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2016-10,01/10/2016,31/10/2016,,30,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2016-11,01/11/2016,30/11/2016,CO,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-12,01/12/2016,31/12/2016,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-4,01/04/2016,30/04/2016,CO,19,0,0.0,0.0,0,Auto%#,nan
+STA : Agua Santa,2016-5,,31/05/2016,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-6,01/06/2016,30/06/2016,CO,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-7,01/07/2016,31/07/2016,CO,30,0,0.0,0.0,0,1,nan
+STA : Agua Santa,2016-8,01/08/2016,31/08/2016,CO,28,0,0.0,0.0,0,3,nan
+STA : Agua Santa,2016-9,01/09/2016,30/09/2016,CO,5,0,0.0,0.0,0,25,nan
+STA : Agua Santa,2016-10,01/10/2016,31/10/2016,CO,18,0,0.0,0.0,0,13,nan
+STA : Agua Santa,2016-11,01/11/2016,30/11/2016,CO,Auto%#,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-12,01/12/2016,31/12/2016,CO,Auto%#,0,0.0,,0,14,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-1,01/01/2016,31/01/2016,CO,29,2,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-2,01/02/2016,29/02/2016,CO,29,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-3,01/03/2016,31/03/2016,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-4,01/04/2016,,CO,10,0,0.0,0.0,Auto%#,20,nan
+Auto%#,2016-6,01/06/2016,30/06/2016,CO,24,0,0.0,0.0,0,6,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-7,01/07/2016,31/07/2016,CO,31,0,0.0,0.0,,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-8,01/08/2016,31/08/2016,Auto%#,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-9,01/09/2016,30/09/2016,CO,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-10,01/10/2016,31/10/2016,CO,30,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-11,01/11/2016,30/11/2016,,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-12,01/12/2016,31/12/2016,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2016-4,01/04/2016,30/04/2016,CO,12,0,0.0,0.0,0,18,nan
+VEL : Velodromo,2016-5,01/05/2016,31/05/2016,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2016-6,01/06/2016,30/06/2016,CO,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2016-7,01/07/2016,31/07/2016,CO,29,0,0.0,0.0,0,2,
+VEL : Velodromo,2016-8,01/08/2016,31/08/2016,CO,30,0,0.0,0.0,0,1,nan
+VEL : Velodromo,2016-9,01/09/2016,30/09/2016,,28,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2016-10,01/10/2016,31/10/2016,CO,29,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2016-11,01/11/2016,30/11/2016,CO,28,0,0.0,0.0,Auto%#,2,nan
+VEL : Velodromo,2016-12,01/12/2016,31/12/2016,CO,,0,0.0,0.0,0,,nan
+Agregado,2016-1,01/01/2016,31/01/2016,CO,29,2,0.0,0.0,0,0,nan
+Agregado,2016-2,01/02/2016,29/02/2016,CO,,0,0.0,0.0,0,0,
+Agregado,2016-3,01/03/2016,31/03/2016,CO,30,1,,0.0,0,0,nan
+Agregado,2016-4,01/04/2016,30/04/2016,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2016-6,01/06/2016,30/06/2016,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2016-7,01/07/2016,31/07/2016,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2016-8,01/08/2016,31/08/2016,CO,31,,0.0,0.0,0,0,nan
+Agregado,2016-9,01/09/2016,30/09/2016,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2016-10,01/10/2016,31/10/2016,CO,,0,0.0,0.0,0,0,nan
+Agregado,2016-11,01/11/2016,30/11/2016,CO,30,0,0.0,0.0,0,0,nan
+,2016-12,,31/12/2016,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2016-5,01/05/2016,31/05/2016,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2017-1,01/01/2017,,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2017-2,01/02/2017,28/02/2017,CO,Auto%#,0,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2017-3,01/03/2017,31/03/2017,CO,9,0,0.0,0.0,0,22,nan
+BINE : Benemerito Instituto Normal del Estado,2017-4,,,CO,26,0,0.0,0.0,0,4,nan
+BINE : Benemerito Instituto Normal del Estado,2017-5,01/05/2017,31/05/2017,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2017-6,01/06/2017,30/06/2017,CO,30,0,0.0,0.0,0,Auto%#,nan
+NIN : Las Ninfas,2017-1,01/01/2017,31/01/2017,CO,25,0,,0.0,0,6,nan
+NIN : Las Ninfas,2017-2,01/02/2017,28/02/2017,CO,25,0,0.0,0.0,0,,nan
+STA : Agua Santa,2017-1,01/01/2017,31/01/2017,CO,27,,0.0,0.0,0,4,nan
+STA : Agua Santa,2017-2,01/02/2017,28/02/2017,CO,18,0,0.0,0.0,,10,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-1,01/01/2017,31/01/2017,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-2,01/02/2017,28/02/2017,CO,16,0,0.0,0.0,0,12,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-3,01/03/2017,31/03/2017,CO,14,0,0.0,0.0,0,17,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-4,01/04/2017,30/04/2017,CO,29,0,0.0,0.0,Auto%#,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-5,01/05/2017,31/05/2017,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-6,01/06/2017,,CO,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-7,01/07/2017,31/07/2017,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-8,01/08/2017,31/08/2017,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-9,01/09/2017,30/09/2017,CO,,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,,01/10/2017,31/10/2017,CO,31,0,0.0,0.0,,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-11,01/11/2017,30/11/2017,CO,25,0,0.0,0.0,0,5,nan
+VEL : Velodromo,,01/01/2017,31/01/2017,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-2,01/02/2017,28/02/2017,CO,,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2017-3,01/03/2017,31/03/2017,CO,28,0,0.0,0.0,0,3,
+VEL : Velodromo,2017-4,01/04/2017,30/04/2017,CO,21,0,0.0,0.0,0,9,nan
+VEL : Velodromo,2017-5,01/05/2017,31/05/2017,CO,29,0,0.0,0.0,0,2,nan
+Agregado,2017-1,01/01/2017,31/01/2017,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2017-2,01/02/2017,28/02/2017,CO,28,0,0.0,0.0,0,0,nan
+Agregado,2017-3,01/03/2017,31/03/2017,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2017-4,01/04/2017,,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2017-5,01/05/2017,31/05/2017,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2017-6,01/06/2017,30/06/2017,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2017-7,01/07/2017,31/07/2017,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2017-8,01/08/2017,31/08/2017,CO,31,0,0.0,0.0,0,0,nan
+,2017-9,01/09/2017,30/09/2017,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2017-10,01/10/2017,31/10/2017,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2017-11,01/11/2017,30/11/2017,CO,25,0,0.0,0.0,0,5,nan
+BINE : Benemerito Instituto Normal del Estado,,01/09/2018,30/09/2018,CO,23,0,0.0,0.0,0,7,nan
+BINE : Benemerito Instituto Normal del Estado,2018-10,01/10/2018,31/10/2018,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2018-11,01/11/2018,30/11/2018,CO,29,0,0.0,0.0,0,1,nan
+BINE : Benemerito Instituto Normal del Estado,2018-12,01/12/2018,31/12/2018,CO,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2018-3,01/03/2018,31/03/2018,CO,28,,0.0,0.0,0,3,nan
+NIN : Las Ninfas,2018-4,01/04/2018,30/04/2018,CO,,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2018-5,01/05/2018,31/05/2018,CO,25,0,0.0,0.0,0,6,nan
+NIN : Las Ninfas,2018-6,,30/06/2018,CO,27,0,0.0,0.0,0,3,nan
+,2018-7,01/07/2018,31/07/2018,CO,31,0,0.0,0.0,0,0,
+NIN : Las Ninfas,2018-8,01/08/2018,31/08/2018,CO,26,0,0.0,0.0,0,5,nan
+NIN : Las Ninfas,2018-9,01/09/2018,30/09/2018,CO,26,0,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2018-10,01/10/2018,31/10/2018,CO,28,0,0.0,0.0,0,3,nan
+NIN : Las Ninfas,2018-11,01/11/2018,30/11/2018,CO,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2018-12,01/12/2018,31/12/2018,CO,30,0,0.0,0.0,0,1,nan
+STA : Agua Santa,2018-1,01/01/2018,31/01/2018,CO,22,0,0.0,0.0,0,9,nan
+STA : Agua Santa,2018-4,01/04/2018,30/04/2018,CO,12,0,0.0,0.0,0,18,
+STA : Agua Santa,2018-5,01/05/2018,31/05/2018,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-6,01/06/2018,30/06/2018,CO,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-7,01/07/2018,31/07/2018,CO,26,0,0.0,0.0,0,5,nan
+STA : Agua Santa,2018-8,01/08/2018,31/08/2018,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-9,01/09/2018,30/09/2018,CO,30,0,,0.0,0,0,nan
+STA : Agua Santa,2018-10,01/10/2018,31/10/2018,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-11,01/11/2018,30/11/2018,CO,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-12,01/12/2018,31/12/2018,,30,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-2,01/02/2018,28/02/2018,CO,21,0,0.0,,0,7,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-4,01/04/2018,30/04/2018,CO,,0,0.0,0.0,0,7,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-5,01/05/2018,31/05/2018,CO,31,0,0.0,0.0,Auto%#,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-6,01/06/2018,30/06/2018,CO,29,0,0.0,0.0,0,1,nan
+,2018-7,01/07/2018,,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-8,01/08/2018,31/08/2018,,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-9,01/09/2018,30/09/2018,CO,30,Auto%#,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-10,01/10/2018,31/10/2018,CO,28,0,0.0,0.0,0,3,
+UTP : Universidad Tecnol�gica de Puebla,2018-11,01/11/2018,30/11/2018,CO,26,0,0.0,0.0,0,4,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-12,01/12/2018,31/12/2018,CO,28,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2018-8,01/08/2018,31/08/2018,CO,29,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2018-9,01/09/2018,30/09/2018,CO,27,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2018-10,01/10/2018,31/10/2018,,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-11,01/11/2018,30/11/2018,CO,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-12,01/12/2018,31/12/2018,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2018-9,01/09/2018,30/09/2018,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2018-10,01/10/2018,31/10/2018,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2018-11,01/11/2018,30/11/2018,CO,30,0,0.0,0.0,0,,nan
+Agregado,2018-12,01/12/2018,31/12/2018,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2018-3,01/03/2018,31/03/2018,CO,28,0,0.0,0.0,0,3,nan
+Agregado,2018-4,01/04/2018,30/04/2018,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2018-5,,31/05/2018,CO,31,0,0.0,,0,0,nan
+Agregado,2018-6,01/06/2018,30/06/2018,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2018-7,01/07/2018,31/07/2018,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2018-8,01/08/2018,31/08/2018,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2018-1,01/01/2018,31/01/2018,CO,22,0,0.0,0.0,0,9,nan
+Agregado,2018-2,01/02/2018,28/02/2018,CO,21,0,0.0,0.0,0,7,nan
+BINE : Benemerito Instituto Normal del Estado,2019-1,01/01/2019,31/01/2019,CO,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2019-2,01/02/2019,28/02/2019,CO,28,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2019-3,01/03/2019,31/03/2019,CO,,0,0.0,0.0,0,20,nan
+BINE : Benemerito Instituto Normal del Estado,2019-5,01/05/2019,31/05/2019,CO,3,0,0.0,0.0,0,28,nan
+BINE : Benemerito Instituto Normal del Estado,2019-6,01/06/2019,30/06/2019,CO,16,0,0.0,0.0,0,14,nan
+BINE : Benemerito Instituto Normal del Estado,2019-7,01/07/2019,31/07/2019,CO,22,0,0.0,0.0,0,9,nan
+BINE : Benemerito Instituto Normal del Estado,2019-8,01/08/2019,31/08/2019,CO,19,0,0.0,0.0,0,12,nan
+BINE : Benemerito Instituto Normal del Estado,2019-9,01/09/2019,30/09/2019,CO,25,0,0.0,0.0,0,5,nan
+BINE : Benemerito Instituto Normal del Estado,2019-10,01/10/2019,31/10/2019,CO,9,0,0.0,0.0,0,22,
+BINE : Benemerito Instituto Normal del Estado,2019-11,01/11/2019,,CO,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2019-12,01/12/2019,31/12/2019,CO,14,0,0.0,0.0,0,17,nan
+NIN : Las Ninfas,2019-1,01/01/2019,31/01/2019,CO,31,0,0.0,0.0,0,Auto%#,nan
+NIN : Las Ninfas,2019-2,01/02/2019,28/02/2019,CO,22,0,0.0,0.0,0,6,nan
+NIN : Las Ninfas,2019-3,01/03/2019,31/03/2019,CO,30,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2019-4,01/04/2019,30/04/2019,CO,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-5,01/05/2019,31/05/2019,CO,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2019-6,01/06/2019,30/06/2019,CO,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-7,01/07/2019,31/07/2019,CO,30,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2019-8,01/08/2019,31/08/2019,CO,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-9,01/09/2019,30/09/2019,CO,29,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2019-10,01/10/2019,31/10/2019,CO,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-11,01/11/2019,30/11/2019,CO,29,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2019-12,01/12/2019,31/12/2019,CO,22,0,0.0,0.0,0,9,nan
+STA : Agua Santa,2019-1,01/01/2019,31/01/2019,CO,,0,0.0,0.0,0,0,nan
+STA : Agua Santa,,01/02/2019,28/02/2019,CO,28,0,0.0,0.0,0,,nan
+STA : Agua Santa,2019-3,01/03/2019,31/03/2019,CO,29,2,0.0,0.0,0,0,nan
+,2019-4,01/04/2019,30/04/2019,CO,10,0,0.0,0.0,0,20,nan
+STA : Agua Santa,2019-5,01/05/2019,31/05/2019,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2019-6,01/06/2019,30/06/2019,CO,29,Auto%#,0.0,0.0,0,1,nan
+STA : Agua Santa,2019-7,01/07/2019,31/07/2019,CO,14,0,0.0,0.0,0,17,nan
+STA : Agua Santa,2019-8,01/08/2019,31/08/2019,CO,27,0,0.0,0.0,0,4,nan
+STA : Agua Santa,2019-9,01/09/2019,30/09/2019,CO,23,0,0.0,0.0,0,7,nan
+STA : Agua Santa,2019-10,01/10/2019,,CO,22,0,0.0,0.0,0,9,nan
+STA : Agua Santa,2019-11,01/11/2019,30/11/2019,CO,18,0,0.0,0.0,0,12,nan
+STA : Agua Santa,2019-12,01/12/2019,31/12/2019,,24,0,0.0,0.0,0,7,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-1,01/01/2019,31/01/2019,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-2,01/02/2019,28/02/2019,CO,28,Auto%#,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-3,01/03/2019,31/03/2019,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-4,01/04/2019,30/04/2019,CO,20,0,0.0,0.0,0,10,
+UTP : Universidad Tecnol�gica de Puebla,2019-6,01/06/2019,30/06/2019,CO,Auto%#,0,0.0,0.0,0,15,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-7,01/07/2019,,CO,Auto%#,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-8,01/08/2019,31/08/2019,CO,22,Auto%#,0.0,0.0,0,9,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-9,01/09/2019,30/09/2019,CO,29,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-10,01/10/2019,31/10/2019,,27,0,0.0,0.0,0,4,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-11,01/11/2019,30/11/2019,CO,21,0,0.0,0.0,0,9,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-12,01/12/2019,31/12/2019,CO,21,0,0.0,0.0,0,10,nan
+VEL : Velodromo,2019-1,01/01/2019,31/01/2019,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2019-2,01/02/2019,28/02/2019,CO,28,0,0.0,,0,0,nan
+VEL : Velodromo,2019-3,01/03/2019,31/03/2019,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2019-4,01/04/2019,30/04/2019,CO,10,0,0.0,0.0,0,20,nan
+VEL : Velodromo,2019-5,01/05/2019,31/05/2019,CO,11,0,0.0,0.0,,20,nan
+VEL : Velodromo,2019-6,01/06/2019,30/06/2019,CO,5,0,0.0,0.0,0,25,nan
+VEL : Velodromo,2019-7,01/07/2019,31/07/2019,CO,20,0,0.0,0.0,0,11,nan
+Auto%#,2019-8,01/08/2019,31/08/2019,CO,22,0,0.0,0.0,0,9,nan
+VEL : Velodromo,2019-9,01/09/2019,30/09/2019,CO,27,0,0.0,0.0,0,Auto%#,nan
+VEL : Velodromo,2019-10,01/10/2019,31/10/2019,CO,14,0,,0.0,0,17,nan
+VEL : Velodromo,2019-11,01/11/2019,30/11/2019,CO,16,0,0.0,0.0,0,14,
+VEL : Velodromo,2019-12,01/12/2019,31/12/2019,CO,31,0,0.0,0.0,0,0,
+Agregado,2019-1,01/01/2019,31/01/2019,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2019-2,01/02/2019,28/02/2019,CO,28,0,0.0,0.0,0,0,nan
+Agregado,2019-3,01/03/2019,31/03/2019,CO,29,2,0.0,0.0,0,0,nan
+Agregado,2019-5,01/05/2019,31/05/2019,,31,0,0.0,0.0,0,0,nan
+Agregado,2019-6,01/06/2019,30/06/2019,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2019-7,01/07/2019,,CO,31,Auto%#,0.0,0.0,Auto%#,0,nan
+Agregado,2019-8,01/08/2019,31/08/2019,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2019-9,01/09/2019,30/09/2019,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2019-10,01/10/2019,31/10/2019,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2019-11,01/11/2019,30/11/2019,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2019-12,,31/12/2019,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2019-4,01/04/2019,,CO,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-1,01/01/2020,31/01/2020,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-2,01/02/2020,29/02/2020,CO,20,0,0.0,0.0,0,9,nan
+BINE : Benemerito Instituto Normal del Estado,2020-3,01/03/2020,31/03/2020,Auto%#,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-4,01/04/2020,30/04/2020,CO,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-5,01/05/2020,31/05/2020,CO,29,0,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2020-6,01/06/2020,30/06/2020,CO,,0,0.0,0.0,,2,nan
+BINE : Benemerito Instituto Normal del Estado,2020-7,01/07/2020,31/07/2020,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-8,01/08/2020,31/08/2020,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-9,01/09/2020,30/09/2020,CO,27,0,0.0,0.0,0,3,nan
+Auto%#,2020-10,01/10/2020,31/10/2020,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-11,01/11/2020,30/11/2020,CO,14,0,0.0,0.0,0,16,nan
+BINE : Benemerito Instituto Normal del Estado,2020-12,01/12/2020,31/12/2020,CO,10,0,0.0,0.0,0,Auto%#,nan
+NIN : Las Ninfas,2020-1,01/01/2020,31/01/2020,CO,30,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2020-2,01/02/2020,29/02/2020,CO,Auto%#,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2020-3,01/03/2020,31/03/2020,CO,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2020-4,01/04/2020,30/04/2020,CO,27,0,0.0,0.0,0,,nan
+NIN : Las Ninfas,2020-5,01/05/2020,31/05/2020,CO,30,0,,0.0,0,1,nan
+NIN : Las Ninfas,2020-6,01/06/2020,30/06/2020,CO,27,0,0.0,0.0,0,Auto%#,nan
+NIN : Las Ninfas,2020-7,01/07/2020,31/07/2020,CO,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2020-8,01/08/2020,31/08/2020,CO,26,0,0.0,0.0,0,5,nan
+NIN : Las Ninfas,2020-9,01/09/2020,30/09/2020,CO,29,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2020-10,01/10/2020,31/10/2020,Auto%#,27,0,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2020-11,01/11/2020,30/11/2020,CO,25,0,0.0,0.0,0,5,nan
+NIN : Las Ninfas,2020-12,01/12/2020,31/12/2020,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2020-1,01/01/2020,31/01/2020,CO,25,0,0.0,0.0,0,6,nan
+STA : Agua Santa,2020-2,01/02/2020,29/02/2020,CO,25,0,0.0,0.0,0,4,
+STA : Agua Santa,2020-3,01/03/2020,,CO,24,0,0.0,0.0,0,7,nan
+STA : Agua Santa,2020-4,01/04/2020,30/04/2020,CO,21,0,0.0,0.0,0,9,nan
+STA : Agua Santa,,01/05/2020,31/05/2020,Auto%#,10,16,0.0,0.0,0,5,nan
+STA : Agua Santa,,01/06/2020,30/06/2020,CO,6,10,0.0,0.0,0,14,nan
+STA : Agua Santa,2020-9,01/09/2020,30/09/2020,CO,7,0,0.0,0.0,0,23,nan
+STA : Agua Santa,2020-10,01/10/2020,31/10/2020,CO,29,0,0.0,0.0,0,2,nan
+STA : Agua Santa,2020-11,01/11/2020,30/11/2020,CO,17,0,0.0,0.0,0,13,nan
+STA : Agua Santa,2020-12,01/12/2020,31/12/2020,CO,6,0,0.0,0.0,0,25,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-1,01/01/2020,31/01/2020,CO,29,0,0.0,0.0,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-2,01/02/2020,29/02/2020,CO,26,0,0.0,0.0,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-3,01/03/2020,31/03/2020,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-4,01/04/2020,30/04/2020,CO,,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-5,,31/05/2020,CO,8,0,0.0,0.0,0,23,nan
+,2020-6,01/06/2020,30/06/2020,CO,2,0,0.0,0.0,0,28,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-7,01/07/2020,31/07/2020,CO,13,0,0.0,0.0,0,18,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-11,01/11/2020,30/11/2020,CO,5,0,0.0,0.0,0,25,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-12,01/12/2020,31/12/2020,CO,25,0,0.0,0.0,0,6,nan
+VEL : Velodromo,2020-1,01/01/2020,31/01/2020,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-2,01/02/2020,29/02/2020,CO,29,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-3,01/03/2020,31/03/2020,CO,,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-4,01/04/2020,30/04/2020,CO,21,0,0.0,0.0,0,9,
+VEL : Velodromo,2020-5,01/05/2020,31/05/2020,CO,27,0,0.0,0.0,0,4,nan
+VEL : Velodromo,2020-6,01/06/2020,30/06/2020,CO,28,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2020-7,01/07/2020,31/07/2020,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-8,01/08/2020,31/08/2020,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-9,01/09/2020,30/09/2020,CO,30,0,0.0,0.0,0,0,nan
+Auto%#,2020-10,01/10/2020,31/10/2020,CO,31,0,0.0,0.0,0,0,
+VEL : Velodromo,2020-11,01/11/2020,30/11/2020,,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-12,01/12/2020,31/12/2020,CO,31,0,0.0,0.0,0,Auto%#,nan
+Agregado,,01/01/2020,31/01/2020,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2020-2,01/02/2020,29/02/2020,CO,29,0,0.0,0.0,0,0,nan
+Agregado,2020-3,01/03/2020,31/03/2020,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2020-4,01/04/2020,30/04/2020,CO,30,0,0.0,,0,0,nan
+Agregado,2020-5,01/05/2020,31/05/2020,CO,15,16,0.0,0.0,0,0,nan
+Agregado,2020-6,01/06/2020,30/06/2020,CO,20,10,0.0,0.0,0,0,nan
+Agregado,2020-7,01/07/2020,,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2020-8,01/08/2020,31/08/2020,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2020-9,01/09/2020,30/09/2020,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2020-10,01/10/2020,31/10/2020,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2020-11,01/11/2020,30/11/2020,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2020-12,01/12/2020,31/12/2020,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-4,01/04/2021,30/04/2021,CO,3,1,0.0,0.0,0,26,nan
+BINE : Benemerito Instituto Normal del Estado,2021-5,01/05/2021,31/05/2021,CO,31,0,0.0,0.0,,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-6,01/06/2021,30/06/2021,CO,19,0,0.0,0.0,0,11,nan
+BINE : Benemerito Instituto Normal del Estado,2021-7,01/07/2021,31/07/2021,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-8,01/08/2021,31/08/2021,CO,8,0,0.0,0.0,0,23,nan
+BINE : Benemerito Instituto Normal del Estado,2021-9,01/09/2021,30/09/2021,CO,15,0,0.0,0.0,0,15,nan
+BINE : Benemerito Instituto Normal del Estado,2021-10,01/10/2021,31/10/2021,CO,22,0,0.0,,0,9,nan
+BINE : Benemerito Instituto Normal del Estado,2021-11,01/11/2021,30/11/2021,CO,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-12,01/12/2021,31/12/2021,CO,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-1,01/01/2021,31/01/2021,CO,31,0,,0.0,0,0,nan
+NIN : Las Ninfas,2021-2,01/02/2021,28/02/2021,CO,27,0,0.0,0.0,0,1,nan
+Auto%#,,01/03/2021,31/03/2021,CO,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-4,01/04/2021,30/04/2021,CO,25,0,,0.0,0,5,nan
+NIN : Las Ninfas,2021-5,01/05/2021,31/05/2021,CO,30,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2021-6,01/06/2021,,CO,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-7,01/07/2021,31/07/2021,CO,22,0,0.0,0.0,0,9,nan
+NIN : Las Ninfas,2021-8,01/08/2021,31/08/2021,CO,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2021-9,01/09/2021,30/09/2021,CO,16,0,0.0,0.0,0,14,nan
+NIN : Las Ninfas,2021-10,01/10/2021,31/10/2021,CO,15,Auto%#,0.0,0.0,0,16,nan
+NIN : Las Ninfas,2021-11,01/11/2021,30/11/2021,CO,17,0,0.0,0.0,0,13,nan
+NIN : Las Ninfas,2021-12,01/12/2021,31/12/2021,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-2,01/02/2021,28/02/2021,CO,,0,0.0,0.0,,17,nan
+STA : Agua Santa,2021-3,01/03/2021,31/03/2021,Auto%#,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-4,01/04/2021,30/04/2021,CO,28,0,0.0,0.0,0,2,nan
+STA : Agua Santa,2021-5,01/05/2021,31/05/2021,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-6,01/06/2021,30/06/2021,CO,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-7,01/07/2021,31/07/2021,CO,12,0,0.0,0.0,0,19,nan
+STA : Agua Santa,2021-10,01/10/2021,31/10/2021,CO,6,0,0.0,0.0,0,25,nan
+STA : Agua Santa,2021-11,01/11/2021,30/11/2021,CO,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-12,01/12/2021,31/12/2021,CO,9,0,0.0,0.0,0,22,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-1,01/01/2021,31/01/2021,,12,0,0.0,0.0,0,19,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-2,01/02/2021,28/02/2021,CO,24,0,0.0,0.0,0,4,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-3,01/03/2021,31/03/2021,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-4,01/04/2021,30/04/2021,Auto%#,30,,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-5,01/05/2021,31/05/2021,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-6,01/06/2021,30/06/2021,CO,10,0,0.0,0.0,0,20,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-7,01/07/2021,31/07/2021,CO,30,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-8,01/08/2021,31/08/2021,CO,28,0,0.0,0.0,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-9,01/09/2021,30/09/2021,CO,30,0,0.0,0.0,Auto%#,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-10,01/10/2021,31/10/2021,CO,29,0,0.0,0.0,Auto%#,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-11,01/11/2021,30/11/2021,CO,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-12,01/12/2021,31/12/2021,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2021-1,01/01/2021,31/01/2021,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2021-2,01/02/2021,28/02/2021,CO,15,0,0.0,0.0,0,13,nan
+VEL : Velodromo,2021-3,01/03/2021,31/03/2021,CO,15,0,0.0,0.0,0,16,nan
+VEL : Velodromo,2021-4,01/04/2021,30/04/2021,CO,28,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2021-5,01/05/2021,31/05/2021,CO,26,0,0.0,0.0,0,5,nan
+VEL : Velodromo,2021-6,01/06/2021,30/06/2021,CO,26,0,0.0,0.0,0,4,nan
+VEL : Velodromo,2021-7,01/07/2021,31/07/2021,CO,27,0,0.0,0.0,0,4,nan
+VEL : Velodromo,2021-8,01/08/2021,31/08/2021,CO,31,0,0.0,,0,0,nan
+VEL : Velodromo,2021-9,01/09/2021,30/09/2021,CO,28,0,,0.0,0,2,nan
+VEL : Velodromo,2021-10,01/10/2021,31/10/2021,CO,24,0,0.0,0.0,0,7,nan
+VEL : Velodromo,2021-11,01/11/2021,30/11/2021,CO,20,0,0.0,0.0,0,10,nan
+Auto%#,2021-12,01/12/2021,31/12/2021,CO,24,0,0.0,0.0,0,7,nan
+Agregado,2021-4,01/04/2021,30/04/2021,CO,29,1,0.0,0.0,0,0,nan
+Auto%#,2021-5,01/05/2021,31/05/2021,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2021-6,,30/06/2021,CO,30,0,0.0,0.0,Auto%#,0,nan
+,2021-7,01/07/2021,31/07/2021,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2021-8,01/08/2021,31/08/2021,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2021-9,01/09/2021,30/09/2021,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2021-10,01/10/2021,31/10/2021,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2021-11,01/11/2021,30/11/2021,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2021-12,01/12/2021,31/12/2021,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2021-1,01/01/2021,31/01/2021,CO,31,0,0.0,0.0,0,0,
+Agregado,2021-2,01/02/2021,28/02/2021,CO,28,0,0.0,0.0,0,0,nan
+Agregado,2021-3,01/03/2021,31/03/2021,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-2,01/02/2022,28/02/2022,,28,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-3,01/03/2022,31/03/2022,CO,16,0,0.0,0.0,0,15,nan
+BINE : Benemerito Instituto Normal del Estado,2022-4,01/04/2022,30/04/2022,CO,24,0,0.0,0.0,0,6,nan
+BINE : Benemerito Instituto Normal del Estado,2022-5,01/05/2022,31/05/2022,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-6,01/06/2022,30/06/2022,CO,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-7,01/07/2022,31/07/2022,CO,29,0,0.0,0.0,0,2,
+BINE : Benemerito Instituto Normal del Estado,2022-8,01/08/2022,31/08/2022,Auto%#,22,,0.0,0.0,0,9,nan
+BINE : Benemerito Instituto Normal del Estado,2022-9,01/09/2022,30/09/2022,CO,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-10,01/10/2022,31/10/2022,CO,29,0,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2022-11,01/11/2022,30/11/2022,CO,30,0,0.0,0.0,0,0,
+BINE : Benemerito Instituto Normal del Estado,2022-12,01/12/2022,31/12/2022,CO,28,0,0.0,0.0,,3,nan
+NIN : Las Ninfas,2022-1,01/01/2022,31/01/2022,CO,14,0,0.0,0.0,0,17,nan
+NIN : Las Ninfas,2022-4,01/04/2022,30/04/2022,CO,5,0,0.0,0.0,0,25,nan
+NIN : Las Ninfas,2022-5,01/05/2022,31/05/2022,CO,10,0,0.0,0.0,0,21,nan
+NIN : Las Ninfas,2022-6,01/06/2022,30/06/2022,CO,29,0,0.0,0.0,0,1,nan
+NIN : Las Ninfas,2022-11,01/11/2022,30/11/2022,Auto%#,,0,0.0,0.0,0,28,nan
+NIN : Las Ninfas,2022-12,01/12/2022,31/12/2022,CO,30,0,0.0,0.0,0,1,nan
+STA : Agua Santa,2022-4,01/04/2022,30/04/2022,CO,1,0,0.0,0.0,0,29,nan
+,2022-5,01/05/2022,31/05/2022,CO,,0,0.0,0.0,0,25,nan
+STA : Agua Santa,2022-6,01/06/2022,30/06/2022,CO,1,Auto%#,0.0,0.0,0,29,nan
+STA : Agua Santa,2022-12,01/12/2022,31/12/2022,CO,17,0,0.0,0.0,0,14,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-1,01/01/2022,31/01/2022,CO,30,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-2,01/02/2022,28/02/2022,CO,27,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-3,01/03/2022,31/03/2022,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-4,01/04/2022,30/04/2022,CO,27,0,0.0,0.0,0,3,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-5,01/05/2022,31/05/2022,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-6,01/06/2022,30/06/2022,CO,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-7,01/07/2022,31/07/2022,CO,31,Auto%#,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-8,01/08/2022,31/08/2022,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-9,01/09/2022,30/09/2022,CO,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-10,01/10/2022,31/10/2022,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-11,01/11/2022,30/11/2022,CO,,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-12,01/12/2022,31/12/2022,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2022-2,01/02/2022,28/02/2022,Auto%#,11,0,0.0,0.0,0,17,nan
+VEL : Velodromo,2022-3,01/03/2022,31/03/2022,CO,9,0,0.0,0.0,0,22,nan
+VEL : Velodromo,2022-4,01/04/2022,30/04/2022,,30,0,0.0,0.0,0,,nan
+,2022-5,01/05/2022,31/05/2022,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2022-6,01/06/2022,30/06/2022,CO,27,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2022-7,01/07/2022,31/07/2022,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2022-8,01/08/2022,31/08/2022,,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2022-9,01/09/2022,30/09/2022,CO,30,0,0.0,0.0,0,Auto%#,nan
+VEL : Velodromo,2022-10,01/10/2022,31/10/2022,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2022-11,01/11/2022,30/11/2022,CO,Auto%#,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2022-12,01/12/2022,31/12/2022,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2022-2,01/02/2022,28/02/2022,CO,28,0,0.0,0.0,0,0,nan
+Agregado,2022-3,01/03/2022,31/03/2022,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2022-4,01/04/2022,30/04/2022,,,0,0.0,0.0,0,0,nan
+Agregado,2022-5,01/05/2022,31/05/2022,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2022-6,01/06/2022,30/06/2022,CO,30,0,,0.0,0,0,nan
+Agregado,2022-7,01/07/2022,31/07/2022,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2022-8,01/08/2022,31/08/2022,CO,,0,,0.0,0,0,nan
+Agregado,,01/09/2022,30/09/2022,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2022-10,01/10/2022,31/10/2022,CO,31,0,0.0,0.0,,0,nan
+Agregado,2022-11,01/11/2022,30/11/2022,CO,30,0,0.0,0.0,,0,nan
+Agregado,2022-12,01/12/2022,31/12/2022,CO,31,0,0.0,0.0,0,0,
+Agregado,2022-1,01/01/2022,31/01/2022,CO,31,Auto%#,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2016-1,01/01/2016,31/01/2016,O3,M�ximo riesgo de 1 y 8 horas,31,0.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2016-2,01/02/2016,29/02/2016,O3,M�ximo riesgo de 1 y 8 horas,29,0.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2016-3,01/03/2016,31/03/2016,O3,M�ximo riesgo de 1 y 8 horas,24,0.0,0.0,0,0,7.0
+BINE : Benemerito Instituto Normal del Estado,2016-4,01/04/2016,30/04/2016,O3,M�ximo riesgo de 1 y 8 horas,22,0.0,0.0,0,0,8.0
+BINE : Benemerito Instituto Normal del Estado,2016-5,01/05/2016,31/05/2016,O3,M�ximo riesgo de 1 y 8 horas,0,0.0,0.0,0,0,31.0
+BINE : Benemerito Instituto Normal del Estado,2016-6,01/06/2016,30/06/2016,O3,,,0.0,0.0,0,0,25.0
+BINE : Benemerito Instituto Normal del Estado,2016-7,01/07/2016,31/07/2016,O3,M�ximo riesgo de 1 y 8 horas,18,13.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2016-8,01/08/2016,31/08/2016,O3,M�ximo riesgo de 1 y 8 horas,16,11.0,4.0,0,,0.0
+BINE : Benemerito Instituto Normal del Estado,2016-9,01/09/2016,,O3,M�ximo riesgo de 1 y 8 horas,19,11.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2016-10,01/10/2016,31/10/2016,O3,M�ximo riesgo de 1 y 8 horas,12,15.0,0.0,0,0,4.0
+BINE : Benemerito Instituto Normal del Estado,2016-11,,30/11/2016,O3,M�ximo riesgo de 1 y 8 horas,13,7.0,0.0,0,0,10.0
+BINE : Benemerito Instituto Normal del Estado,2016-12,01/12/2016,31/12/2016,O3,M�ximo riesgo de 1 y 8 horas,20,2.0,0.0,,0,9.0
+STA : Agua Santa,2016-1,01/01/2016,31/01/2016,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,1.0,0.0,0,0,0.0
+STA : Agua Santa,2016-2,01/02/2016,29/02/2016,O3,M�ximo riesgo de 1 y 8 horas,28,1.0,0.0,0,,0.0
+STA : Agua Santa,2016-3,01/03/2016,31/03/2016,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,1.0,0.0,0,0,0.0
+STA : Agua Santa,2016-4,01/04/2016,30/04/2016,O3,M�ximo riesgo de 1 y 8 horas,24,6.0,0.0,0,0,0.0
+STA : Agua Santa,2016-5,01/05/2016,31/05/2016,O3,M�ximo riesgo de 1 y 8 horas,23,8.0,0.0,,0,0.0
+STA : Agua Santa,2016-6,01/06/2016,30/06/2016,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,0.0
+STA : Agua Santa,2016-7,01/07/2016,31/07/2016,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,1.0
+STA : Agua Santa,2016-8,01/08/2016,31/08/2016,O3,M�ximo riesgo de 1 y 8 horas,21,6.0,1.0,0,0,3.0
+STA : Agua Santa,2016-9,01/09/2016,30/09/2016,O3,M�ximo riesgo de 1 y 8 horas,3,2.0,1.0,0,0,24.0
+STA : Agua Santa,2016-10,01/10/2016,31/10/2016,O3,M�ximo riesgo de 1 y 8 horas,5,6.0,3.0,0,0,17.0
+STA : Agua Santa,2016-11,01/11/2016,30/11/2016,,M�ximo riesgo de 1 y 8 horas,5,11.0,3.0,,0,11.0
+STA : Agua Santa,2016-12,01/12/2016,31/12/2016,O3,M�ximo riesgo de 1 y 8 horas,,6.0,1.0,0,0,18.0
+UTP : Universidad Tecnol�gica de Puebla,2016-1,01/01/2016,31/01/2016,O3,Auto%#,28,3.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2016-2,01/02/2016,29/02/2016,O3,M�ximo riesgo de 1 y 8 horas,24,5.0,0.0,0,0,
+UTP : Universidad Tecnol�gica de Puebla,2016-3,01/03/2016,31/03/2016,O3,M�ximo riesgo de 1 y 8 horas,27,4.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2016-4,01/04/2016,30/04/2016,O3,M�ximo riesgo de 1 y 8 horas,22,8.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2016-5,01/05/2016,31/05/2016,O3,M�ximo riesgo de 1 y 8 horas,12,19.0,,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2016-6,01/06/2016,30/06/2016,O3,M�ximo riesgo de 1 y 8 horas,25,5.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2016-7,01/07/2016,31/07/2016,O3,M�ximo riesgo de 1 y 8 horas,31,0.0,0.0,0,0,
+UTP : Universidad Tecnol�gica de Puebla,2016-8,01/08/2016,31/08/2016,O3,M�ximo riesgo de 1 y 8 horas,23,8.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2016-9,01/09/2016,30/09/2016,O3,M�ximo riesgo de 1 y 8 horas,28,2.0,0.0,0,0,0.0
+,2016-10,01/10/2016,31/10/2016,O3,M�ximo riesgo de 1 y 8 horas,24,7.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2016-11,01/11/2016,30/11/2016,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2016-12,01/12/2016,31/12/2016,O3,M�ximo riesgo de 1 y 8 horas,24,6.0,,0,0,0.0
+VEL : Velodromo,2016-1,01/01/2016,31/01/2016,O3,M�ximo riesgo de 1 y 8 horas,23,8.0,0.0,0,0,0.0
+VEL : Velodromo,2016-2,01/02/2016,,O3,M�ximo riesgo de 1 y 8 horas,14,15.0,0.0,0,Auto%#,0.0
+VEL : Velodromo,2016-3,01/03/2016,31/03/2016,O3,M�ximo riesgo de 1 y 8 horas,22,9.0,0.0,0,0,0.0
+VEL : Velodromo,2016-4,01/04/2016,30/04/2016,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,8.0,1.0,0,0,12.0
+VEL : Velodromo,2016-5,01/05/2016,31/05/2016,O3,M�ximo riesgo de 1 y 8 horas,1,20.0,10.0,0,0,0.0
+VEL : Velodromo,2016-6,01/06/2016,30/06/2016,O3,M�ximo riesgo de 1 y 8 horas,11,19.0,0.0,0,0,0.0
+VEL : Velodromo,2016-7,01/07/2016,31/07/2016,O3,M�ximo riesgo de 1 y 8 horas,15,14.0,0.0,0,0,2.0
+VEL : Velodromo,2016-8,01/08/2016,31/08/2016,O3,M�ximo riesgo de 1 y 8 horas,15,14.0,,0,0,0.0
+VEL : Velodromo,2016-9,01/09/2016,30/09/2016,O3,M�ximo riesgo de 1 y 8 horas,12,17.0,0.0,0,0,1.0
+VEL : Velodromo,2016-10,01/10/2016,31/10/2016,O3,M�ximo riesgo de 1 y 8 horas,16,11.0,2.0,0,0,2.0
+VEL : Velodromo,2016-11,01/11/2016,30/11/2016,O3,,14,6.0,5.0,0,0,5.0
+VEL : Velodromo,2016-12,01/12/2016,31/12/2016,O3,M�ximo riesgo de 1 y 8 horas,10,12.0,8.0,0,0,1.0
+Agregado,2016-1,01/01/2016,31/01/2016,O3,M�ximo riesgo de 1 y 8 horas,23,8.0,0.0,0,0,0.0
+Agregado,2016-2,01/02/2016,29/02/2016,O3,M�ximo riesgo de 1 y 8 horas,14,15.0,0.0,,0,0.0
+,2016-3,01/03/2016,31/03/2016,O3,M�ximo riesgo de 1 y 8 horas,22,9.0,0.0,0,0,0.0
+Agregado,2016-4,01/04/2016,30/04/2016,O3,M�ximo riesgo de 1 y 8 horas,16,13.0,1.0,0,0,0.0
+Agregado,2016-5,01/05/2016,31/05/2016,O3,M�ximo riesgo de 1 y 8 horas,0,21.0,10.0,0,0,0.0
+Agregado,2016-6,01/06/2016,30/06/2016,Auto%#,M�ximo riesgo de 1 y 8 horas,11,19.0,0.0,0,0,0.0
+Agregado,2016-7,01/07/2016,31/07/2016,O3,,14,17.0,0.0,0,0,0.0
+Agregado,2016-8,01/08/2016,31/08/2016,O3,M�ximo riesgo de 1 y 8 horas,11,14.0,6.0,0,0,0.0
+Agregado,2016-9,01/09/2016,30/09/2016,O3,M�ximo riesgo de 1 y 8 horas,12,17.0,1.0,0,0,0.0
+Agregado,2016-10,01/10/2016,31/10/2016,O3,M�ximo riesgo de 1 y 8 horas,9,17.0,5.0,0,0,0.0
+Agregado,2016-11,01/11/2016,30/11/2016,O3,M�ximo riesgo de 1 y 8 horas,7,15.0,8.0,Auto%#,0,0.0
+Agregado,2016-12,01/12/2016,31/12/2016,O3,M�ximo riesgo de 1 y 8 horas,9,14.0,8.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2017-1,01/01/2017,31/01/2017,O3,M�ximo riesgo de 1 y 8 horas,23,8.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2017-2,01/02/2017,28/02/2017,O3,M�ximo riesgo de 1 y 8 horas,20,6.0,0.0,0,0,2.0
+BINE : Benemerito Instituto Normal del Estado,2017-3,01/03/2017,31/03/2017,O3,M�ximo riesgo de 1 y 8 horas,15,7.0,0.0,0,0,9.0
+BINE : Benemerito Instituto Normal del Estado,2017-4,01/04/2017,30/04/2017,O3,M�ximo riesgo de 1 y 8 horas,5,22.0,0.0,0,0,3.0
+Auto%#,2017-5,01/05/2017,31/05/2017,O3,M�ximo riesgo de 1 y 8 horas,7,24.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2017-6,01/06/2017,30/06/2017,O3,M�ximo riesgo de 1 y 8 horas,14,16.0,0.0,Auto%#,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2017-7,01/07/2017,31/07/2017,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,7.0,0.0,0,0,3.0
+BINE : Benemerito Instituto Normal del Estado,2017-8,01/08/2017,31/08/2017,O3,M�ximo riesgo de 1 y 8 horas,21,10.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2017-9,01/09/2017,30/09/2017,O3,M�ximo riesgo de 1 y 8 horas,21,5.0,0.0,0,0,4.0
+BINE : Benemerito Instituto Normal del Estado,2017-10,01/10/2017,31/10/2017,O3,M�ximo riesgo de 1 y 8 horas,23,8.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2017-11,01/11/2017,30/11/2017,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2017-12,01/12/2017,31/12/2017,O3,M�ximo riesgo de 1 y 8 horas,24,6.0,0.0,Auto%#,0,1.0
+NIN : Las Ninfas,2017-1,01/01/2017,31/01/2017,O3,M�ximo riesgo de 1 y 8 horas,22,0.0,0.0,0,0,9.0
+NIN : Las Ninfas,2017-2,01/02/2017,28/02/2017,O3,Auto%#,19,0.0,0.0,0,0,9.0
+NIN : Las Ninfas,2017-3,01/03/2017,31/03/2017,O3,M�ximo riesgo de 1 y 8 horas,25,0.0,0.0,0,0,6.0
+NIN : Las Ninfas,2017-4,01/04/2017,,O3,M�ximo riesgo de 1 y 8 horas,14,3.0,6.0,0,0,7.0
+NIN : Las Ninfas,2017-5,01/05/2017,31/05/2017,O3,M�ximo riesgo de 1 y 8 horas,3,18.0,10.0,0,0,0.0
+NIN : Las Ninfas,2017-6,01/06/2017,30/06/2017,O3,M�ximo riesgo de 1 y 8 horas,10,11.0,9.0,0,0,0.0
+NIN : Las Ninfas,2017-7,01/07/2017,31/07/2017,O3,M�ximo riesgo de 1 y 8 horas,9,18.0,2.0,0,,2.0
+NIN : Las Ninfas,2017-8,01/08/2017,,O3,M�ximo riesgo de 1 y 8 horas,9,9.0,0.0,0,0,13.0
+NIN : Las Ninfas,2017-9,01/09/2017,30/09/2017,O3,M�ximo riesgo de 1 y 8 horas,9,4.0,0.0,0,0,17.0
+NIN : Las Ninfas,2017-10,,31/10/2017,O3,M�ximo riesgo de 1 y 8 horas,22,0.0,0.0,0,0,9.0
+NIN : Las Ninfas,2017-11,01/11/2017,30/11/2017,O3,M�ximo riesgo de 1 y 8 horas,23,1.0,0.0,0,0,6.0
+NIN : Las Ninfas,2017-12,01/12/2017,,O3,M�ximo riesgo de 1 y 8 horas,21,0.0,0.0,0,0,10.0
+STA : Agua Santa,2017-1,01/01/2017,31/01/2017,O3,M�ximo riesgo de 1 y 8 horas,10,16.0,2.0,0,0,3.0
+STA : Agua Santa,2017-2,01/02/2017,28/02/2017,O3,M�ximo riesgo de 1 y 8 horas,6,12.0,1.0,0,0,9.0
+,2017-3,01/03/2017,31/03/2017,O3,M�ximo riesgo de 1 y 8 horas,0,0.0,0.0,0,0,31.0
+STA : Agua Santa,2017-4,01/04/2017,30/04/2017,O3,M�ximo riesgo de 1 y 8 horas,0,0.0,0.0,0,0,30.0
+STA : Agua Santa,2017-5,01/05/2017,,O3,M�ximo riesgo de 1 y 8 horas,3,0.0,0.0,0,0,28.0
+STA : Agua Santa,2017-6,01/06/2017,30/06/2017,O3,,2,8.0,1.0,0,0,19.0
+STA : Agua Santa,2017-7,01/07/2017,31/07/2017,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,,0.0,0,0,5.0
+STA : Agua Santa,2017-8,01/08/2017,31/08/2017,O3,M�ximo riesgo de 1 y 8 horas,13,1.0,0.0,0,0,17.0
+STA : Agua Santa,2017-9,01/09/2017,30/09/2017,O3,M�ximo riesgo de 1 y 8 horas,18,0.0,0.0,0,,12.0
+STA : Agua Santa,2017-10,01/10/2017,31/10/2017,Auto%#,M�ximo riesgo de 1 y 8 horas,7,9.0,0.0,0,0,15.0
+STA : Agua Santa,2017-11,01/11/2017,30/11/2017,O3,M�ximo riesgo de 1 y 8 horas,7,19.0,4.0,0,0,0.0
+STA : Agua Santa,2017-12,01/12/2017,31/12/2017,O3,M�ximo riesgo de 1 y 8 horas,6,15.0,0.0,0,0,10.0
+UTP : Universidad Tecnol�gica de Puebla,2017-1,01/01/2017,31/01/2017,Auto%#,M�ximo riesgo de 1 y 8 horas,24,7.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-2,01/02/2017,28/02/2017,O3,M�ximo riesgo de 1 y 8 horas,16,12.0,0.0,Auto%#,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-3,01/03/2017,31/03/2017,O3,M�ximo riesgo de 1 y 8 horas,12,19.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-4,01/04/2017,30/04/2017,O3,M�ximo riesgo de 1 y 8 horas,3,19.0,6.0,0,0,2.0
+UTP : Universidad Tecnol�gica de Puebla,2017-5,01/05/2017,31/05/2017,O3,M�ximo riesgo de 1 y 8 horas,1,19.0,11.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-6,01/06/2017,30/06/2017,O3,M�ximo riesgo de 1 y 8 horas,10,12.0,8.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-7,01/07/2017,31/07/2017,O3,M�ximo riesgo de 1 y 8 horas,9,22.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-8,01/08/2017,31/08/2017,O3,M�ximo riesgo de 1 y 8 horas,12,19.0,0.0,Auto%#,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-9,01/09/2017,30/09/2017,O3,M�ximo riesgo de 1 y 8 horas,25,3.0,2.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-10,01/10/2017,31/10/2017,O3,M�ximo riesgo de 1 y 8 horas,15,15.0,1.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-11,01/11/2017,30/11/2017,O3,M�ximo riesgo de 1 y 8 horas,9,19.0,2.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-12,01/12/2017,31/12/2017,O3,M�ximo riesgo de 1 y 8 horas,8,18.0,2.0,0,0,3.0
+VEL : Velodromo,2017-1,01/01/2017,31/01/2017,O3,M�ximo riesgo de 1 y 8 horas,7,10.0,5.0,0,0,9.0
+VEL : Velodromo,2017-2,01/02/2017,28/02/2017,O3,M�ximo riesgo de 1 y 8 horas,6,2.0,,0,0,20.0
+VEL : Velodromo,2017-3,01/03/2017,31/03/2017,O3,M�ximo riesgo de 1 y 8 horas,14,17.0,0.0,0,0,0.0
+VEL : Velodromo,2017-4,01/04/2017,30/04/2017,O3,M�ximo riesgo de 1 y 8 horas,6,24.0,0.0,0,0,0.0
+VEL : Velodromo,2017-5,01/05/2017,31/05/2017,O3,M�ximo riesgo de 1 y 8 horas,5,26.0,,0,0,0.0
+VEL : Velodromo,2017-6,01/06/2017,30/06/2017,O3,M�ximo riesgo de 1 y 8 horas,15,15.0,0.0,0,Auto%#,0.0
+VEL : Velodromo,2017-7,01/07/2017,31/07/2017,O3,M�ximo riesgo de 1 y 8 horas,19,12.0,0.0,0,0,0.0
+VEL : Velodromo,2017-8,01/08/2017,31/08/2017,O3,M�ximo riesgo de 1 y 8 horas,20,10.0,0.0,0,0,1.0
+VEL : Velodromo,2017-9,01/09/2017,30/09/2017,O3,Auto%#,27,3.0,0.0,0,0,0.0
+VEL : Velodromo,2017-10,01/10/2017,31/10/2017,O3,M�ximo riesgo de 1 y 8 horas,20,8.0,0.0,0,Auto%#,3.0
+VEL : Velodromo,2017-11,01/11/2017,30/11/2017,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,0.0,0,0,0.0
+VEL : Velodromo,2017-12,01/12/2017,31/12/2017,O3,,,4.0,0.0,0,0,2.0
+Agregado,2017-1,01/01/2017,31/01/2017,O3,,6,19.0,6.0,0,0,0.0
+Agregado,2017-2,01/02/2017,28/02/2017,O3,M�ximo riesgo de 1 y 8 horas,5,22.0,1.0,0,0,0.0
+Agregado,2017-3,01/03/2017,31/03/2017,O3,M�ximo riesgo de 1 y 8 horas,10,21.0,0.0,0,0,0.0
+Agregado,,01/04/2017,30/04/2017,,M�ximo riesgo de 1 y 8 horas,2,18.0,10.0,0,0,0.0
+Agregado,2017-5,01/05/2017,31/05/2017,O3,M�ximo riesgo de 1 y 8 horas,1,,13.0,0,0,0.0
+Agregado,2017-6,01/06/2017,30/06/2017,O3,M�ximo riesgo de 1 y 8 horas,7,12.0,11.0,0,0,0.0
+Agregado,2017-7,01/07/2017,31/07/2017,O3,M�ximo riesgo de 1 y 8 horas,8,21.0,2.0,0,0,0.0
+Agregado,2017-8,01/08/2017,31/08/2017,O3,M�ximo riesgo de 1 y 8 horas,,21.0,0.0,0,0,0.0
+Agregado,2017-9,01/09/2017,30/09/2017,O3,M�ximo riesgo de 1 y 8 horas,19,9.0,2.0,0,0,0.0
+Agregado,2017-10,01/10/2017,31/10/2017,O3,M�ximo riesgo de 1 y 8 horas,13,17.0,1.0,0,0,0.0
+Agregado,2017-11,01/11/2017,30/11/2017,O3,M�ximo riesgo de 1 y 8 horas,5,21.0,4.0,0,0,0.0
+Agregado,2017-12,01/12/2017,31/12/2017,O3,M�ximo riesgo de 1 y 8 horas,10,19.0,2.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2018-1,01/01/2018,31/01/2018,O3,M�ximo riesgo de 1 y 8 horas,25,4.0,0.0,0,0,2.0
+BINE : Benemerito Instituto Normal del Estado,2018-2,01/02/2018,28/02/2018,O3,M�ximo riesgo de 1 y 8 horas,18,10.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2018-3,01/03/2018,31/03/2018,,M�ximo riesgo de 1 y 8 horas,19,12.0,,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2018-4,01/04/2018,30/04/2018,O3,M�ximo riesgo de 1 y 8 horas,4,25.0,0.0,0,0,1.0
+BINE : Benemerito Instituto Normal del Estado,2018-5,01/05/2018,31/05/2018,O3,M�ximo riesgo de 1 y 8 horas,4,22.0,3.0,0,0,2.0
+BINE : Benemerito Instituto Normal del Estado,2018-6,01/06/2018,30/06/2018,O3,M�ximo riesgo de 1 y 8 horas,20,8.0,0.0,0,0,2.0
+BINE : Benemerito Instituto Normal del Estado,2018-7,01/07/2018,31/07/2018,O3,M�ximo riesgo de 1 y 8 horas,17,14.0,,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2018-8,01/08/2018,31/08/2018,O3,M�ximo riesgo de 1 y 8 horas,21,10.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2018-9,01/09/2018,30/09/2018,O3,M�ximo riesgo de 1 y 8 horas,17,13.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2018-10,01/10/2018,31/10/2018,O3,M�ximo riesgo de 1 y 8 horas,26,5.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2018-11,01/11/2018,30/11/2018,O3,M�ximo riesgo de 1 y 8 horas,20,9.0,0.0,0,,1.0
+BINE : Benemerito Instituto Normal del Estado,2018-12,01/12/2018,31/12/2018,O3,M�ximo riesgo de 1 y 8 horas,17,10.0,4.0,0,0,0.0
+NIN : Las Ninfas,2018-1,01/01/2018,31/01/2018,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,1.0
+NIN : Las Ninfas,2018-2,01/02/2018,28/02/2018,O3,M�ximo riesgo de 1 y 8 horas,26,0.0,0.0,0,0,2.0
+NIN : Las Ninfas,2018-3,01/03/2018,31/03/2018,O3,M�ximo riesgo de 1 y 8 horas,31,0.0,0.0,0,0,0.0
+NIN : Las Ninfas,2018-4,01/04/2018,30/04/2018,O3,M�ximo riesgo de 1 y 8 horas,6,0.0,0.0,0,0,24.0
+NIN : Las Ninfas,2018-5,01/05/2018,31/05/2018,O3,M�ximo riesgo de 1 y 8 horas,29,0.0,0.0,0,0,2.0
+NIN : Las Ninfas,2018-6,01/06/2018,30/06/2018,O3,M�ximo riesgo de 1 y 8 horas,27,0.0,0.0,0,0,3.0
+NIN : Las Ninfas,2018-7,01/07/2018,31/07/2018,O3,M�ximo riesgo de 1 y 8 horas,31,0.0,0.0,0,0,0.0
+NIN : Las Ninfas,2018-8,01/08/2018,31/08/2018,O3,M�ximo riesgo de 1 y 8 horas,3,21.0,3.0,0,,4.0
+NIN : Las Ninfas,2018-9,01/09/2018,30/09/2018,O3,M�ximo riesgo de 1 y 8 horas,1,18.0,11.0,0,,0.0
+NIN : Las Ninfas,2018-10,01/10/2018,31/10/2018,O3,M�ximo riesgo de 1 y 8 horas,9,13.0,6.0,0,0,3.0
+NIN : Las Ninfas,2018-11,01/11/2018,30/11/2018,O3,M�ximo riesgo de 1 y 8 horas,20,8.0,2.0,0,0,0.0
+NIN : Las Ninfas,2018-12,01/12/2018,31/12/2018,,M�ximo riesgo de 1 y 8 horas,26,4.0,0.0,,0,1.0
+STA : Agua Santa,2018-1,01/01/2018,31/01/2018,O3,M�ximo riesgo de 1 y 8 horas,1,13.0,7.0,1,0,9.0
+STA : Agua Santa,2018-2,01/02/2018,,O3,M�ximo riesgo de 1 y 8 horas,2,11.0,8.0,0,0,7.0
+STA : Agua Santa,2018-3,01/03/2018,31/03/2018,O3,,3,11.0,8.0,0,0,9.0
+STA : Agua Santa,2018-4,01/04/2018,30/04/2018,O3,M�ximo riesgo de 1 y 8 horas,0,,15.0,2,0,7.0
+STA : Agua Santa,2018-5,01/05/2018,31/05/2018,O3,M�ximo riesgo de 1 y 8 horas,1,9.0,12.0,0,0,9.0
+STA : Agua Santa,2018-6,01/06/2018,30/06/2018,O3,M�ximo riesgo de 1 y 8 horas,10,7.0,2.0,0,0,11.0
+STA : Agua Santa,2018-7,01/07/2018,31/07/2018,O3,M�ximo riesgo de 1 y 8 horas,4,17.0,4.0,0,0,6.0
+STA : Agua Santa,2018-8,01/08/2018,31/08/2018,O3,M�ximo riesgo de 1 y 8 horas,25,0.0,0.0,0,0,6.0
+Auto%#,2018-9,01/09/2018,30/09/2018,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,0.0
+STA : Agua Santa,,01/10/2018,31/10/2018,O3,M�ximo riesgo de 1 y 8 horas,31,0.0,0.0,0,0,0.0
+STA : Agua Santa,2018-11,01/11/2018,30/11/2018,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,0.0
+STA : Agua Santa,2018-12,01/12/2018,31/12/2018,O3,M�ximo riesgo de 1 y 8 horas,31,0.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2018-1,01/01/2018,31/01/2018,O3,M�ximo riesgo de 1 y 8 horas,7,19.0,3.0,0,0,2.0
+UTP : Universidad Tecnol�gica de Puebla,2018-2,01/02/2018,28/02/2018,O3,M�ximo riesgo de 1 y 8 horas,6,9.0,5.0,0,0,8.0
+UTP : Universidad Tecnol�gica de Puebla,2018-3,01/03/2018,31/03/2018,O3,M�ximo riesgo de 1 y 8 horas,0,25.0,6.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2018-4,01/04/2018,30/04/2018,O3,M�ximo riesgo de 1 y 8 horas,0,12.0,10.0,4,0,4.0
+UTP : Universidad Tecnol�gica de Puebla,2018-5,01/05/2018,31/05/2018,O3,,3,18.0,8.0,2,0,
+UTP : Universidad Tecnol�gica de Puebla,2018-6,01/06/2018,30/06/2018,O3,M�ximo riesgo de 1 y 8 horas,14,6.0,3.0,1,0,6.0
+UTP : Universidad Tecnol�gica de Puebla,2018-7,01/07/2018,31/07/2018,O3,M�ximo riesgo de 1 y 8 horas,14,11.0,1.0,0,Auto%#,5.0
+UTP : Universidad Tecnol�gica de Puebla,2018-8,01/08/2018,31/08/2018,O3,M�ximo riesgo de 1 y 8 horas,26,5.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2018-9,01/09/2018,30/09/2018,O3,M�ximo riesgo de 1 y 8 horas,24,6.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2018-10,01/10/2018,31/10/2018,O3,M�ximo riesgo de 1 y 8 horas,29,0.0,0.0,0,0,2.0
+UTP : Universidad Tecnol�gica de Puebla,2018-11,01/11/2018,30/11/2018,Auto%#,M�ximo riesgo de 1 y 8 horas,22,5.0,0.0,0,0,3.0
+UTP : Universidad Tecnol�gica de Puebla,2018-12,01/12/2018,31/12/2018,O3,M�ximo riesgo de 1 y 8 horas,27,4.0,0.0,0,0,0.0
+VEL : Velodromo,2018-1,01/01/2018,31/01/2018,O3,M�ximo riesgo de 1 y 8 horas,17,11.0,0.0,0,0,3.0
+VEL : Velodromo,2018-2,,28/02/2018,,M�ximo riesgo de 1 y 8 horas,19,9.0,0.0,0,0,0.0
+VEL : Velodromo,2018-3,01/03/2018,31/03/2018,O3,M�ximo riesgo de 1 y 8 horas,18,11.0,0.0,0,0,2.0
+VEL : Velodromo,,01/04/2018,,O3,M�ximo riesgo de 1 y 8 horas,6,24.0,0.0,0,0,
+VEL : Velodromo,2018-5,01/05/2018,31/05/2018,O3,M�ximo riesgo de 1 y 8 horas,5,26.0,0.0,0,0,0.0
+VEL : Velodromo,2018-6,01/06/2018,30/06/2018,O3,M�ximo riesgo de 1 y 8 horas,26,4.0,0.0,0,0,0.0
+VEL : Velodromo,2018-7,01/07/2018,31/07/2018,O3,M�ximo riesgo de 1 y 8 horas,17,14.0,0.0,0,0,0.0
+VEL : Velodromo,2018-8,01/08/2018,31/08/2018,O3,M�ximo riesgo de 1 y 8 horas,27,4.0,0.0,0,0,0.0
+VEL : Velodromo,2018-9,01/09/2018,30/09/2018,O3,M�ximo riesgo de 1 y 8 horas,25,5.0,0.0,0,0,0.0
+VEL : Velodromo,2018-10,01/10/2018,31/10/2018,O3,M�ximo riesgo de 1 y 8 horas,29,2.0,0.0,0,0,0.0
+VEL : Velodromo,2018-11,01/11/2018,30/11/2018,O3,M�ximo riesgo de 1 y 8 horas,21,,0.0,0,0,0.0
+VEL : Velodromo,2018-12,01/12/2018,31/12/2018,O3,M�ximo riesgo de 1 y 8 horas,25,6.0,0.0,0,0,0.0
+Agregado,2018-1,01/01/2018,31/01/2018,O3,M�ximo riesgo de 1 y 8 horas,3,19.0,8.0,1,0,0.0
+Agregado,2018-2,01/02/2018,28/02/2018,O3,Auto%#,5,12.0,11.0,0,0,
+Agregado,2018-3,01/03/2018,31/03/2018,O3,M�ximo riesgo de 1 y 8 horas,0,20.0,11.0,0,0,0.0
+Agregado,2018-4,01/04/2018,,O3,M�ximo riesgo de 1 y 8 horas,0,8.0,17.0,5,0,0.0
+Agregado,2018-5,01/05/2018,31/05/2018,O3,M�ximo riesgo de 1 y 8 horas,0,,18.0,2,0,0.0
+Agregado,2018-6,01/06/2018,30/06/2018,O3,M�ximo riesgo de 1 y 8 horas,12,12.0,5.0,1,0,0.0
+Agregado,2018-7,01/07/2018,31/07/2018,O3,M�ximo riesgo de 1 y 8 horas,5,21.0,5.0,0,Auto%#,0.0
+Agregado,2018-8,,31/08/2018,O3,M�ximo riesgo de 1 y 8 horas,5,23.0,3.0,0,0,0.0
+Agregado,2018-9,01/09/2018,30/09/2018,O3,M�ximo riesgo de 1 y 8 horas,1,18.0,11.0,0,Auto%#,0.0
+Agregado,2018-10,01/10/2018,31/10/2018,O3,M�ximo riesgo de 1 y 8 horas,12,13.0,6.0,0,0,0.0
+Agregado,2018-11,01/11/2018,30/11/2018,O3,M�ximo riesgo de 1 y 8 horas,17,11.0,2.0,0,0,0.0
+Agregado,2018-12,01/12/2018,31/12/2018,O3,M�ximo riesgo de 1 y 8 horas,17,10.0,,0,0,
+BINE : Benemerito Instituto Normal del Estado,2019-1,01/01/2019,31/01/2019,O3,M�ximo riesgo de 1 y 8 horas,19,11.0,1.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2019-2,01/02/2019,28/02/2019,O3,,24,4.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2019-3,,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,11,0.0,,0,0,20.0
+BINE : Benemerito Instituto Normal del Estado,2019-4,01/04/2019,30/04/2019,O3,,0,0.0,0.0,0,0,30.0
+BINE : Benemerito Instituto Normal del Estado,2019-5,01/05/2019,31/05/2019,O3,M�ximo riesgo de 1 y 8 horas,0,2.0,2.0,0,0,27.0
+BINE : Benemerito Instituto Normal del Estado,2019-6,01/06/2019,30/06/2019,O3,M�ximo riesgo de 1 y 8 horas,14,3.0,0.0,0,0,13.0
+BINE : Benemerito Instituto Normal del Estado,2019-7,01/07/2019,31/07/2019,,M�ximo riesgo de 1 y 8 horas,21,9.0,1.0,,,0.0
+BINE : Benemerito Instituto Normal del Estado,2019-8,01/08/2019,31/08/2019,O3,M�ximo riesgo de 1 y 8 horas,5,9.0,8.0,0,0,9.0
+BINE : Benemerito Instituto Normal del Estado,2019-9,01/09/2019,30/09/2019,O3,M�ximo riesgo de 1 y 8 horas,5,14.0,5.0,1,0,5.0
+BINE : Benemerito Instituto Normal del Estado,2019-10,01/10/2019,31/10/2019,O3,M�ximo riesgo de 1 y 8 horas,3,5.0,1.0,0,0,22.0
+BINE : Benemerito Instituto Normal del Estado,2019-11,01/11/2019,30/11/2019,O3,M�ximo riesgo de 1 y 8 horas,5,,6.0,1,0,0.0
+,,01/12/2019,31/12/2019,O3,M�ximo riesgo de 1 y 8 horas,3,7.0,4.0,0,0,17.0
+NIN : Las Ninfas,2019-1,01/01/2019,31/01/2019,O3,M�ximo riesgo de 1 y 8 horas,28,3.0,0.0,Auto%#,0,0.0
+NIN : Las Ninfas,,01/02/2019,28/02/2019,O3,M�ximo riesgo de 1 y 8 horas,21,7.0,0.0,0,0,0.0
+,2019-3,01/03/2019,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,21,10.0,0.0,0,0,0.0
+NIN : Las Ninfas,2019-4,01/04/2019,30/04/2019,O3,M�ximo riesgo de 1 y 8 horas,8,22.0,0.0,0,0,0.0
+NIN : Las Ninfas,2019-5,,31/05/2019,O3,M�ximo riesgo de 1 y 8 horas,1,27.0,1.0,0,0,2.0
+NIN : Las Ninfas,2019-6,,30/06/2019,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,4.0,0.0,0,0,0.0
+NIN : Las Ninfas,2019-7,01/07/2019,31/07/2019,O3,M�ximo riesgo de 1 y 8 horas,28,3.0,0.0,0,0,0.0
+NIN : Las Ninfas,,01/08/2019,31/08/2019,O3,M�ximo riesgo de 1 y 8 horas,24,7.0,0.0,0,0,0.0
+NIN : Las Ninfas,2019-9,01/09/2019,30/09/2019,O3,M�ximo riesgo de 1 y 8 horas,26,4.0,0.0,0,0,0.0
+,2019-10,01/10/2019,31/10/2019,O3,M�ximo riesgo de 1 y 8 horas,25,6.0,0.0,0,0,0.0
+NIN : Las Ninfas,2019-11,01/11/2019,30/11/2019,O3,M�ximo riesgo de 1 y 8 horas,26,4.0,0.0,0,0,0.0
+NIN : Las Ninfas,2019-12,01/12/2019,31/12/2019,O3,M�ximo riesgo de 1 y 8 horas,,9.0,0.0,Auto%#,0,9.0
+STA : Agua Santa,2019-1,01/01/2019,31/01/2019,O3,M�ximo riesgo de 1 y 8 horas,26,0.0,0.0,0,0,5.0
+STA : Agua Santa,2019-2,01/02/2019,28/02/2019,O3,M�ximo riesgo de 1 y 8 horas,18,1.0,0.0,,0,9.0
+STA : Agua Santa,2019-3,01/03/2019,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,23,1.0,0.0,0,0,7.0
+STA : Agua Santa,2019-4,01/04/2019,30/04/2019,O3,M�ximo riesgo de 1 y 8 horas,10,1.0,0.0,0,0,19.0
+STA : Agua Santa,2019-5,01/05/2019,31/05/2019,O3,Auto%#,16,6.0,0.0,0,0,9.0
+STA : Agua Santa,2019-6,01/06/2019,30/06/2019,O3,M�ximo riesgo de 1 y 8 horas,20,10.0,0.0,0,0,0.0
+STA : Agua Santa,2019-7,01/07/2019,31/07/2019,O3,M�ximo riesgo de 1 y 8 horas,12,2.0,0.0,0,0,17.0
+STA : Agua Santa,2019-8,01/08/2019,31/08/2019,O3,M�ximo riesgo de 1 y 8 horas,18,9.0,0.0,0,0,4.0
+STA : Agua Santa,2019-9,01/09/2019,30/09/2019,O3,,Auto%#,4.0,0.0,0,0,7.0
+STA : Agua Santa,2019-10,01/10/2019,31/10/2019,O3,M�ximo riesgo de 1 y 8 horas,17,,0.0,0,,9.0
+,2019-11,01/11/2019,30/11/2019,O3,M�ximo riesgo de 1 y 8 horas,15,5.0,0.0,0,0,10.0
+STA : Agua Santa,2019-12,01/12/2019,31/12/2019,O3,M�ximo riesgo de 1 y 8 horas,13,13.0,0.0,0,0,5.0
+UTP : Universidad Tecnol�gica de Puebla,2019-1,01/01/2019,31/01/2019,O3,M�ximo riesgo de 1 y 8 horas,28,3.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2019-2,01/02/2019,28/02/2019,O3,M�ximo riesgo de 1 y 8 horas,,11.0,,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2019-3,01/03/2019,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,27,4.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2019-4,01/04/2019,30/04/2019,O3,M�ximo riesgo de 1 y 8 horas,20,7.0,0.0,0,0,3.0
+UTP : Universidad Tecnol�gica de Puebla,2019-5,01/05/2019,,O3,M�ximo riesgo de 1 y 8 horas,0,28.0,3.0,0,Auto%#,0.0
+Auto%#,2019-6,01/06/2019,30/06/2019,O3,M�ximo riesgo de 1 y 8 horas,23,6.0,1.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2019-7,01/07/2019,31/07/2019,O3,M�ximo riesgo de 1 y 8 horas,,4.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2019-8,01/08/2019,31/08/2019,O3,M�ximo riesgo de 1 y 8 horas,15,7.0,0.0,0,0,9.0
+,2019-9,01/09/2019,30/09/2019,O3,M�ximo riesgo de 1 y 8 horas,,4.0,0.0,0,0,1.0
+UTP : Universidad Tecnol�gica de Puebla,2019-10,01/10/2019,31/10/2019,O3,M�ximo riesgo de 1 y 8 horas,23,4.0,0.0,0,0,4.0
+UTP : Universidad Tecnol�gica de Puebla,2019-11,01/11/2019,30/11/2019,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,3.0,0.0,0,0,9.0
+UTP : Universidad Tecnol�gica de Puebla,2019-12,01/12/2019,31/12/2019,O3,M�ximo riesgo de 1 y 8 horas,14,7.0,0.0,0,0,10.0
+VEL : Velodromo,2019-1,01/01/2019,31/01/2019,O3,M�ximo riesgo de 1 y 8 horas,19,10.0,0.0,0,0,2.0
+VEL : Velodromo,,01/02/2019,28/02/2019,O3,M�ximo riesgo de 1 y 8 horas,14,14.0,0.0,Auto%#,0,0.0
+VEL : Velodromo,2019-3,01/03/2019,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,11,20.0,0.0,0,0,0.0
+VEL : Velodromo,2019-4,01/04/2019,30/04/2019,O3,M�ximo riesgo de 1 y 8 horas,1,,5.0,0,0,9.0
+VEL : Velodromo,2019-5,01/05/2019,31/05/2019,O3,M�ximo riesgo de 1 y 8 horas,0,10.0,4.0,0,0,17.0
+VEL : Velodromo,2019-6,01/06/2019,30/06/2019,O3,M�ximo riesgo de 1 y 8 horas,3,3.0,0.0,0,0,
+VEL : Velodromo,2019-7,01/07/2019,31/07/2019,O3,M�ximo riesgo de 1 y 8 horas,21,,0.0,0,0,0.0
+VEL : Velodromo,2019-8,01/08/2019,31/08/2019,O3,M�ximo riesgo de 1 y 8 horas,1,7.0,2.0,0,0,21.0
+Auto%#,,01/09/2019,30/09/2019,O3,M�ximo riesgo de 1 y 8 horas,10,12.0,5.0,0,0,3.0
+VEL : Velodromo,2019-10,01/10/2019,31/10/2019,O3,M�ximo riesgo de 1 y 8 horas,8,5.0,1.0,0,0,
+VEL : Velodromo,2019-11,01/11/2019,30/11/2019,O3,M�ximo riesgo de 1 y 8 horas,5,10.0,1.0,0,0,14.0
+VEL : Velodromo,2019-12,01/12/2019,31/12/2019,O3,M�ximo riesgo de 1 y 8 horas,13,16.0,2.0,0,0,0.0
+Agregado,2019-1,01/01/2019,31/01/2019,O3,M�ximo riesgo de 1 y 8 horas,17,13.0,1.0,,0,0.0
+Agregado,2019-2,01/02/2019,28/02/2019,O3,M�ximo riesgo de 1 y 8 horas,12,16.0,0.0,0,0,0.0
+Agregado,2019-3,01/03/2019,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,11,20.0,0.0,0,0,0.0
+Agregado,2019-4,01/04/2019,30/04/2019,O3,M�ximo riesgo de 1 y 8 horas,5,20.0,5.0,0,0,0.0
+Agregado,2019-5,01/05/2019,31/05/2019,O3,M�ximo riesgo de 1 y 8 horas,,25.0,6.0,0,0,0.0
+Agregado,2019-6,01/06/2019,30/06/2019,O3,M�ximo riesgo de 1 y 8 horas,18,11.0,1.0,0,0,0.0
+Agregado,2019-7,01/07/2019,31/07/2019,O3,M�ximo riesgo de 1 y 8 horas,11,19.0,1.0,0,0,0.0
+Agregado,2019-8,01/08/2019,31/08/2019,O3,M�ximo riesgo de 1 y 8 horas,10,13.0,8.0,0,0,
+,2019-9,01/09/2019,30/09/2019,O3,M�ximo riesgo de 1 y 8 horas,6,16.0,7.0,1,0,0.0
+Agregado,2019-10,01/10/2019,31/10/2019,O3,M�ximo riesgo de 1 y 8 horas,17,12.0,2.0,0,0,0.0
+Agregado,,01/11/2019,30/11/2019,O3,M�ximo riesgo de 1 y 8 horas,5,18.0,6.0,1,Auto%#,0.0
+Agregado,2019-12,01/12/2019,31/12/2019,O3,M�ximo riesgo de 1 y 8 horas,8,17.0,6.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2020-1,01/01/2020,31/01/2020,O3,M�ximo riesgo de 1 y 8 horas,9,16.0,1.0,0,0,5.0
+BINE : Benemerito Instituto Normal del Estado,2020-2,01/02/2020,29/02/2020,O3,Auto%#,5,8.0,7.0,0,0,9.0
+BINE : Benemerito Instituto Normal del Estado,2020-3,01/03/2020,31/03/2020,O3,M�ximo riesgo de 1 y 8 horas,0,12.0,18.0,1,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2020-4,01/04/2020,30/04/2020,O3,M�ximo riesgo de 1 y 8 horas,0,9.0,21.0,Auto%#,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2020-5,01/05/2020,31/05/2020,O3,M�ximo riesgo de 1 y 8 horas,1,3.0,21.0,2,0,4.0
+BINE : Benemerito Instituto Normal del Estado,2020-6,01/06/2020,30/06/2020,Auto%#,M�ximo riesgo de 1 y 8 horas,16,13.0,1.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2020-7,01/07/2020,31/07/2020,O3,M�ximo riesgo de 1 y 8 horas,14,16.0,1.0,Auto%#,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2020-8,01/08/2020,31/08/2020,O3,M�ximo riesgo de 1 y 8 horas,16,13.0,2.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2020-9,01/09/2020,30/09/2020,O3,M�ximo riesgo de 1 y 8 horas,16,10.0,,0,0,4.0
+BINE : Benemerito Instituto Normal del Estado,2020-10,01/10/2020,31/10/2020,O3,M�ximo riesgo de 1 y 8 horas,9,21.0,1.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2020-11,01/11/2020,30/11/2020,O3,M�ximo riesgo de 1 y 8 horas,7,6.0,1.0,0,0,16.0
+BINE : Benemerito Instituto Normal del Estado,2020-12,01/12/2020,31/12/2020,O3,M�ximo riesgo de 1 y 8 horas,4,6.0,0.0,0,0,21.0
+NIN : Las Ninfas,2020-1,01/01/2020,31/01/2020,O3,M�ximo riesgo de 1 y 8 horas,27,1.0,0.0,0,0,3.0
+NIN : Las Ninfas,2020-2,,29/02/2020,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,4.0,0.0,0,,2.0
+NIN : Las Ninfas,2020-3,01/03/2020,31/03/2020,O3,M�ximo riesgo de 1 y 8 horas,13,15.0,1.0,0,0,2.0
+NIN : Las Ninfas,2020-4,01/04/2020,30/04/2020,O3,M�ximo riesgo de 1 y 8 horas,11,16.0,0.0,0,0,3.0
+NIN : Las Ninfas,2020-5,01/05/2020,31/05/2020,O3,M�ximo riesgo de 1 y 8 horas,7,23.0,1.0,0,0,0.0
+NIN : Las Ninfas,2020-6,01/06/2020,30/06/2020,O3,M�ximo riesgo de 1 y 8 horas,18,10.0,0.0,0,0,2.0
+NIN : Las Ninfas,2020-7,01/07/2020,31/07/2020,O3,M�ximo riesgo de 1 y 8 horas,23,6.0,0.0,0,0,2.0
+NIN : Las Ninfas,2020-8,01/08/2020,31/08/2020,O3,M�ximo riesgo de 1 y 8 horas,23,4.0,0.0,0,0,4.0
+Auto%#,2020-9,01/09/2020,30/09/2020,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,0.0
+NIN : Las Ninfas,2020-10,01/10/2020,31/10/2020,O3,M�ximo riesgo de 1 y 8 horas,29,0.0,0.0,0,0,2.0
+NIN : Las Ninfas,2020-11,01/11/2020,30/11/2020,O3,M�ximo riesgo de 1 y 8 horas,5,3.0,0.0,0,0,22.0
+NIN : Las Ninfas,2020-12,01/12/2020,31/12/2020,O3,M�ximo riesgo de 1 y 8 horas,17,12.0,0.0,0,0,2.0
+STA : Agua Santa,2020-1,01/01/2020,31/01/2020,O3,M�ximo riesgo de 1 y 8 horas,21,5.0,0.0,0,0,5.0
+STA : Agua Santa,2020-2,,29/02/2020,O3,M�ximo riesgo de 1 y 8 horas,16,9.0,0.0,0,,4.0
+STA : Agua Santa,2020-3,01/03/2020,31/03/2020,O3,M�ximo riesgo de 1 y 8 horas,7,16.0,1.0,0,,7.0
+STA : Agua Santa,2020-4,01/04/2020,30/04/2020,O3,M�ximo riesgo de 1 y 8 horas,2,19.0,0.0,0,0,9.0
+STA : Agua Santa,2020-5,01/05/2020,31/05/2020,,M�ximo riesgo de 1 y 8 horas,0,20.0,6.0,0,Auto%#,5.0
+STA : Agua Santa,2020-6,01/06/2020,30/06/2020,O3,M�ximo riesgo de 1 y 8 horas,10,13.0,1.0,0,0,6.0
+STA : Agua Santa,2020-7,01/07/2020,31/07/2020,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,0.0,0,0,1.0
+STA : Agua Santa,2020-8,01/08/2020,31/08/2020,O3,M�ximo riesgo de 1 y 8 horas,15,3.0,0.0,0,0,13.0
+STA : Agua Santa,2020-9,01/09/2020,30/09/2020,O3,M�ximo riesgo de 1 y 8 horas,25,1.0,0.0,Auto%#,0,4.0
+STA : Agua Santa,2020-10,01/10/2020,31/10/2020,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,1.0
+STA : Agua Santa,2020-11,01/11/2020,30/11/2020,O3,,26,0.0,0.0,0,0,4.0
+,2020-12,01/12/2020,31/12/2020,O3,M�ximo riesgo de 1 y 8 horas,8,0.0,0.0,0,0,23.0
+UTP : Universidad Tecnol�gica de Puebla,2020-1,01/01/2020,31/01/2020,O3,M�ximo riesgo de 1 y 8 horas,24,3.0,0.0,0,0,4.0
+UTP : Universidad Tecnol�gica de Puebla,2020-2,01/02/2020,29/02/2020,O3,M�ximo riesgo de 1 y 8 horas,21,7.0,0.0,0,0,1.0
+UTP : Universidad Tecnol�gica de Puebla,2020-3,01/03/2020,31/03/2020,O3,M�ximo riesgo de 1 y 8 horas,12,19.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2020-4,01/04/2020,30/04/2020,O3,M�ximo riesgo de 1 y 8 horas,12,17.0,1.0,0,0,0.0
+Auto%#,2020-5,01/05/2020,31/05/2020,O3,M�ximo riesgo de 1 y 8 horas,17,12.0,2.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2020-6,01/06/2020,30/06/2020,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,0.0,0,0,
+UTP : Universidad Tecnol�gica de Puebla,2020-7,01/07/2020,31/07/2020,O3,Auto%#,26,5.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2020-8,01/08/2020,31/08/2020,O3,M�ximo riesgo de 1 y 8 horas,2,0.0,0.0,0,0,29.0
+UTP : Universidad Tecnol�gica de Puebla,,01/09/2020,30/09/2020,O3,M�ximo riesgo de 1 y 8 horas,0,0.0,0.0,0,0,30.0
+UTP : Universidad Tecnol�gica de Puebla,2020-10,01/10/2020,31/10/2020,O3,M�ximo riesgo de 1 y 8 horas,0,0.0,0.0,0,0,31.0
+UTP : Universidad Tecnol�gica de Puebla,2020-11,01/11/2020,30/11/2020,O3,M�ximo riesgo de 1 y 8 horas,3,3.0,0.0,0,0,24.0
+UTP : Universidad Tecnol�gica de Puebla,2020-12,01/12/2020,31/12/2020,O3,M�ximo riesgo de 1 y 8 horas,22,6.0,0.0,0,0,3.0
+VEL : Velodromo,2020-1,01/01/2020,31/01/2020,O3,M�ximo riesgo de 1 y 8 horas,11,3.0,0.0,0,0,
+VEL : Velodromo,2020-2,01/02/2020,29/02/2020,O3,M�ximo riesgo de 1 y 8 horas,9,5.0,2.0,0,,13.0
+VEL : Velodromo,2020-3,01/03/2020,31/03/2020,O3,M�ximo riesgo de 1 y 8 horas,3,15.0,7.0,0,0,6.0
+VEL : Velodromo,2020-4,01/04/2020,30/04/2020,O3,M�ximo riesgo de 1 y 8 horas,1,20.0,3.0,0,0,6.0
+VEL : Velodromo,2020-5,01/05/2020,31/05/2020,O3,M�ximo riesgo de 1 y 8 horas,3,21.0,7.0,0,0,0.0
+VEL : Velodromo,,01/06/2020,30/06/2020,O3,M�ximo riesgo de 1 y 8 horas,13,17.0,0.0,0,0,0.0
+VEL : Velodromo,2020-7,01/07/2020,31/07/2020,O3,M�ximo riesgo de 1 y 8 horas,9,21.0,1.0,0,,0.0
+VEL : Velodromo,2020-8,01/08/2020,31/08/2020,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,1.0,0,0,0.0
+VEL : Velodromo,2020-9,01/09/2020,30/09/2020,O3,M�ximo riesgo de 1 y 8 horas,17,13.0,0.0,0,0,0.0
+VEL : Velodromo,2020-10,01/10/2020,31/10/2020,O3,M�ximo riesgo de 1 y 8 horas,9,16.0,1.0,0,0,5.0
+VEL : Velodromo,2020-11,01/11/2020,30/11/2020,O3,,14,15.0,1.0,0,0,0.0
+VEL : Velodromo,2020-12,01/12/2020,31/12/2020,O3,M�ximo riesgo de 1 y 8 horas,20,11.0,0.0,0,0,
+Agregado,2020-1,01/01/2020,31/01/2020,O3,M�ximo riesgo de 1 y 8 horas,13,17.0,1.0,0,0,0.0
+Agregado,2020-2,01/02/2020,29/02/2020,O3,M�ximo riesgo de 1 y 8 horas,13,9.0,7.0,0,0,0.0
+Agregado,2020-3,01/03/2020,31/03/2020,O3,M�ximo riesgo de 1 y 8 horas,0,12.0,18.0,,0,0.0
+Agregado,2020-4,01/04/2020,30/04/2020,O3,M�ximo riesgo de 1 y 8 horas,0,9.0,21.0,0,0,0.0
+Agregado,2020-5,01/05/2020,31/05/2020,Auto%#,M�ximo riesgo de 1 y 8 horas,0,6.0,23.0,2,0,0.0
+Agregado,2020-6,01/06/2020,30/06/2020,O3,M�ximo riesgo de 1 y 8 horas,11,17.0,2.0,0,0,0.0
+Agregado,2020-7,01/07/2020,31/07/2020,O3,M�ximo riesgo de 1 y 8 horas,9,20.0,2.0,Auto%#,0,0.0
+Agregado,2020-8,01/08/2020,31/08/2020,O3,M�ximo riesgo de 1 y 8 horas,15,13.0,3.0,0,0,0.0
+Agregado,2020-9,01/09/2020,30/09/2020,O3,M�ximo riesgo de 1 y 8 horas,15,15.0,0.0,0,0,0.0
+Agregado,2020-10,01/10/2020,31/10/2020,O3,M�ximo riesgo de 1 y 8 horas,9,21.0,1.0,0,Auto%#,0.0
+Agregado,2020-11,01/11/2020,30/11/2020,O3,M�ximo riesgo de 1 y 8 horas,13,16.0,1.0,0,0,0.0
+Agregado,2020-12,01/12/2020,31/12/2020,O3,M�ximo riesgo de 1 y 8 horas,18,13.0,0.0,0,0,0.0
+,2021-1,01/01/2021,31/01/2021,O3,M�ximo riesgo de 1 y 8 horas,17,8.0,1.0,0,0,5.0
+BINE : Benemerito Instituto Normal del Estado,2021-2,01/02/2021,28/02/2021,O3,M�ximo riesgo de 1 y 8 horas,11,14.0,3.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2021-3,01/03/2021,31/03/2021,Auto%#,M�ximo riesgo de 1 y 8 horas,3,24.0,2.0,0,0,2.0
+BINE : Benemerito Instituto Normal del Estado,2021-4,01/04/2021,30/04/2021,O3,,0,23.0,5.0,0,0,2.0
+BINE : Benemerito Instituto Normal del Estado,2021-5,01/05/2021,31/05/2021,O3,M�ximo riesgo de 1 y 8 horas,6,,,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2021-6,01/06/2021,30/06/2021,O3,M�ximo riesgo de 1 y 8 horas,20,1.0,0.0,0,0,9.0
+BINE : Benemerito Instituto Normal del Estado,2021-7,01/07/2021,31/07/2021,O3,M�ximo riesgo de 1 y 8 horas,16,15.0,0.0,0,0,0.0
+,2021-8,01/08/2021,31/08/2021,O3,,,14.0,0.0,0,0,1.0
+BINE : Benemerito Instituto Normal del Estado,2021-9,01/09/2021,30/09/2021,O3,M�ximo riesgo de 1 y 8 horas,17,10.0,0.0,0,0,3.0
+BINE : Benemerito Instituto Normal del Estado,2021-10,01/10/2021,31/10/2021,O3,M�ximo riesgo de 1 y 8 horas,21,10.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2021-11,01/11/2021,30/11/2021,O3,M�ximo riesgo de 1 y 8 horas,17,13.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2021-12,01/12/2021,31/12/2021,O3,M�ximo riesgo de 1 y 8 horas,14,14.0,3.0,0,0,0.0
+NIN : Las Ninfas,2021-1,01/01/2021,31/01/2021,O3,M�ximo riesgo de 1 y 8 horas,22,8.0,0.0,0,0,1.0
+NIN : Las Ninfas,2021-2,01/02/2021,28/02/2021,O3,M�ximo riesgo de 1 y 8 horas,13,13.0,1.0,0,0,1.0
+NIN : Las Ninfas,2021-3,01/03/2021,31/03/2021,O3,,5,23.0,3.0,0,0,0.0
+,2021-4,01/04/2021,30/04/2021,O3,M�ximo riesgo de 1 y 8 horas,1,20.0,5.0,0,0,4.0
+NIN : Las Ninfas,2021-5,01/05/2021,31/05/2021,O3,M�ximo riesgo de 1 y 8 horas,5,23.0,2.0,0,0,1.0
+NIN : Las Ninfas,2021-6,01/06/2021,30/06/2021,O3,M�ximo riesgo de 1 y 8 horas,21,9.0,0.0,0,0,0.0
+NIN : Las Ninfas,2021-7,01/07/2021,31/07/2021,O3,M�ximo riesgo de 1 y 8 horas,12,14.0,0.0,0,0,5.0
+NIN : Las Ninfas,2021-8,01/08/2021,31/08/2021,O3,M�ximo riesgo de 1 y 8 horas,19,10.0,0.0,0,0,2.0
+NIN : Las Ninfas,2021-9,01/09/2021,30/09/2021,O3,M�ximo riesgo de 1 y 8 horas,26,4.0,0.0,0,0,
+NIN : Las Ninfas,2021-10,01/10/2021,31/10/2021,O3,M�ximo riesgo de 1 y 8 horas,25,6.0,0.0,0,0,0.0
+NIN : Las Ninfas,2021-11,01/11/2021,30/11/2021,O3,M�ximo riesgo de 1 y 8 horas,14,15.0,1.0,0,0,0.0
+NIN : Las Ninfas,2021-12,01/12/2021,31/12/2021,O3,M�ximo riesgo de 1 y 8 horas,13,15.0,3.0,,0,0.0
+STA : Agua Santa,2021-1,01/01/2021,31/01/2021,O3,M�ximo riesgo de 1 y 8 horas,0,0.0,0.0,0,0,31.0
+STA : Agua Santa,2021-2,,28/02/2021,O3,M�ximo riesgo de 1 y 8 horas,11,0.0,0.0,0,0,17.0
+STA : Agua Santa,2021-3,01/03/2021,31/03/2021,O3,M�ximo riesgo de 1 y 8 horas,30,1.0,0.0,0,0,0.0
+STA : Agua Santa,2021-4,01/04/2021,,O3,M�ximo riesgo de 1 y 8 horas,9,21.0,0.0,0,0,0.0
+STA : Agua Santa,2021-5,01/05/2021,31/05/2021,O3,M�ximo riesgo de 1 y 8 horas,20,11.0,0.0,0,0,0.0
+STA : Agua Santa,2021-6,01/06/2021,30/06/2021,O3,M�ximo riesgo de 1 y 8 horas,28,2.0,,0,0,0.0
+STA : Agua Santa,2021-7,01/07/2021,31/07/2021,O3,M�ximo riesgo de 1 y 8 horas,12,0.0,0.0,0,0,19.0
+STA : Agua Santa,2021-8,01/08/2021,31/08/2021,O3,Auto%#,0,,0.0,0,0,31.0
+STA : Agua Santa,2021-9,01/09/2021,30/09/2021,O3,M�ximo riesgo de 1 y 8 horas,0,,0.0,0,0,30.0
+STA : Agua Santa,2021-10,01/10/2021,31/10/2021,O3,M�ximo riesgo de 1 y 8 horas,4,2.0,,0,0,25.0
+,2021-11,01/11/2021,30/11/2021,,M�ximo riesgo de 1 y 8 horas,25,5.0,0.0,Auto%#,0,
+STA : Agua Santa,2021-12,01/12/2021,31/12/2021,O3,M�ximo riesgo de 1 y 8 horas,12,13.0,3.0,0,0,3.0
+UTP : Universidad Tecnol�gica de Puebla,2021-1,01/01/2021,31/01/2021,O3,M�ximo riesgo de 1 y 8 horas,23,8.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2021-2,01/02/2021,28/02/2021,O3,,19,7.0,1.0,Auto%#,0,1.0
+UTP : Universidad Tecnol�gica de Puebla,2021-3,01/03/2021,31/03/2021,O3,M�ximo riesgo de 1 y 8 horas,14,14.0,3.0,0,,0.0
+UTP : Universidad Tecnol�gica de Puebla,2021-4,01/04/2021,30/04/2021,O3,M�ximo riesgo de 1 y 8 horas,3,19.0,8.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2021-5,01/05/2021,31/05/2021,O3,M�ximo riesgo de 1 y 8 horas,31,0.0,0.0,,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2021-6,01/06/2021,30/06/2021,O3,M�ximo riesgo de 1 y 8 horas,10,0.0,0.0,0,0,20.0
+UTP : Universidad Tecnol�gica de Puebla,2021-7,01/07/2021,31/07/2021,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,1.0
+UTP : Universidad Tecnol�gica de Puebla,2021-8,01/08/2021,31/08/2021,O3,M�ximo riesgo de 1 y 8 horas,28,,0.0,0,0,3.0
+UTP : Universidad Tecnol�gica de Puebla,2021-9,01/09/2021,30/09/2021,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2021-10,01/10/2021,31/10/2021,O3,M�ximo riesgo de 1 y 8 horas,28,2.0,0.0,0,0,1.0
+UTP : Universidad Tecnol�gica de Puebla,,01/11/2021,30/11/2021,O3,M�ximo riesgo de 1 y 8 horas,28,2.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2021-12,01/12/2021,31/12/2021,O3,M�ximo riesgo de 1 y 8 horas,26,5.0,0.0,0,0,0.0
+VEL : Velodromo,2021-1,01/01/2021,31/01/2021,O3,M�ximo riesgo de 1 y 8 horas,23,8.0,0.0,0,0,0.0
+VEL : Velodromo,2021-2,01/02/2021,28/02/2021,Auto%#,M�ximo riesgo de 1 y 8 horas,9,6.0,0.0,0,0,13.0
+VEL : Velodromo,2021-3,01/03/2021,31/03/2021,O3,M�ximo riesgo de 1 y 8 horas,5,5.0,1.0,0,0,20.0
+VEL : Velodromo,2021-4,01/04/2021,30/04/2021,O3,M�ximo riesgo de 1 y 8 horas,3,21.0,5.0,0,0,1.0
+VEL : Velodromo,2021-5,01/05/2021,31/05/2021,O3,M�ximo riesgo de 1 y 8 horas,6,20.0,0.0,0,0,5.0
+VEL : Velodromo,2021-6,01/06/2021,30/06/2021,O3,M�ximo riesgo de 1 y 8 horas,20,6.0,0.0,0,0,4.0
+VEL : Velodromo,2021-7,01/07/2021,31/07/2021,O3,M�ximo riesgo de 1 y 8 horas,11,15.0,1.0,,0,4.0
+VEL : Velodromo,2021-8,01/08/2021,31/08/2021,O3,M�ximo riesgo de 1 y 8 horas,16,15.0,0.0,Auto%#,0,0.0
+VEL : Velodromo,2021-9,01/09/2021,30/09/2021,O3,M�ximo riesgo de 1 y 8 horas,21,7.0,0.0,0,0,2.0
+VEL : Velodromo,2021-10,01/10/2021,31/10/2021,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,6.0,0.0,0,0,6.0
+VEL : Velodromo,2021-11,01/11/2021,30/11/2021,O3,M�ximo riesgo de 1 y 8 horas,15,3.0,0.0,0,0,12.0
+VEL : Velodromo,,01/12/2021,31/12/2021,O3,M�ximo riesgo de 1 y 8 horas,11,16.0,2.0,0,0,2.0
+Agregado,2021-1,01/01/2021,31/01/2021,O3,M�ximo riesgo de 1 y 8 horas,21,9.0,,0,0,0.0
+Agregado,,01/02/2021,28/02/2021,O3,M�ximo riesgo de 1 y 8 horas,,14.0,3.0,0,0,0.0
+Agregado,2021-3,01/03/2021,31/03/2021,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,24.0,4.0,0,0,0.0
+Agregado,2021-4,01/04/2021,30/04/2021,O3,Auto%#,2,20.0,8.0,0,0,0.0
+Agregado,2021-5,01/05/2021,31/05/2021,O3,Auto%#,5,23.0,3.0,0,0,0.0
+Agregado,2021-6,01/06/2021,30/06/2021,O3,M�ximo riesgo de 1 y 8 horas,21,9.0,0.0,0,0,0.0
+Agregado,2021-7,01/07/2021,,O3,M�ximo riesgo de 1 y 8 horas,10,20.0,1.0,0,0,0.0
+Agregado,2021-8,01/08/2021,31/08/2021,O3,M�ximo riesgo de 1 y 8 horas,12,19.0,0.0,0,0,0.0
+Agregado,2021-9,01/09/2021,30/09/2021,Auto%#,M�ximo riesgo de 1 y 8 horas,20,10.0,0.0,0,0,0.0
+Agregado,2021-10,01/10/2021,31/10/2021,O3,M�ximo riesgo de 1 y 8 horas,18,13.0,0.0,0,0,0.0
+Agregado,2021-11,01/11/2021,30/11/2021,O3,M�ximo riesgo de 1 y 8 horas,13,16.0,1.0,0,0,0.0
+Agregado,2021-12,01/12/2021,31/12/2021,O3,M�ximo riesgo de 1 y 8 horas,12,16.0,3.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2022-1,01/01/2022,31/01/2022,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,10.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,,01/02/2022,28/02/2022,O3,M�ximo riesgo de 1 y 8 horas,22,6.0,,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2022-3,01/03/2022,31/03/2022,O3,M�ximo riesgo de 1 y 8 horas,12,4.0,0.0,0,,15.0
+BINE : Benemerito Instituto Normal del Estado,2022-4,01/04/2022,30/04/2022,O3,M�ximo riesgo de 1 y 8 horas,23,,0.0,0,0,
+BINE : Benemerito Instituto Normal del Estado,2022-5,,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,10,19.0,2.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2022-6,01/06/2022,30/06/2022,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,,01/07/2022,31/07/2022,O3,M�ximo riesgo de 1 y 8 horas,18,10.0,1.0,0,0,2.0
+BINE : Benemerito Instituto Normal del Estado,2022-8,01/08/2022,31/08/2022,O3,M�ximo riesgo de 1 y 8 horas,11,10.0,0.0,0,0,10.0
+BINE : Benemerito Instituto Normal del Estado,2022-9,01/09/2022,30/09/2022,O3,M�ximo riesgo de 1 y 8 horas,22,7.0,1.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2022-10,01/10/2022,31/10/2022,O3,M�ximo riesgo de 1 y 8 horas,15,12.0,3.0,0,0,1.0
+BINE : Benemerito Instituto Normal del Estado,2022-11,01/11/2022,30/11/2022,O3,M�ximo riesgo de 1 y 8 horas,19,11.0,0.0,0,,0.0
+BINE : Benemerito Instituto Normal del Estado,2022-12,01/12/2022,31/12/2022,Auto%#,M�ximo riesgo de 1 y 8 horas,27,1.0,0.0,0,0,3.0
+NIN : Las Ninfas,2022-1,01/01/2022,31/01/2022,O3,M�ximo riesgo de 1 y 8 horas,15,12.0,0.0,0,,4.0
+NIN : Las Ninfas,2022-2,01/02/2022,28/02/2022,O3,M�ximo riesgo de 1 y 8 horas,11,9.0,0.0,0,0,8.0
+NIN : Las Ninfas,2022-3,01/03/2022,31/03/2022,O3,M�ximo riesgo de 1 y 8 horas,14,1.0,2.0,0,0,14.0
+NIN : Las Ninfas,2022-4,01/04/2022,30/04/2022,O3,M�ximo riesgo de 1 y 8 horas,3,11.0,0.0,0,0,16.0
+NIN : Las Ninfas,2022-5,01/05/2022,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,4,18.0,8.0,0,Auto%#,1.0
+NIN : Las Ninfas,2022-6,01/06/2022,30/06/2022,O3,M�ximo riesgo de 1 y 8 horas,15,14.0,1.0,0,0,0.0
+NIN : Las Ninfas,2022-7,01/07/2022,,O3,M�ximo riesgo de 1 y 8 horas,17,13.0,1.0,0,0,0.0
+NIN : Las Ninfas,2022-8,01/08/2022,31/08/2022,O3,M�ximo riesgo de 1 y 8 horas,16,15.0,0.0,0,0,0.0
+NIN : Las Ninfas,2022-9,01/09/2022,30/09/2022,O3,M�ximo riesgo de 1 y 8 horas,20,9.0,1.0,0,0,0.0
+NIN : Las Ninfas,2022-10,01/10/2022,31/10/2022,O3,M�ximo riesgo de 1 y 8 horas,13,14.0,4.0,0,0,0.0
+NIN : Las Ninfas,2022-11,01/11/2022,30/11/2022,O3,M�ximo riesgo de 1 y 8 horas,13,17.0,0.0,0,0,0.0
+,2022-12,01/12/2022,31/12/2022,O3,M�ximo riesgo de 1 y 8 horas,21,10.0,0.0,0,0,0.0
+STA : Agua Santa,2022-1,01/01/2022,31/01/2022,O3,M�ximo riesgo de 1 y 8 horas,18,13.0,0.0,0,0,0.0
+STA : Agua Santa,,01/02/2022,28/02/2022,O3,M�ximo riesgo de 1 y 8 horas,21,7.0,0.0,0,0,0.0
+STA : Agua Santa,2022-3,01/03/2022,31/03/2022,O3,M�ximo riesgo de 1 y 8 horas,17,13.0,0.0,0,0,1.0
+STA : Agua Santa,2022-4,01/04/2022,30/04/2022,O3,M�ximo riesgo de 1 y 8 horas,6,23.0,1.0,0,0,0.0
+STA : Agua Santa,2022-5,01/05/2022,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,5,24.0,2.0,0,0,0.0
+STA : Agua Santa,2022-6,01/06/2022,30/06/2022,O3,M�ximo riesgo de 1 y 8 horas,23,7.0,0.0,0,0,0.0
+STA : Agua Santa,2022-7,01/07/2022,31/07/2022,Auto%#,M�ximo riesgo de 1 y 8 horas,27,4.0,0.0,0,0,0.0
+STA : Agua Santa,2022-8,01/08/2022,31/08/2022,O3,M�ximo riesgo de 1 y 8 horas,31,0.0,0.0,0,0,0.0
+STA : Agua Santa,2022-9,01/09/2022,30/09/2022,O3,M�ximo riesgo de 1 y 8 horas,29,1.0,,0,0,0.0
+STA : Agua Santa,2022-10,01/10/2022,31/10/2022,O3,M�ximo riesgo de 1 y 8 horas,26,3.0,0.0,0,0,2.0
+STA : Agua Santa,2022-11,01/11/2022,30/11/2022,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,0.0
+STA : Agua Santa,2022-12,01/12/2022,31/12/2022,O3,M�ximo riesgo de 1 y 8 horas,30,1.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2022-1,01/01/2022,31/01/2022,O3,M�ximo riesgo de 1 y 8 horas,28,3.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2022-2,01/02/2022,28/02/2022,O3,M�ximo riesgo de 1 y 8 horas,27,1.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2022-3,01/03/2022,31/03/2022,O3,M�ximo riesgo de 1 y 8 horas,25,6.0,0.0,0,,0.0
+UTP : Universidad Tecnol�gica de Puebla,2022-4,01/04/2022,30/04/2022,O3,M�ximo riesgo de 1 y 8 horas,18,11.0,0.0,0,0,1.0
+UTP : Universidad Tecnol�gica de Puebla,2022-5,01/05/2022,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,8,21.0,2.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2022-6,01/06/2022,30/06/2022,O3,M�ximo riesgo de 1 y 8 horas,19,11.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2022-7,01/07/2022,31/07/2022,O3,M�ximo riesgo de 1 y 8 horas,20,10.0,1.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2022-8,01/08/2022,31/08/2022,O3,M�ximo riesgo de 1 y 8 horas,10,11.0,1.0,0,0,9.0
+UTP : Universidad Tecnol�gica de Puebla,2022-9,,30/09/2022,O3,M�ximo riesgo de 1 y 8 horas,25,4.0,1.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2022-10,,31/10/2022,O3,M�ximo riesgo de 1 y 8 horas,23,7.0,0.0,,0,1.0
+UTP : Universidad Tecnol�gica de Puebla,2022-11,01/11/2022,30/11/2022,O3,M�ximo riesgo de 1 y 8 horas,20,1.0,,0,0,9.0
+UTP : Universidad Tecnol�gica de Puebla,2022-12,01/12/2022,31/12/2022,O3,,28,,0.0,0,0,0.0
+VEL : Velodromo,2022-1,01/01/2022,31/01/2022,O3,M�ximo riesgo de 1 y 8 horas,19,9.0,0.0,0,0,3.0
+VEL : Velodromo,2022-2,01/02/2022,28/02/2022,,M�ximo riesgo de 1 y 8 horas,17,9.0,0.0,0,0,2.0
+VEL : Velodromo,2022-3,01/03/2022,31/03/2022,O3,M�ximo riesgo de 1 y 8 horas,5,9.0,0.0,0,0,17.0
+VEL : Velodromo,2022-4,01/04/2022,30/04/2022,O3,M�ximo riesgo de 1 y 8 horas,1,25.0,4.0,0,0,0.0
+VEL : Velodromo,2022-5,01/05/2022,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,1,22.0,8.0,0,0,0.0
+Auto%#,2022-6,01/06/2022,30/06/2022,O3,M�ximo riesgo de 1 y 8 horas,10,,,0,0,3.0
+VEL : Velodromo,2022-7,01/07/2022,31/07/2022,Auto%#,M�ximo riesgo de 1 y 8 horas,6,24.0,1.0,0,0,0.0
+VEL : Velodromo,2022-8,01/08/2022,31/08/2022,O3,M�ximo riesgo de 1 y 8 horas,13,17.0,1.0,0,0,0.0
+VEL : Velodromo,2022-9,01/09/2022,30/09/2022,O3,M�ximo riesgo de 1 y 8 horas,22,6.0,2.0,0,0,0.0
+VEL : Velodromo,2022-10,01/10/2022,31/10/2022,O3,M�ximo riesgo de 1 y 8 horas,12,16.0,3.0,0,0,0.0
+VEL : Velodromo,2022-11,01/11/2022,30/11/2022,O3,M�ximo riesgo de 1 y 8 horas,7,22.0,1.0,0,0,0.0
+VEL : Velodromo,2022-12,01/12/2022,31/12/2022,O3,M�ximo riesgo de 1 y 8 horas,13,13.0,0.0,0,0,5.0
+Auto%#,2022-1,01/01/2022,31/01/2022,O3,M�ximo riesgo de 1 y 8 horas,15,16.0,0.0,0,0,0.0
+Agregado,2022-2,01/02/2022,28/02/2022,O3,M�ximo riesgo de 1 y 8 horas,17,11.0,0.0,0,0,0.0
+Agregado,2022-3,01/03/2022,31/03/2022,O3,M�ximo riesgo de 1 y 8 horas,14,15.0,2.0,0,0,0.0
+Agregado,2022-4,01/04/2022,,O3,M�ximo riesgo de 1 y 8 horas,1,25.0,4.0,0,0,0.0
+,2022-5,01/05/2022,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,1,21.0,9.0,0,0,0.0
+Agregado,2022-6,01/06/2022,30/06/2022,O3,M�ximo riesgo de 1 y 8 horas,11,18.0,1.0,0,0,0.0
+Agregado,2022-7,01/07/2022,31/07/2022,O3,M�ximo riesgo de 1 y 8 horas,6,24.0,1.0,0,0,0.0
+Agregado,2022-8,01/08/2022,31/08/2022,O3,M�ximo riesgo de 1 y 8 horas,12,17.0,2.0,0,,0.0
+Agregado,2022-9,01/09/2022,,O3,M�ximo riesgo de 1 y 8 horas,18,9.0,,0,0,0.0
+Agregado,2022-10,01/10/2022,31/10/2022,O3,M�ximo riesgo de 1 y 8 horas,12,14.0,5.0,0,0,0.0
+Agregado,2022-11,01/11/2022,30/11/2022,O3,M�ximo riesgo de 1 y 8 horas,5,24.0,1.0,0,0,0.0
+,2022-12,,31/12/2022,O3,M�ximo riesgo de 1 y 8 horas,15,16.0,0.0,0,0,0.0
+NIN : Las Ninfas,2022-7,01/07/2022,31/07/2022,O3,M�ximo riesgo de 1 y 8 horas,17,13.0,1.0,0,0,0.0
+NIN : Las Ninfas,2019-4,01/04/2019,30/04/2019,O3,M�ximo riesgo de 1 y 8 horas,8,22.0,0.0,,Auto%#,0.0
+Agregado,2021-6,01/06/2021,30/06/2021,SO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2019-7,01/07/2019,31/07/2019,SO2,23,0,0.0,0.0,0,8,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-7,01/07/2020,31/07/2020,CO,13,0,0.0,,0,18,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-2,01/02/2021,28/02/2021,O3,M�ximo riesgo de 1 y 8 horas,19,7.0,1.0,0,0,1.0
+Agregado,2022-9,01/09/2022,30/09/2022,O3,,18,9.0,3.0,0,0,0.0
+NIN : Las Ninfas,2019-1,01/01/2019,31/01/2019,O3,M�ximo riesgo de 1 y 8 horas,28,3.0,0.0,0,0,0.0
+Agregado,2016-5,01/05/2016,31/05/2016,NO2,26,5,0.0,0.0,0,0,nan
+Agregado,2017-1,01/01/2017,31/01/2017,NO2,13,18,0.0,0.0,Auto%#,0,
+STA : Agua Santa,2019-7,01/07/2019,31/07/2019,NO2,14,0,0.0,0.0,0,17,nan
+Agregado,2022-3,01/03/2022,31/03/2022,SO2,31,0,0.0,0.0,Auto%#,0,nan
+VEL : Velodromo,2020-7,01/07/2020,31/07/2020,O3,M�ximo riesgo de 1 y 8 horas,9,21.0,1.0,0,0,0.0
+,2018-8,01/08/2018,31/08/2018,O3,M�ximo riesgo de 1 y 8 horas,,23.0,3.0,0,0,0.0
+Agregado,,01/06/2018,30/06/2018,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2018-3,01/03/2018,31/03/2018,NO2,6,23,2.0,0.0,0,0,nan
+Agregado,2018-12,01/12/2018,31/12/2018,CO,31,,0.0,0.0,0,0,nan
+Agregado,2019-10,01/10/2019,31/10/2019,NO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2019-4,01/04/2019,30/04/2019,O3,M�ximo riesgo de 1 y 8 horas,1,15.0,5.0,0,0,9.0
+NIN : Las Ninfas,2017-11,01/11/2017,30/11/2017,O3,M�ximo riesgo de 1 y 8 horas,23,1.0,0.0,0,0,6.0
+UTP : Universidad Tecnol�gica de Puebla,2018-6,01/06/2018,30/06/2018,O3,M�ximo riesgo de 1 y 8 horas,14,6.0,3.0,1,0,6.0
+,2019-4,01/04/2019,30/04/2019,CO,,0,0.0,0.0,0,10,nan
+NIN : Las Ninfas,2016-1,01/01/2016,31/01/2016,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-7,01/07/2017,31/07/2017,NO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2018-3,01/03/2018,31/03/2018,SO2,28,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2019-10,01/10/2019,31/10/2019,NO2,14,0,0.0,0.0,0,17,nan
+NIN : Las Ninfas,2019-1,01/01/2019,31/01/2019,O3,M�ximo riesgo de 1 y 8 horas,28,3.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2020-12,01/12/2020,31/12/2020,SO2,10,,0.0,0.0,,21,nan
+Agregado,2022-9,01/09/2022,30/09/2022,SO2,30,0,,0.0,0,0,
+NIN : Las Ninfas,2021-2,01/02/2021,28/02/2021,Auto%#,27,0,0.0,0.0,,1,nan
+BINE : Benemerito Instituto Normal del Estado,2017-7,01/07/2017,31/07/2017,,M�ximo riesgo de 1 y 8 horas,21,7.0,0.0,0,0,3.0
+NIN : Las Ninfas,2022-4,01/04/2022,30/04/2022,O3,M�ximo riesgo de 1 y 8 horas,3,11.0,0.0,0,0,16.0
+VEL : Velodromo,2018-11,01/11/2018,30/11/2018,O3,M�ximo riesgo de 1 y 8 horas,21,9.0,0.0,0,0,0.0
+VEL : Velodromo,2019-1,01/01/2019,31/01/2019,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2016-3,01/03/2016,31/03/2016,CO,30,1,0.0,0.0,0,Auto%#,nan
+BINE : Benemerito Instituto Normal del Estado,2016-2,01/02/2016,29/02/2016,O3,M�ximo riesgo de 1 y 8 horas,29,0.0,0.0,0,0,0.0
+Agregado,2022-12,01/12/2022,31/12/2022,NO2,,3,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2016-2,01/02/2016,29/02/2016,O3,M�ximo riesgo de 1 y 8 horas,,0.0,0.0,0,0,
+Agregado,2019-6,01/06/2019,30/06/2019,CO,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-10,01/10/2016,31/10/2016,O3,M�ximo riesgo de 1 y 8 horas,5,6.0,3.0,0,0,17.0
+Agregado,2020-7,01/07/2020,31/07/2020,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2021-1,01/01/2021,31/01/2021,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2020-2,01/02/2020,29/02/2020,NO2,24,,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2021-3,01/03/2021,,O3,M�ximo riesgo de 1 y 8 horas,5,23.0,3.0,0,0,0.0
+Auto%#,2022-5,01/05/2022,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,10,19.0,2.0,0,0,0.0
+VEL : Velodromo,2021-9,01/09/2021,30/09/2021,O3,M�ximo riesgo de 1 y 8 horas,21,7.0,0.0,0,0,2.0
+UTP : Universidad Tecnol�gica de Puebla,2017-5,01/05/2017,31/05/2017,,31,0,0.0,0.0,0,0,nan
+Agregado,2020-7,01/07/2020,31/07/2020,O3,M�ximo riesgo de 1 y 8 horas,9,20.0,2.0,0,0,0.0
+STA : Agua Santa,2019-10,01/10/2019,31/10/2019,CO,22,0,0.0,0.0,0,9,nan
+VEL : Velodromo,2021-5,01/05/2021,31/05/2021,CO,26,0,0.0,0.0,0,5,nan
+VEL : Velodromo,2020-9,01/09/2020,30/09/2020,CO,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-12,01/12/2018,31/12/2018,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-10,01/10/2020,31/10/2020,CO,31,0,0.0,0.0,0,0,nan
+,2021-11,01/11/2021,30/11/2021,O3,M�ximo riesgo de 1 y 8 horas,,2.0,0.0,0,0,0.0
+NIN : Las Ninfas,2020-4,01/04/2020,30/04/2020,CO,27,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2018-3,01/03/2018,31/03/2018,NO2,14,0,0.0,0.0,0,17,nan
+VEL : Velodromo,2019-5,01/05/2019,31/05/2019,SO2,13,Auto%#,0.0,0.0,0,18,nan
+STA : Agua Santa,2017-2,01/02/2017,28/02/2017,CO,18,0,0.0,0.0,0,10,nan
+Agregado,2022-12,01/12/2022,31/12/2022,O3,M�ximo riesgo de 1 y 8 horas,,16.0,0.0,0,,0.0
+Agregado,2018-2,01/02/2018,28/02/2018,CO,21,0,0.0,0.0,0,7,nan
+,2022-9,01/09/2022,30/09/2022,NO2,29,1,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-12,01/12/2021,31/12/2021,SO2,28,0,,,0,3,nan
+STA : Agua Santa,2022-1,01/01/2022,31/01/2022,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2022-4,01/04/2022,30/04/2022,SO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2019-11,01/11/2019,30/11/2019,CO,16,0,0.0,0.0,0,14,nan
+STA : Agua Santa,2016-7,01/07/2016,31/07/2016,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,1.0
+BINE : Benemerito Instituto Normal del Estado,2017-2,01/02/2017,28/02/2017,SO2,26,0,0.0,0.0,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-6,01/06/2016,30/06/2016,CO,24,0,0.0,0.0,0,6,nan
+STA : Agua Santa,2019-5,01/05/2019,31/05/2019,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-2,01/02/2020,29/02/2020,O3,M�ximo riesgo de 1 y 8 horas,5,8.0,7.0,0,0,9.0
+VEL : Velodromo,2020-2,01/02/2020,29/02/2020,NO2,29,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2018-11,01/11/2018,30/11/2018,O3,M�ximo riesgo de 1 y 8 horas,20,8.0,2.0,0,0,0.0
+Agregado,2018-12,01/12/2018,31/12/2018,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2019-9,,30/09/2019,NO2,23,0,0.0,0.0,0,7,nan
+VEL : Velodromo,2019-11,01/11/2019,30/11/2019,CO,16,0,0.0,0.0,0,14,nan
+NIN : Las Ninfas,2016-12,01/12/2016,31/12/2016,SO2,31,0,0.0,0.0,0,0,
+Agregado,2017-9,01/09/2017,,,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-2,01/02/2017,28/02/2017,SO2,23,0,0.0,0.0,0,5,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-9,01/09/2017,30/09/2017,CO,30,0,0.0,0.0,0,0,nan
+Auto%#,2018-6,01/06/2018,30/06/2018,NO2,26,4,0.0,0.0,,0,nan
+Agregado,2020-12,01/12/2020,31/12/2020,CO,31,0,0.0,,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-6,01/06/2021,30/06/2021,SO2,9,0,0.0,0.0,0,21,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-8,01/08/2020,31/08/2020,NO2,2,0,0.0,0.0,Auto%#,29,nan
+VEL : Velodromo,2020-2,01/02/2020,29/02/2020,NO2,29,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-3,01/03/2019,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,27,4.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2021-1,01/01/2021,31/01/2021,NO2,26,0,0.0,0.0,0,5,nan
+BINE : Benemerito Instituto Normal del Estado,2021-11,01/11/2021,30/11/2021,NO2,8,2,0.0,0.0,0,20,nan
+NIN : Las Ninfas,2021-6,01/06/2021,30/06/2021,O3,M�ximo riesgo de 1 y 8 horas,21,9.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2021-2,01/02/2021,28/02/2021,O3,M�ximo riesgo de 1 y 8 horas,19,7.0,1.0,0,0,1.0
+BINE : Benemerito Instituto Normal del Estado,2019-2,01/02/2019,28/02/2019,CO,28,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-6,01/06/2020,30/06/2020,NO2,30,0,0.0,0.0,0,0,nan
+Agregado,2017-7,,31/07/2017,O3,M�ximo riesgo de 1 y 8 horas,8,21.0,2.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,,01/07/2021,31/07/2021,SO2,30,0,0.0,0.0,0,1,nan
+Auto%#,2021-12,01/12/2021,31/12/2021,NO2,28,3,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-10,01/10/2022,31/10/2022,O3,M�ximo riesgo de 1 y 8 horas,26,3.0,0.0,0,0,
+Agregado,2017-10,01/10/2017,31/10/2017,O3,M�ximo riesgo de 1 y 8 horas,13,17.0,1.0,0,0,0.0
+Agregado,,01/03/2019,31/03/2019,CO,29,2,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-2,01/02/2020,29/02/2020,NO2,Auto%#,2,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2021-1,01/01/2021,31/01/2021,SO2,26,0,0.0,0.0,0,5,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-10,01/10/2022,31/10/2022,NO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-4,01/04/2020,30/04/2020,O3,M�ximo riesgo de 1 y 8 horas,0,9.0,21.0,0,0,0.0
+STA : Agua Santa,2022-1,01/01/2022,31/01/2022,NO2,31,0,0.0,0.0,Auto%#,0,nan
+,2017-5,01/05/2017,31/05/2017,SO2,6,0,0.0,0.0,0,25,nan
+STA : Agua Santa,2019-2,01/02/2019,28/02/2019,CO,28,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-12,01/12/2021,31/12/2021,O3,M�ximo riesgo de 1 y 8 horas,13,15.0,3.0,0,0,0.0
+Agregado,2020-12,01/12/2020,31/12/2020,O3,M�ximo riesgo de 1 y 8 horas,18,13.0,0.0,0,0,0.0
+VEL : Velodromo,2016-4,01/04/2016,30/04/2016,O3,M�ximo riesgo de 1 y 8 horas,9,8.0,1.0,0,0,12.0
+VEL : Velodromo,2018-5,01/05/2018,31/05/2018,NO2,31,0,0.0,0.0,Auto%#,0,nan
+NIN : Las Ninfas,2018-12,01/12/2018,31/12/2018,NO2,27,2,0.0,0.0,0,2,nan
+BINE : Benemerito Instituto Normal del Estado,2021-6,01/06/2021,30/06/2021,O3,M�ximo riesgo de 1 y 8 horas,20,1.0,0.0,0,0,9.0
+VEL : Velodromo,2021-2,01/02/2021,28/02/2021,SO2,15,0,0.0,0.0,0,13,nan
+VEL : Velodromo,2021-5,01/05/2021,31/05/2021,SO2,26,0,0.0,0.0,0,5,nan
+Agregado,2019-8,01/08/2019,31/08/2019,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2021-4,01/04/2021,30/04/2021,CO,29,1,0.0,0.0,0,0,nan
+Agregado,2018-6,01/06/2018,30/06/2018,CO,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-6,01/06/2020,30/06/2020,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,0.0,0,0,0.0
+VEL : Velodromo,2022-3,01/03/2022,31/03/2022,SO2,9,0,0.0,0.0,0,22,nan
+BINE : Benemerito Instituto Normal del Estado,2021-6,01/06/2021,30/06/2021,O3,M�ximo riesgo de 1 y 8 horas,20,1.0,0.0,0,,9.0
+BINE : Benemerito Instituto Normal del Estado,2016-8,01/08/2016,31/08/2016,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-3,01/03/2018,31/03/2018,O3,M�ximo riesgo de 1 y 8 horas,18,11.0,0.0,0,0,2.0
+Agregado,2017-10,01/10/2017,31/10/2017,NO2,27,4,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-9,01/09/2019,30/09/2019,NO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-12,01/12/2022,31/12/2022,CO,28,0,0.0,0.0,0,3,nan
+Auto%#,2022-12,01/12/2022,31/12/2022,NO2,28,3,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-8,01/08/2021,31/08/2021,O3,M�ximo riesgo de 1 y 8 horas,16,14.0,0.0,0,0,1.0
+BINE : Benemerito Instituto Normal del Estado,2019-5,01/05/2019,31/05/2019,CO,3,0,0.0,0.0,0,28,nan
+BINE : Benemerito Instituto Normal del Estado,2016-7,01/07/2016,31/07/2016,O3,M�ximo riesgo de 1 y 8 horas,18,13.0,0.0,0,0,0.0
+Agregado,2021-7,01/07/2021,31/07/2021,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-6,01/06/2021,30/06/2021,NO2,30,,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-12,01/12/2019,31/12/2019,SO2,21,0,0.0,0.0,0,10,nan
+NIN : Las Ninfas,2020-2,01/02/2020,29/02/2020,O3,,23,4.0,0.0,0,0,2.0
+UTP : Universidad Tecnol�gica de Puebla,2017-12,01/12/2017,31/12/2017,O3,M�ximo riesgo de 1 y 8 horas,8,18.0,2.0,0,0,3.0
+,2022-8,01/08/2022,31/08/2022,NO2,,0,0.0,0.0,0,0,nan
+,2022-12,01/12/2022,31/12/2022,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-8,01/08/2016,,CO,28,0,0.0,0.0,0,3,
+UTP : Universidad Tecnol�gica de Puebla,2020-2,01/02/2020,29/02/2020,O3,M�ximo riesgo de 1 y 8 horas,21,7.0,0.0,0,0,1.0
+VEL : Velodromo,2021-3,01/03/2021,31/03/2021,CO,15,,0.0,0.0,0,16,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-6,,30/06/2019,CO,15,0,0.0,0.0,0,15,nan
+VEL : Velodromo,2017-11,01/11/2017,30/11/2017,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2018-1,,31/01/2018,O3,M�ximo riesgo de 1 y 8 horas,7,19.0,3.0,0,0,2.0
+NIN : Las Ninfas,2022-12,01/12/2022,31/12/2022,SO2,30,0,0.0,0.0,0,1,nan
+STA : Agua Santa,2020-11,01/11/2020,30/11/2020,SO2,26,0,0.0,0.0,0,4,nan
+Agregado,2019-11,01/11/2019,30/11/2019,NO2,29,,0.0,,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2019-7,01/07/2019,31/07/2019,SO2,23,0,0.0,0.0,0,8,nan
+Agregado,2019-6,01/06/2019,30/06/2019,SO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2018-11,01/11/2018,30/11/2018,CO,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2021-5,01/05/2021,31/05/2021,CO,31,0,0.0,0.0,0,,nan
+VEL : Velodromo,2022-1,01/01/2022,31/01/2022,O3,M�ximo riesgo de 1 y 8 horas,19,9.0,,0,0,3.0
+NIN : Las Ninfas,2019-10,01/10/2019,31/10/2019,CO,31,0,0.0,0.0,0,Auto%#,nan
+UTP : Universidad Tecnol�gica de Puebla,,01/11/2016,30/11/2016,NO2,28,2,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-12,01/12/2019,31/12/2019,CO,21,0,,0.0,0,10,nan
+VEL : Velodromo,2021-10,01/10/2021,31/10/2021,O3,M�ximo riesgo de 1 y 8 horas,19,6.0,0.0,0,,6.0
+VEL : Velodromo,2019-1,01/01/2019,31/01/2019,CO,31,Auto%#,0.0,0.0,0,0,nan
+Agregado,2018-12,01/12/2018,31/12/2018,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2017-2,01/02/2017,28/02/2017,CO,28,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2017-7,01/07/2017,31/07/2017,SO2,27,0,0.0,0.0,0,4,nan
+STA : Agua Santa,2018-5,01/05/2018,31/05/2018,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-6,01/06/2020,30/06/2020,NO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2019-7,01/07/2019,31/07/2019,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,2.0,0.0,0,0,17.0
+UTP : Universidad Tecnol�gica de Puebla,2019-5,01/05/2019,31/05/2019,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-3,01/03/2018,31/03/2018,,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-11,01/11/2021,30/11/2021,SO2,30,0,0.0,0.0,0,0,nan
+Agregado,2019-7,01/07/2019,31/07/2019,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2020-11,01/11/2020,30/11/2020,NO2,28,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2018-3,01/03/2018,31/03/2018,NO2,14,0,0.0,0.0,0,17,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-10,01/10/2016,,O3,M�ximo riesgo de 1 y 8 horas,24,7.0,0.0,0,0,0.0
+STA : Agua Santa,2018-3,01/03/2018,31/03/2018,O3,M�ximo riesgo de 1 y 8 horas,3,11.0,8.0,0,0,9.0
+VEL : Velodromo,2022-3,01/03/2022,31/03/2022,CO,9,0,0.0,0.0,0,22,nan
+STA : Agua Santa,2020-11,01/11/2020,30/11/2020,SO2,26,0,0.0,0.0,0,4,nan
+BINE : Benemerito Instituto Normal del Estado,2021-9,01/09/2021,30/09/2021,CO,15,0,0.0,0.0,0,15,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-3,01/03/2019,31/03/2019,NO2,30,1,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-10,01/10/2022,31/10/2022,CO,31,0,0.0,0.0,0,0,nan
+Agregado,2019-6,01/06/2019,30/06/2019,CO,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-6,01/06/2016,30/06/2016,CO,30,,,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-1,01/01/2022,31/01/2022,SO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2019-11,01/11/2019,30/11/2019,O3,M�ximo riesgo de 1 y 8 horas,5,18.0,6.0,Auto%#,0,0.0
+NIN : Las Ninfas,2017-1,01/01/2017,31/01/2017,SO2,26,0,0.0,0.0,0,5,nan
+STA : Agua Santa,2016-9,01/09/2016,30/09/2016,CO,5,0,0.0,0.0,0,25,nan
+NIN : Las Ninfas,2018-7,01/07/2018,31/07/2018,O3,M�ximo riesgo de 1 y 8 horas,31,0.0,0.0,0,0,
+UTP : Universidad Tecnol�gica de Puebla,2017-7,01/07/2017,31/07/2017,O3,M�ximo riesgo de 1 y 8 horas,9,22.0,0.0,0,,0.0
+NIN : Las Ninfas,2019-11,01/11/2019,30/11/2019,CO,29,0,0.0,0.0,0,1,nan
+VEL : Velodromo,2019-9,01/09/2019,30/09/2019,O3,M�ximo riesgo de 1 y 8 horas,10,12.0,5.0,0,0,3.0
+UTP : Universidad Tecnol�gica de Puebla,2022-6,01/06/2022,30/06/2022,CO,Auto%#,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-4,01/04/2022,30/04/2022,O3,M�ximo riesgo de 1 y 8 horas,,23.0,1.0,0,Auto%#,0.0
+NIN : Las Ninfas,2021-5,01/05/2021,31/05/2021,CO,,0,0.0,0.0,0,1,nan
+VEL : Velodromo,2018-11,01/11/2018,30/11/2018,CO,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-6,01/06/2016,30/06/2016,,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-5,01/05/2018,31/05/2018,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-7,01/07/2017,31/07/2017,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-7,,31/07/2021,NO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-9,01/09/2022,30/09/2022,CO,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2017-1,01/01/2017,31/01/2017,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-6,01/06/2016,30/06/2016,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,0.0
+VEL : Velodromo,2022-9,01/09/2022,30/09/2022,CO,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-1,01/01/2022,31/01/2022,SO2,27,0,0.0,0.0,0,4,nan
+Agregado,2020-10,01/10/2020,31/10/2020,NO2,31,,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2020-6,01/06/2020,30/06/2020,O3,M�ximo riesgo de 1 y 8 horas,16,13.0,1.0,0,0,
+STA : Agua Santa,2022-5,,31/05/2022,NO2,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-9,01/09/2022,30/09/2022,CO,30,0,0.0,0.0,0,0,
+NIN : Las Ninfas,2017-1,01/01/2017,31/01/2017,NO2,10,0,0.0,0.0,0,21,nan
+STA : Agua Santa,2016-12,01/12/2016,31/12/2016,CO,17,0,0.0,0.0,0,14,nan
+VEL : Velodromo,2018-2,01/02/2018,28/02/2018,O3,M�ximo riesgo de 1 y 8 horas,19,9.0,0.0,0,0,0.0
+Agregado,2016-3,01/03/2016,31/03/2016,Auto%#,15,15,1.0,0.0,0,0,nan
+Agregado,2016-3,01/03/2016,31/03/2016,,M�ximo riesgo de 1 y 8 horas,22,9.0,0.0,Auto%#,0,0.0
+STA : Agua Santa,2021-3,01/03/2021,31/03/2021,NO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-11,01/11/2017,30/11/2017,NO2,10,12,0.0,0.0,0,8,nan
+BINE : Benemerito Instituto Normal del Estado,2020-10,01/10/2020,31/10/2020,SO2,29,0,0.0,0.0,0,2,nan
+NIN : Las Ninfas,2021-10,01/10/2021,31/10/2021,CO,15,0,0.0,0.0,0,16,nan
+NIN : Las Ninfas,2016-11,01/11/2016,30/11/2016,CO,30,0,0.0,0.0,0,0,nan
+Agregado,2016-8,01/08/2016,31/08/2016,SO2,31,0,,0.0,0,0,nan
+VEL : Velodromo,2020-3,01/03/2020,31/03/2020,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-6,01/06/2017,30/06/2017,NO2,22,6,0.0,0.0,0,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2021-4,01/04/2021,30/04/2021,O3,M�ximo riesgo de 1 y 8 horas,3,19.0,8.0,0,0,0.0
+STA : Agua Santa,2020-6,01/06/2020,30/06/2020,O3,M�ximo riesgo de 1 y 8 horas,10,13.0,1.0,0,0,6.0
+VEL : Velodromo,2021-5,01/05/2021,31/05/2021,CO,26,0,0.0,0.0,0,5,nan
+STA : Agua Santa,2017-8,01/08/2017,31/08/2017,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-2,01/02/2017,28/02/2017,O3,M�ximo riesgo de 1 y 8 horas,6,2.0,0.0,0,0,20.0
+NIN : Las Ninfas,2017-1,01/01/2017,31/01/2017,SO2,26,0,0.0,0.0,0,5,nan
+Agregado,2016-10,01/10/2016,,NO2,31,0,0.0,0.0,,0,nan
+VEL : Velodromo,2016-4,01/04/2016,30/04/2016,O3,M�ximo riesgo de 1 y 8 horas,9,8.0,1.0,Auto%#,0,12.0
+VEL : Velodromo,2021-9,01/09/2021,30/09/2021,CO,28,0,0.0,0.0,0,,nan
+STA : Agua Santa,2017-6,01/06/2017,30/06/2017,NO2,22,6,0.0,0.0,0,2,
+NIN : Las Ninfas,2017-4,01/04/2017,30/04/2017,SO2,Auto%#,0,0.0,0.0,0,Auto%#,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-12,01/12/2020,31/12/2020,NO2,30,1,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-4,01/04/2022,30/04/2022,SO2,Auto%#,0,0.0,0.0,0,6,nan
+,2016-10,01/10/2016,31/10/2016,SO2,,0,0.0,0.0,0,13,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-2,01/02/2020,29/02/2020,SO2,27,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2018-9,01/09/2018,30/09/2018,SO2,30,0,0.0,0.0,0,0,nan
+,2016-4,01/04/2016,30/04/2016,O3,M�ximo riesgo de 1 y 8 horas,9,8.0,1.0,0,0,12.0
+UTP : Universidad Tecnol�gica de Puebla,2022-3,01/03/2022,31/03/2022,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-3,01/03/2019,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,21,10.0,0.0,0,0,0.0
+STA : Agua Santa,2022-12,01/12/2022,31/12/2022,O3,M�ximo riesgo de 1 y 8 horas,30,1.0,0.0,Auto%#,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2016-11,01/11/2016,30/11/2016,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,0.0,0,0,0.0
+VEL : Velodromo,2018-10,01/10/2018,,O3,M�ximo riesgo de 1 y 8 horas,,2.0,0.0,0,0,0.0
+STA : Agua Santa,,01/09/2019,30/09/2019,SO2,23,0,0.0,0.0,0,7,nan
+BINE : Benemerito Instituto Normal del Estado,2016-4,01/04/2016,30/04/2016,O3,M�ximo riesgo de 1 y 8 horas,22,0.0,0.0,0,0,8.0
+,2016-11,01/11/2016,30/11/2016,,8,4,0.0,0.0,0,18,nan
+VEL : Velodromo,2021-1,01/01/2021,31/01/2021,O3,M�ximo riesgo de 1 y 8 horas,23,8.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2016-12,01/12/2016,31/12/2016,O3,M�ximo riesgo de 1 y 8 horas,20,2.0,0.0,0,0,9.0
+STA : Agua Santa,2017-2,01/02/2017,28/02/2017,SO2,23,0,0.0,0.0,0,5,nan
+NIN : Las Ninfas,2017-12,01/12/2017,31/12/2017,O3,M�ximo riesgo de 1 y 8 horas,21,0.0,0.0,,0,10.0
+VEL : Velodromo,2018-6,01/06/2018,30/06/2018,O3,M�ximo riesgo de 1 y 8 horas,26,4.0,0.0,0,0,0.0
+Agregado,2019-2,01/02/2019,28/02/2019,O3,Auto%#,12,16.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2022-1,01/01/2022,31/01/2022,NO2,25,,0.0,0.0,0,6,nan
+BINE : Benemerito Instituto Normal del Estado,2019-3,01/03/2019,31/03/2019,CO,11,0,0.0,0.0,0,20,nan
+BINE : Benemerito Instituto Normal del Estado,2017-1,01/01/2017,31/01/2017,CO,31,,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-10,01/10/2022,31/10/2022,O3,M�ximo riesgo de 1 y 8 horas,13,14.0,4.0,0,0,0.0
+NIN : Las Ninfas,2019-7,01/07/2019,31/07/2019,CO,30,,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,,01/08/2019,31/08/2019,CO,22,0,0.0,0.0,0,9,nan
+Agregado,2021-3,01/03/2021,31/03/2021,O3,M�ximo riesgo de 1 y 8 horas,3,24.0,4.0,0,0,0.0
+VEL : Velodromo,2022-11,01/11/2022,30/11/2022,CO,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,,01/08/2017,31/08/2017,O3,M�ximo riesgo de 1 y 8 horas,21,10.0,0.0,0,0,0.0
+STA : Agua Santa,2022-6,01/06/2022,30/06/2022,NO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2020-9,01/09/2020,30/09/2020,NO2,30,0,0.0,0.0,Auto%#,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-4,,30/04/2020,NO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-9,01/09/2017,30/09/2017,NO2,28,0,0.0,0.0,0,2,nan
+STA : Agua Santa,2021-12,01/12/2021,31/12/2021,NO2,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2016-10,01/10/2016,31/10/2016,O3,M�ximo riesgo de 1 y 8 horas,12,15.0,0.0,,0,4.0
+UTP : Universidad Tecnol�gica de Puebla,2016-1,01/01/2016,31/01/2016,SO2,31,0,0.0,0.0,0,,nan
+STA : Agua Santa,2021-9,01/09/2021,30/09/2021,O3,M�ximo riesgo de 1 y 8 horas,0,0.0,0.0,0,0,30.0
+,2019-3,01/03/2019,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,11,20.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2022-7,01/07/2022,31/07/2022,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2019-7,01/07/2019,31/07/2019,SO2,20,0,0.0,0.0,0,11,nan
+BINE : Benemerito Instituto Normal del Estado,2020-6,01/06/2020,30/06/2020,NO2,3,0,0.0,0.0,0,27,nan
+BINE : Benemerito Instituto Normal del Estado,2016-8,01/08/2016,31/08/2016,O3,M�ximo riesgo de 1 y 8 horas,16,11.0,4.0,0,0,0.0
+Agregado,2018-4,01/04/2018,30/04/2018,SO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-6,01/06/2017,30/06/2017,O3,M�ximo riesgo de 1 y 8 horas,2,8.0,1.0,0,0,19.0
+BINE : Benemerito Instituto Normal del Estado,2021-3,01/03/2021,31/03/2021,NO2,28,1,0.0,0.0,0,2,nan
+STA : Agua Santa,2019-5,01/05/2019,31/05/2019,SO2,22,0,0.0,0.0,0,9,nan
+Agregado,2016-5,01/05/2016,31/05/2016,O3,,0,21.0,10.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2021-9,01/09/2021,30/09/2021,SO2,27,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2021-8,01/08/2021,31/08/2021,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-6,01/06/2016,30/06/2016,NO2,30,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-3,01/03/2016,31/03/2016,O3,M�ximo riesgo de 1 y 8 horas,27,4.0,0.0,0,0,0.0
+NIN : Las Ninfas,2016-11,01/11/2016,30/11/2016,NO2,13,1,0.0,0.0,0,16,
+VEL : Velodromo,2022-4,01/04/2022,30/04/2022,O3,M�ximo riesgo de 1 y 8 horas,1,25.0,4.0,0,0,0.0
+STA : Agua Santa,2022-9,01/09/2022,30/09/2022,SO2,,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-6,01/06/2021,30/06/2021,NO2,21,0,0.0,0.0,0,9,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-6,01/06/2018,30/06/2018,CO,Auto%#,0,,0.0,0,1,nan
+VEL : Velodromo,2021-3,01/03/2021,31/03/2021,SO2,15,0,0.0,0.0,0,16,nan
+Agregado,2022-5,01/05/2022,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,1,21.0,9.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,,01/04/2020,30/04/2020,NO2,21,0,0.0,0.0,0,9,nan
+Agregado,2022-1,01/01/2022,31/01/2022,O3,M�ximo riesgo de 1 y 8 horas,,16.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2019-11,01/11/2019,30/11/2019,SO2,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2018-8,01/08/2018,,O3,M�ximo riesgo de 1 y 8 horas,27,4.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2016-8,01/08/2016,31/08/2016,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-5,01/05/2022,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,4,18.0,8.0,0,0,1.0
+UTP : Universidad Tecnol�gica de Puebla,2022-12,01/12/2022,31/12/2022,O3,M�ximo riesgo de 1 y 8 horas,28,3.0,0.0,0,0,0.0
+,2021-5,01/05/2021,31/05/2021,NO2,31,0,0.0,0.0,0,0,nan
+Auto%#,2016-7,01/07/2016,,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2021-9,01/09/2021,30/09/2021,CO,30,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2019-8,01/08/2019,31/08/2019,NO2,22,0,0.0,0.0,0,9,
+VEL : Velodromo,2021-4,01/04/2021,30/04/2021,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,21.0,5.0,0,0,1.0
+NIN : Las Ninfas,2017-2,01/02/2017,28/02/2017,NO2,23,0,0.0,0.0,,5,nan
+NIN : Las Ninfas,2021-9,01/09/2021,30/09/2021,O3,M�ximo riesgo de 1 y 8 horas,,4.0,0.0,0,0,0.0
+VEL : Velodromo,2018-1,01/01/2018,31/01/2018,SO2,28,0,0.0,0.0,0,3,nan
+VEL : Velodromo,2019-1,01/01/2019,31/01/2019,CO,31,,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-9,01/09/2017,30/09/2017,O3,M�ximo riesgo de 1 y 8 horas,27,3.0,0.0,0,0,0.0
+Agregado,2021-12,01/12/2021,31/12/2021,NO2,28,3,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-11,01/11/2016,30/11/2016,O3,M�ximo riesgo de 1 y 8 horas,5,11.0,3.0,0,0,11.0
+STA : Agua Santa,2020-10,01/10/2020,31/10/2020,NO2,Auto%#,0,0.0,0.0,0,1,nan
+Agregado,2018-3,01/03/2018,31/03/2018,O3,M�ximo riesgo de 1 y 8 horas,0,20.0,11.0,0,0,0.0
+VEL : Velodromo,2018-5,01/05/2018,31/05/2018,O3,M�ximo riesgo de 1 y 8 horas,5,26.0,0.0,0,0,0.0
+NIN : Las Ninfas,2021-4,01/04/2021,30/04/2021,O3,M�ximo riesgo de 1 y 8 horas,1,20.0,5.0,0,0,4.0
+STA : Agua Santa,2019-3,01/03/2019,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,23,1.0,0.0,0,0,7.0
+STA : Agua Santa,2019-1,01/01/2019,31/01/2019,NO2,16,0,0.0,0.0,0,15,nan
+STA : Agua Santa,2021-11,01/11/2021,30/11/2021,NO2,30,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2018-12,01/12/2018,31/12/2018,NO2,27,2,0.0,0.0,0,2,nan
+Agregado,2020-10,01/10/2020,31/10/2020,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-1,01/01/2016,31/01/2016,Auto%#,28,1,0.0,0.0,0,2,nan
+Agregado,2020-11,01/11/2020,30/11/2020,O3,M�ximo riesgo de 1 y 8 horas,13,16.0,1.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2018-4,01/04/2018,30/04/2018,CO,23,0,0.0,0.0,0,Auto%#,nan
+VEL : Velodromo,2021-6,01/06/2021,30/06/2021,CO,26,0,0.0,0.0,0,4,nan
+STA : Agua Santa,2020-9,01/09/2020,30/09/2020,SO2,27,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2020-10,01/10/2020,31/10/2020,O3,M�ximo riesgo de 1 y 8 horas,9,21.0,1.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,,01/10/2021,31/10/2021,CO,29,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2018-10,01/10/2018,31/10/2018,O3,M�ximo riesgo de 1 y 8 horas,29,2.0,0.0,0,0,0.0
+Agregado,2019-10,01/10/2019,31/10/2019,NO2,,0,0.0,0.0,0,0,nan
+Agregado,2021-5,01/05/2021,31/05/2021,O3,M�ximo riesgo de 1 y 8 horas,5,23.0,3.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2019-1,01/01/2019,31/01/2019,O3,M�ximo riesgo de 1 y 8 horas,28,3.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2022-1,01/01/2022,31/01/2022,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2018-11,01/11/2018,30/11/2018,CO,30,0,0.0,,0,0,nan
+STA : Agua Santa,2022-1,01/01/2022,31/01/2022,SO2,31,0,0.0,0.0,0,0,nan
+Auto%#,2022-6,01/06/2022,30/06/2022,NO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-7,01/07/2016,31/07/2016,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,1.0
+UTP : Universidad Tecnol�gica de Puebla,2016-3,01/03/2016,31/03/2016,CO,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-10,01/10/2022,31/10/2022,O3,M�ximo riesgo de 1 y 8 horas,26,3.0,0.0,0,0,2.0
+STA : Agua Santa,2018-9,01/09/2018,30/09/2018,CO,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2020-7,01/07/2020,31/07/2020,NO2,23,0,0.0,0.0,0,8,nan
+Auto%#,2021-2,01/02/2021,28/02/2021,CO,11,0,0.0,0.0,0,17,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-9,01/09/2022,30/09/2022,SO2,30,0,0.0,0.0,0,0,nan
+Auto%#,2018-4,01/04/2018,30/04/2018,NO2,28,Auto%#,0.0,0.0,0,2,nan
+STA : Agua Santa,2021-7,01/07/2021,31/07/2021,SO2,12,0,0.0,0.0,0,19,nan
+Agregado,2016-5,01/05/2016,31/05/2016,O3,M�ximo riesgo de 1 y 8 horas,0,,10.0,0,0,0.0
+Agregado,2022-12,01/12/2022,31/12/2022,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-12,01/12/2022,31/12/2022,SO2,28,0,0.0,0.0,0,3,nan
+BINE : Benemerito Instituto Normal del Estado,2018-10,01/10/2018,31/10/2018,CO,,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-4,01/04/2021,30/04/2021,O3,M�ximo riesgo de 1 y 8 horas,1,20.0,5.0,0,,4.0
+STA : Agua Santa,2017-9,01/09/2017,30/09/2017,NO2,28,0,0.0,0.0,,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-8,01/08/2019,,CO,22,0,0.0,0.0,0,9,nan
+Agregado,2017-11,,30/11/2017,SO2,30,0,0.0,0.0,,0,nan
+NIN : Las Ninfas,2020-10,01/10/2020,31/10/2020,NO2,31,0,0.0,0.0,Auto%#,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-10,01/10/2022,31/10/2022,NO2,31,0,0.0,0.0,,0,nan
+STA : Agua Santa,2020-7,01/07/2020,31/07/2020,O3,M�ximo riesgo de 1 y 8 horas,18,12.0,0.0,0,0,1.0
+VEL : Velodromo,2021-3,01/03/2021,31/03/2021,CO,15,0,0.0,0.0,0,16,nan
+NIN : Las Ninfas,2022-10,01/10/2022,31/10/2022,NO2,31,0,0.0,0.0,0,0,nan
+Agregado,2020-2,01/02/2020,29/02/2020,CO,29,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-3,01/03/2021,31/03/2021,SO2,31,,0.0,0.0,0,0,nan
+STA : Agua Santa,2017-8,01/08/2017,31/08/2017,O3,M�ximo riesgo de 1 y 8 horas,13,1.0,0.0,0,0,17.0
+UTP : Universidad Tecnol�gica de Puebla,2022-11,01/11/2022,30/11/2022,SO2,30,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2019-9,01/09/2019,30/09/2019,CO,25,0,0.0,0.0,0,5,
+NIN : Las Ninfas,2021-6,01/06/2021,30/06/2021,O3,M�ximo riesgo de 1 y 8 horas,21,9.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2022-4,01/04/2022,30/04/2022,CO,24,0,0.0,0.0,0,6,nan
+Agregado,2021-4,01/04/2021,30/04/2021,NO2,27,3,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-3,01/03/2022,31/03/2022,NO2,30,0,0.0,0.0,0,1,nan
+STA : Agua Santa,2022-11,01/11/2022,30/11/2022,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2021-8,01/08/2021,31/08/2021,SO2,28,0,0.0,0.0,0,3,nan
+STA : Agua Santa,2022-9,01/09/2022,30/09/2022,O3,M�ximo riesgo de 1 y 8 horas,29,1.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2021-8,01/08/2021,31/08/2021,CO,28,0,0.0,0.0,0,3,nan
+Agregado,2020-10,01/10/2020,31/10/2020,CO,31,0,0.0,0.0,,0,nan
+Agregado,2017-12,01/12/2017,31/12/2017,SO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-2,01/02/2018,28/02/2018,CO,21,0,0.0,0.0,0,7,nan
+NIN : Las Ninfas,2019-1,01/01/2019,31/01/2019,NO2,26,5,0.0,0.0,0,0,nan
+VEL : Velodromo,2017-5,01/05/2017,31/05/2017,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2018-4,01/04/2018,30/04/2018,O3,M�ximo riesgo de 1 y 8 horas,0,6.0,15.0,2,0,7.0
+STA : Agua Santa,2018-12,01/12/2018,31/12/2018,NO2,27,4,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-8,01/08/2021,31/08/2021,SO2,29,0,0.0,0.0,0,2,nan
+VEL : Velodromo,2020-2,01/02/2020,29/02/2020,SO2,29,Auto%#,0.0,0.0,0,0,nan
+Agregado,2016-10,01/10/2016,31/10/2016,NO2,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-7,01/07/2017,31/07/2017,CO,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2016-10,01/10/2016,31/10/2016,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-10,01/10/2022,31/10/2022,,,0,0.0,0.0,0,5,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-6,01/06/2017,30/06/2017,O3,M�ximo riesgo de 1 y 8 horas,10,12.0,,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2020-3,01/03/2020,31/03/2020,O3,M�ximo riesgo de 1 y 8 horas,12,19.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2021-2,01/02/2021,28/02/2021,O3,M�ximo riesgo de 1 y 8 horas,11,14.0,3.0,0,0,0.0
+Agregado,2016-4,01/04/2016,30/04/2016,NO2,7,22,1.0,0.0,0,0,nan
+Agregado,2017-2,01/02/2017,,O3,M�ximo riesgo de 1 y 8 horas,5,22.0,1.0,0,0,0.0
+NIN : Las Ninfas,2017-9,01/09/2017,30/09/2017,O3,M�ximo riesgo de 1 y 8 horas,9,4.0,0.0,0,0,17.0
+UTP : Universidad Tecnol�gica de Puebla,2016-3,01/03/2016,31/03/2016,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2022-7,01/07/2022,31/07/2022,NO2,30,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2020-4,01/04/2020,30/04/2020,O3,M�ximo riesgo de 1 y 8 horas,12,17.0,1.0,0,0,0.0
+NIN : Las Ninfas,2016-10,,31/10/2016,CO,30,0,0.0,0.0,0,Auto%#,nan
+BINE : Benemerito Instituto Normal del Estado,2021-6,,30/06/2021,NO2,21,0,0.0,0.0,0,9,nan
+STA : Agua Santa,2019-6,01/06/2019,30/06/2019,CO,29,0,0.0,,0,1,nan
+NIN : Las Ninfas,2022-10,01/10/2022,31/10/2022,O3,M�ximo riesgo de 1 y 8 horas,13,14.0,,0,0,0.0
+Agregado,2019-8,01/08/2019,31/08/2019,SO2,31,0,,0.0,0,0,nan
+Agregado,2019-3,01/03/2019,31/03/2019,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2017-2,01/02/2017,28/02/2017,NO2,23,Auto%#,0.0,0.0,0,5,nan
+Agregado,2020-10,01/10/2020,31/10/2020,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2018-3,01/03/2018,31/03/2018,CO,28,0,0.0,0.0,0,3,nan
+STA : Agua Santa,2020-12,01/12/2020,31/12/2020,NO2,8,0,0.0,0.0,0,23,nan
+Agregado,2021-7,01/07/2021,31/07/2021,O3,M�ximo riesgo de 1 y 8 horas,10,20.0,1.0,0,0,0.0
+STA : Agua Santa,2016-7,01/07/2016,31/07/2016,O3,M�ximo riesgo de 1 y 8 horas,30,0.0,0.0,0,0,1.0
+STA : Agua Santa,2018-4,01/04/2018,30/04/2018,CO,12,0,0.0,0.0,0,18,nan
+UTP : Universidad Tecnol�gica de Puebla,2018-2,01/02/2018,28/02/2018,O3,M�ximo riesgo de 1 y 8 horas,6,9.0,5.0,0,0,8.0
+UTP : Universidad Tecnol�gica de Puebla,2020-10,01/10/2020,31/10/2020,O3,M�ximo riesgo de 1 y 8 horas,0,0.0,0.0,0,0,31.0
+UTP : Universidad Tecnol�gica de Puebla,2021-6,01/06/2021,30/06/2021,NO2,9,0,0.0,0.0,0,21,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-9,01/09/2016,30/09/2016,NO2,30,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-6,,30/06/2022,CO,1,0,0.0,0.0,0,29,nan
+Agregado,2017-5,01/05/2017,31/05/2017,SO2,31,0,0.0,0.0,0,0,nan
+Agregado,2016-10,01/10/2016,31/10/2016,O3,M�ximo riesgo de 1 y 8 horas,9,17.0,5.0,0,0,0.0
+Agregado,2021-12,01/12/2021,31/12/2021,O3,M�ximo riesgo de 1 y 8 horas,12,16.0,3.0,0,0,0.0
+VEL : Velodromo,2022-11,01/11/2022,30/11/2022,O3,M�ximo riesgo de 1 y 8 horas,7,22.0,1.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2021-12,01/12/2021,31/12/2021,SO2,31,0,,0.0,0,0,nan
+Agregado,,01/05/2022,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,1,21.0,9.0,0,0,0.0
+Agregado,2016-7,01/07/2016,31/07/2016,SO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2021-2,01/02/2021,28/02/2021,SO2,27,0,,0.0,0,1,nan
+STA : Agua Santa,2016-5,01/05/2016,31/05/2016,O3,M�ximo riesgo de 1 y 8 horas,23,8.0,0.0,0,0,0.0
+Agregado,2022-5,01/05/2022,31/05/2022,O3,M�ximo riesgo de 1 y 8 horas,1,21.0,9.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2022-11,01/11/2022,30/11/2022,Auto%#,M�ximo riesgo de 1 y 8 horas,19,11.0,0.0,0,0,0.0
+STA : Agua Santa,2016-11,01/11/2016,30/11/2016,SO2,19,0,0.0,0.0,0,11,nan
+Agregado,2016-5,01/05/2016,31/05/2016,,26,5,,0.0,0,Auto%#,nan
+NIN : Las Ninfas,2019-7,01/07/2019,31/07/2019,CO,30,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-1,01/01/2017,31/01/2017,O3,M�ximo riesgo de 1 y 8 horas,24,7.0,0.0,0,0,0.0
+BINE : Benemerito Instituto Normal del Estado,2020-10,01/10/2020,,CO,31,0,0.0,0.0,0,0,nan
+UTP : Universidad Tecnol�gica de Puebla,2017-8,01/08/2017,31/08/2017,O3,M�ximo riesgo de 1 y 8 horas,12,19.0,0.0,0,0,0.0
+VEL : Velodromo,2020-5,01/05/2020,31/05/2020,SO2,Auto%#,0,0.0,0.0,0,14,nan
+VEL : Velodromo,2017-10,01/10/2017,31/10/2017,SO2,28,0,0.0,0.0,0,3,nan
+NIN : Las Ninfas,2020-6,01/06/2020,30/06/2020,O3,M�ximo riesgo de 1 y 8 horas,18,10.0,0.0,0,0,2.0
+STA : Agua Santa,2020-4,01/04/2020,30/04/2020,O3,M�ximo riesgo de 1 y 8 horas,2,19.0,0.0,0,0,9.0
+UTP : Universidad Tecnol�gica de Puebla,2021-4,01/04/2021,30/04/2021,O3,M�ximo riesgo de 1 y 8 horas,3,19.0,8.0,Auto%#,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2021-1,01/01/2021,31/01/2021,NO2,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2019-4,01/04/2019,30/04/2019,O3,M�ximo riesgo de 1 y 8 horas,8,22.0,0.0,0,0,0.0
+NIN : Las Ninfas,2021-11,01/11/2021,30/11/2021,CO,17,0,0.0,0.0,0,13,nan
+Auto%#,2016-8,01/08/2016,31/08/2016,CO,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2019-10,01/10/2019,31/10/2019,CO,14,0,0.0,0.0,0,17,nan
+NIN : Las Ninfas,2018-9,01/09/2018,30/09/2018,CO,26,0,0.0,0.0,0,4,nan
+Auto%#,,01/07/2022,31/07/2022,O3,M�ximo riesgo de 1 y 8 horas,6,24.0,1.0,0,0,0.0
+VEL : Velodromo,2020-4,01/04/2020,30/04/2020,NO2,3,0,0.0,0.0,0,27,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-11,01/11/2019,30/11/2019,O3,M�ximo riesgo de 1 y 8 horas,18,3.0,0.0,0,0,9.0
+NIN : Las Ninfas,2022-2,01/02/2022,28/02/2022,NO2,14,0,0.0,0.0,0,14,nan
+NIN : Las Ninfas,2020-10,,31/10/2020,CO,27,0,0.0,0.0,0,4,nan
+NIN : Las Ninfas,2019-2,01/02/2019,28/02/2019,O3,M�ximo riesgo de 1 y 8 horas,21,7.0,0.0,0,0,0.0
+,2020-4,01/04/2020,30/04/2020,SO2,Auto%#,0,0.0,0.0,0,10,nan
+NIN : Las Ninfas,2021-4,01/04/2021,30/04/2021,CO,25,0,0.0,0.0,0,5,nan
+STA : Agua Santa,2021-2,01/02/2021,28/02/2021,O3,M�ximo riesgo de 1 y 8 horas,11,0.0,0.0,0,0,
+NIN : Las Ninfas,2019-12,01/12/2019,31/12/2019,NO2,18,0,0.0,0.0,0,13,nan
+VEL : Velodromo,2019-2,01/02/2019,28/02/2019,SO2,28,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2019-7,01/07/2019,31/07/2019,NO2,20,0,0.0,0.0,0,11,nan
+VEL : Velodromo,2019-3,01/03/2019,31/03/2019,O3,M�ximo riesgo de 1 y 8 horas,11,20.0,0.0,,0,0.0
+Agregado,2017-2,01/02/2017,28/02/2017,CO,28,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2016-5,01/05/2016,31/05/2016,NO2,9,5,0.0,,0,17,nan
+STA : Agua Santa,2017-9,01/09/2017,30/09/2017,NO2,28,0,0.0,0.0,,2,nan
+UTP : Universidad Tecnol�gica de Puebla,2016-1,01/01/2016,,SO2,31,0,0.0,0.0,0,0,nan
+VEL : Velodromo,2020-4,01/04/2020,30/04/2020,CO,21,0,,0.0,0,,nan
+STA : Agua Santa,2016-2,01/02/2016,29/02/2016,O3,M�ximo riesgo de 1 y 8 horas,28,1.0,0.0,0,0,0.0
+UTP : Universidad Tecnol�gica de Puebla,2017-3,01/03/2017,31/03/2017,SO2,30,0,0.0,0.0,0,1,nan
+UTP : Universidad Tecnol�gica de Puebla,2019-1,01/01/2019,31/01/2019,CO,31,0,0.0,0.0,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2021-8,,31/08/2021,O3,M�ximo riesgo de 1 y 8 horas,16,14.0,0.0,0,0,1.0
+UTP : Universidad Tecnol�gica de Puebla,2019-4,01/04/2019,,O3,M�ximo riesgo de 1 y 8 horas,20,7.0,0.0,0,0,3.0
+STA : Agua Santa,2019-5,01/05/2019,31/05/2019,NO2,15,7,0.0,0.0,0,9,nan
+STA : Agua Santa,2019-10,01/10/2019,31/10/2019,O3,M�ximo riesgo de 1 y 8 horas,17,5.0,0.0,0,0,9.0
+STA : Agua Santa,2021-5,01/05/2021,31/05/2021,CO,31,0,0.0,0.0,0,0,nan
+NIN : Las Ninfas,2022-4,01/04/2022,30/04/2022,O3,M�ximo riesgo de 1 y 8 horas,3,11.0,0.0,0,0,16.0
+STA : Agua Santa,2019-5,01/05/2019,31/05/2019,O3,M�ximo riesgo de 1 y 8 horas,16,6.0,0.0,0,0,9.0
+UTP : Universidad Tecnol�gica de Puebla,2018-3,01/03/2018,31/03/2018,SO2,23,0,0.0,0.0,0,8,nan
+Auto%#,2021-3,01/03/2021,31/03/2021,CO,31,0,0.0,0.0,0,0,
+Agregado,2019-5,01/05/2019,,O3,M�ximo riesgo de 1 y 8 horas,Auto%#,,6.0,0,0,0.0
+NIN : Las Ninfas,2022-7,01/07/2022,31/07/2022,SO2,31,0,0.0,0.0,0,0,nan
+STA : Agua Santa,2022-5,01/05/2022,31/05/2022,NO2,31,0,0.0,,0,0,nan
+BINE : Benemerito Instituto Normal del Estado,2022-8,01/08/2022,31/08/2022,NO2,21,1,0.0,0.0,0,9,nan
+Agregado,2020-12,01/12/2020,31/12/2020,O3,M�ximo riesgo de 1 y 8 horas,18,13.0,,0,0,0.0
+NIN : Las Ninfas,2016-9,01/09/2016,30/09/2016,NO2,26,1,2.0,1.0,,0,nan
