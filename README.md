@@ -17,7 +17,8 @@ Nombres de columnas poco descriptivos: Algunos nombres de columnas no reflejaban
 ## Técnicas aplicadas para solucionarlos
 Para abordar los problemas identificados, se aplicaron las siguientes técnicas de limpieza y preprocesamiento de datos:
 
-Manejo de valores faltantes: Se optó por [describir método, ej: imputar con la media/mediana/moda, o eliminar filas/columnas según el contexto y el porcentaje de nulos].
-Corrección de valores atípicos/inconsistentes: Se utilizaron [describir método, ej: análisis estadísticos y visualizaciones (boxplots) para identificar atípicos, y se corrigieron reemplazándolos por la mediana/límites del rango intercuartílico].
+Manejo de valores faltantes: Se optó por reemplazar los valores faltantes por el de la fila anterior o por el promedio de la columna en caso de ser de tipo numérico.
+
 Estandarización de textos: Se revisaron las columnas de texto para corregir errores tipográficos y se unificaron las etiquetas en las columnas categóricas.
+
 Renombramiento de columnas: Se asignaron nombres más claros y concisos a las columnas para mejorar la legibilidad y facilitar el trabajo con el dataset.
