@@ -1,4 +1,6 @@
-# CALIDAD-DEL-AIRE-EN-PUEBLA-ANALISIS
+# REPORTE DE LIMPIEZA DE DATOS
+## CALIDAD-DEL-AIRE-EN-PUEBLA-ANALISIS
+### Por: Dilan Alejandro González Alatriste
 Este informe documenta el análisis de un conjunto de datos sobre la calidad del aire en Puebla. La base de datos proporciona información crucial para comprender los niveles de contaminantes y las condiciones ambientales en la región.
 
 Se analizó la base extraida de plataformas de pertenencia y gestión gubernamental.
